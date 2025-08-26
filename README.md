@@ -1,6 +1,6 @@
 # SI470
 
-git pull when log on
+*git pull when log on*
 
 when doing work..
 1) git add *
