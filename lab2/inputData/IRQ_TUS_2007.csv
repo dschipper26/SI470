@@ -1,0 +1,28 @@
+tier1,tier2,hours_per_day,male,female
+Sleeping,Sleeping,9.567,9.467,9.683
+Eating,Eating,1.533,1.517,1.55
+Medical care,Medical care,0.167,0.15,0.167
+Personal hygiene,Personal hygiene,0.567,0.617,0.5
+Food preparation,Food preparation,0.933,0.05,1.783
+House cleaning,House cleaning,0.767,0.033,1.5
+Caring for children,Caring for children,0.417,0.083,0.75
+Work in garden,Work in garden,0.05,0.067,0.05
+Handcrafs (domestic),Handcrafs (domestic),0.05,0.017,0.083
+Other housework,Other housework,0.833,0.267,1.383
+Work-related activity,Work-related activity,1.65,2.95,0.383
+Religious activity,Religious activity,0.7,0.7,0.683
+Commuting work,Commuting work,0.517,0.95,0.083
+Getting fuel,Getting fuel,0.05,0.067,0.033
+Vehicle maintenance,Vehicle maintenance,0.05,0.083,0
+Shopping,Shopping,0.267,0.333,0.2
+Phone calls,Phone calls,0.05,0.067,0.05
+Internet (not work or school),Internet (not work or school),0.017,0.033,0.017
+Travel to and from school,Travel to and from school,0.05,0.067,0.05
+Attending classes,Attending classes,0.433,0.5,0.367
+Homework and research,Homework and research,0.417,0.45,0.383
+Watching TV,Watching TV,2.983,3.15,2.833
+Reading,Reading,0.117,0.133,0.117
+Sports and hobbies,Sports and hobbies,0.233,0.367,0.083
+Social visits,Social visits,0.917,1.167,0.683
+Political activities,Political activities,0.017,0.017,0.017
+Other nonwork,Other nonwork,0.683,0.75,0.6

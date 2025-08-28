@@ -1,0 +1,94 @@
+,year,economicActivity,employment,hours_worked
+0,2010,Agriculture,309991260,5.954285714
+1,2010,Forestry,2508200,6.332857143000000
+2,2010,Animals husbandry,12632870,6.1857142860000000
+3,2010,Fishery,3067250,6.565714286
+4,2010,"Agriculture, forestry, animal husbandry and fishery service industry",1414280,6.534285714
+5,2010,Coal mining and washing industry,4670260,6.815714286
+6,2010,Oil and gas extraction industry,1041440,6.224285714
+7,2010,Ferrous metal mining and dressing industry,585010,6.8514285710000000
+8,2010,Non-ferrous metal mining and dressing industry ,722560,6.747142857
+9,2010,Non-metallic mining and dressing industry,884530,7.001428571
+10,2010,Other mining industries ,99220,6.721428571000000
+11,2010,Agricultural and sideline food processing industry,3755220,6.8957142860000000
+12,2010,Food manufacturing,3363100,6.971428571000000
+13,2010,Beverage manufacturing,1455310,6.717142857000000
+14,2010,Tobacco products industry,318470,6.294285714
+15,2010,Textile industry,9247160,7.29
+16,2010,"Textile, clothing, shoes and hat manufacturing",14735960,7.317142857
+17,2010,"Leather, fur, feather (velvet) and their products industry",5626050,7.458571429
+18,2010,"Wood processing and wood, bamboo, rattan, palm and grass prodoct industry",3291110,6.984285714000000
+19,2010,Furniture manufacturing,3371650,7.105714286
+20,2010,Paper and Paper Products Industry ,2106590,7.002857143
+21,2010,Printing industry and recording media,1649600,6.881428571
+22,2010,"Cultural, Educational and Sporting Goods Manufacturing ",2581740,7.027142857
+23,2010,"Petroleum processing, coking and nuclear fuel processing industry",829710,6.39
+24,2010,Chemical raw materials and chemical products manufacturing ,3955280,6.63
+25,2010,Pharmaceutical manufacturing,1485390,6.45
+26,2010,Chemical fiber manufacturing,414110,6.8957142860000000
+27,2010,Rubber products industry,1210510,7.087142857000000
+28,2010,Plastic products industry ,3415550,7.16
+29,2010,Non-metallic mineral products industry,7024340,7.074285714
+30,2010,Ferrous metal smelting and rolling processing industry,2980540,6.778571429000000
+31,2010,Non-ferrous metal smelting and rolling processing industy ,1443710,6.792857143000000
+32,2010,Metal products industry,6706340,7.134285714
+33,2010,General equipment manufacturing ,6931900,6.852857143
+34,2010,Special equipment manufacturing industry      ,4566610,6.764285714
+35,2010,Transportation equipment manufacturing industry,6264160,6.812857143
+36,2010,Electrical machinery and equipment manufacturing,6538850,6.944285714000000
+37,2010,"Communication equipment, computer and other electronic equipment manufactruing",8855790,6.838571429
+38,2010,"Instrumentation, cultural and office machinery manufacturing",1662410,6.801428571000000
+39,2010,Handicrafts and other manufacturing,3284080,6.992857143000000
+40,2010,Electricity and heat production and supply industry,3712570,6.242857143000000
+41,2010,Gas production and supply industry   ,464010,6.444285714000000
+42,2010,Water production and supply industry,750730,6.23
+43,2010,Housing and civil engineering construction industry ,28752750,7.1085714290000000
+44,2010,Construction and installation industry ,2216630,6.962857143
+45,2010,Building Decoration Industry,7098540,7.157142857
+46,2010,Other construction industry ,764130,6.945714286
+47,2010,Railway transportation industry ,2198960,6.264285714
+48,2010,Road transport industry,13443760,7.035714286
+49,2010,Urban public transportation industry ,4682110,7.3585714290000000
+50,2010,Water transportation industry,713810,6.658571429000000
+51,2010,Air transport industry,434100,6.142857143
+52,2010,Pipeline transportation industry,44650,6.42
+53,2010,"Loading, unloading, handling and other transportation services ",2126440,6.867142857
+54,2010,Warehousing industry,704800,6.6085714290000000
+55,2010,Postal industry ,875910,6.414285714
+56,2010,Telecommunications and other information transmission ,2726600,6.342857143
+57,2010,Computer Service Industry ,714700,6.6857142860000000
+58,2010,Software industry,925920,6.12
+59,2010,Wholesale industry,13330150,7.0228571430000000
+60,2010,Retail,52842640,7.1485714290000000
+61,2010,Accommodation Industry,3187550,6.908571429000000
+62,2010,Catering,16214890,7.311428571
+63,2010,Banking ,3384890,6.025714286
+64,2010,Securities Industry,339240,5.912857143000000
+65,2010,Insurance,1587820,6.198571429000000
+66,2010,Other financial activities,467560,6.184285714
+67,2010,Real estate industry,4780730,6.56
+68,2010,Leasing industry,392250,6.985714286
+69,2010,Business Service Industry,4481450,6.434285714
+70,2010,Research and experimental development,652870,5.955714286
+71,2010,Professional technical service industry,1108850,6.138571429
+72,2010,Technology exchange and promotion service industry ,215010,6.111428571
+73,2010,Geological Prospecting Industry,300280,6.162857143000000
+74,2010,Water Conservancy Management Industry,439110,6.147142857
+75,2010,Environmental Management Industry,1236830,6.555714286000000
+76,2010,Public Facilities Management Industry,979860,6.402857143000000
+77,2010,Resident Services,8152070,7.094285714
+78,2010,Education,16382190,7.015714286000000
+79,2010,Health,7976310,6.34
+80,2010,Social Security Industry ,134110,6.008571429
+81,2010,Social Welfare Industry,176000,6.484285714000000
+82,2010,Press and Publishing Industry ,537510,6.112857143000000
+83,2010,"Radio, TV, film and audiovisual industry",684720,6.151428571
+84,2010,Culture and Art Industry ,503860,5.997142857
+85,2010,Physical education,136330,6.32
+86,2010,Entertainment industry,1355650,7.154285714000000
+87,2010,Communist Party of China,214540,6.004285714
+88,2010,National institution,15112580,6.004285714
+89,2010,People's Political Consultative Conference and Democratic Parties,80520,5.934285714
+90,2010,"Mass groups, social groups and religious organizations ",526000,6.011428571000000
+91,2010,Grassroots self-government organizations,2315290,6.3585714290000000
+92,2010,International organizations ,6540,6.018571429

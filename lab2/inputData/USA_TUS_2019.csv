@@ -1,0 +1,88 @@
+tier1,tier2,hours_per_day
+Personal care activities,sleeping,8.84
+Personal care activities,grooming,0.68
+Personal care activities,health-related self care,0.08
+Personal care activities,personal activities,0.01
+Personal care activities,travel related to personal care,0.02
+Eating and drinking,eating and drinking,1.06
+Eating and drinking,travel related to eating and drinking,0.12
+Household activities,interior cleaning,0.31
+Household activities,laundry,0.18
+Household activities,"storing interior household items, including food",0.02
+Household activities,other housework,0.02
+Household activities,food and drink preparation,0.47
+Household activities,kitchen and food cleanup,0.13
+Household activities,lawn and garden care,0.17
+Household activities,financial management,0.03
+Household activities,household and personal organization and planning,0.12
+Household activities,"interior maintenance, repair, and decoration",0.06
+Household activities,"exterior maintenance, repair, and decoration",0.05
+Household activities,"care for animals and pets, not veterinary care",0.07
+Household activities,"walking, exercising, and playing with animals",0.05
+Household activities,vehicles,0.04
+Household activities,"appliances, tools, and toys",0.01
+Household activities,travel related to household activities,0.05
+Purchasing goods and services,grocery shopping,0.1
+Purchasing goods and services,other consumer goods purchases,0.25
+Purchasing goods and services,financial services and banking,0.01
+Purchasing goods and services,medical and care services,0.06
+Purchasing goods and services,personal care services,0.02
+Purchasing goods and services,"home maintenance, repair, decoration, and construction (not done by self)",0.01
+Purchasing goods and services,vehicle maintenance and repair services (not done by self),0.01
+Purchasing goods and services,government services,0
+Purchasing goods and services,travel related to purchasing goods and services,0.29
+Caring for household members,physical care for household children,0.13
+Caring for household members,reading to and with household children,0.01
+Caring for household members,talking with and listening to household children,0.02
+Caring for household members,"playing with household children, not sports",0.09
+Caring for household members,attending household children's events,0.02
+Caring for household members,other caring for and helping household children (except activities related to education and health),0.05
+Caring for household members,helping household children with homework,0.02
+Caring for household members,other activities related to household children's education,0.01
+Caring for household members,activties related to household children's health,0.01
+Caring for household members,physical care for household adults,0.01
+Caring for household members,other caring for household adults,0.02
+Caring for household members,helping household adults,0.01
+Caring for household members,travel related to caring for and helping household members,0.08
+Caring for and helping nonhousehold members,caring for and helping nonhousehold children,0.07
+Caring for and helping nonhousehold members,caring for nonhousehold adults,0.01
+Caring for and helping nonhousehold members,helping nonhousehold adults,0.05
+Caring for and helping nonhousehold members,travel related to caring for and helping nonhousehold members,0.05
+Working and work-related activities,working,3.26
+Working and work-related activities,work-related activities,0
+Working and work-related activities,other income-generating activities,0.04
+Working and work-related activities,job search and interviewing,0.03
+Working and work-related activities,travel related to work,0.28
+Educational activities,"taking class for degree, certificate, or licensure",0.22
+Educational activities,other attending class,0.02
+Educational activities,homework and research,0.19
+Educational activities,travel related to education,0.03
+"Organizational, civic, and religious activities",attending religious services,0.08
+"Organizational, civic, and religious activities",participating in religious practices,0.04
+"Organizational, civic, and religious activities",other religious and spiritual activities,0.02
+"Organizational, civic, and religious activities",administrative and support activities,0.03
+"Organizational, civic, and religious activities",social service and care activities (except medical),0.04
+"Organizational, civic, and religious activities","indoor and outdoor maintenance, building, and cleanup activities",0.01
+"Organizational, civic, and religious activities",participating in performance and cultural activities,0.01
+"Organizational, civic, and religious activities","attending meetings, conferences, and training",0.02
+"Organizational, civic, and religious activities",other volunteer activities,0.02
+"Organizational, civic, and religious activities",civic obligations and participation,0
+"Organizational, civic, and religious activities","travel related to organizational, civic, and religious activities",0.04
+Leisure and sports,socializing and communicating (except social events),0.58
+Leisure and sports,attending or hosting social events,0.06
+Leisure and sports,watching TV,2.81
+Leisure and sports,relaxing and thinking,0.31
+Leisure and sports,playing games,0.26
+Leisure and sports,"computer use for leisure, excluding games",0.17
+Leisure and sports,reading for personal interest,0.27
+Leisure and sports,other relaxing and leisure,0.1
+Leisure and sports,arts and entertainment (other than sports),0.08
+Leisure and sports,walking,0.06
+Leisure and sports,"other participating in sports, exercise, and recreation",0.25
+Leisure and sports,attending sporting or recreational events,0.03
+Leisure and sports,travel related to leisure and sports,0.21
+"Telephone calls, mail, and e-mail",telephone calls (to or from),0.11
+"Telephone calls, mail, and e-mail",household and personal mail and messages,0.02
+"Telephone calls, mail, and e-mail",household and personal e-mail and messages,0.03
+"Telephone calls, mail, and e-mail",travel related to telephone calls,0
+"Other activities, not elsewhere classified","Other activities, not elsewhere classified",0.28

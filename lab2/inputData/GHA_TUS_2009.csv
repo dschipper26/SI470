@@ -1,0 +1,16 @@
+tier1,tier2,hours_per_day
+SNA Activities,"Work for corporations/quasi corporations, non-profit institutions and government (formal sector work)",0.7
+SNA Activities,Work for household in primary production activities,1.533
+SNA Activities,Work for household in non-primary production activities,0.467
+SNA Activities,Work for household in construction activities,0.083
+SNA Activities,Work for household providing services for income,1.483
+Non-SNA Activities,Providing unpaid domestic services for own final use within household,1.733
+Non-SNA Activities,Providing unpaid care-giving services to household members,0.583
+Non-SNA Activities,Providing community services and help to other households,0.233
+Learning,Learning,1.567
+Other Non-productive Activities,Socializing and community participation,1.733
+Other Non-productive Activities,"Attending/visiting cultural, entertainment and sports events/venues",0.05
+Other Non-productive Activities,"Hobbies, games and other pastime activities",0.15
+Other Non-productive Activities,Indoor and outdoor sports participation and related courses,0.167
+Other Non-productive Activities,Mass media,1.333
+Other Non-productive Activities,Personal care and maintenance,12.033

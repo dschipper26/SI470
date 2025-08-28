@@ -1,0 +1,21 @@
+tier1,tier2,hours_per_day
+Personal time,Sleeping (includes taking a nap),8.6667
+Personal time,"Washing, bathing and dressing etc",0.8833
+Personal time,Eating a meal (includes eating a night snack),1.4167
+Duty time,Commuting,0.4667
+Duty time,Working (includes overtime and part-time jobs),4.3667
+Duty time,Going to school (includes student counselling),0.55
+Duty time,Domestic activities,1.45
+Duty time,Purchasing goods,0.2833
+Free time,"Researching, taking lessons after school or work or doing homework",0.3667
+Free time,Watching TV,2.25
+Free time,"Reading newspapers, magazines or surfing the internet",0.65
+Free time,Listening to radio and music,0.1167
+Free time,Sports,0.35
+Free time,"Going for an outing, barbecue and outdoor activities",0.25
+Free time,"Watching movies, singing KTV, strolling around the street and watching exhibitions",0.2833
+Free time,"Reading leisure books, playing chess and other amusements",0.2167
+Free time,Religion activities,0.1
+Free time,Public services activities,0.0333
+Free time,Resting and relaxing,0.5833
+Free time,Others,0.7

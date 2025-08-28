@@ -1,0 +1,2255 @@
+year,economicActivity,employment,hours_worked
+1997,Crop and animal production,426795,5.871
+1998,Crop and animal production,416130,5.926
+1999,Crop and animal production,402220,5.789
+2000,Crop and animal production,370360,5.803
+2001,Crop and animal production,338810,5.805
+2002,Crop and animal production,344905,5.614
+2003,Crop and animal production,341810,5.655
+2004,Crop and animal production,334940,5.751
+2005,Crop and animal production,336785,5.74
+2006,Crop and animal production,329655,5.688
+2007,Crop and animal production,330295,5.674
+2008,Crop and animal production,320905,5.649
+2009,Crop and animal production,319085,5.584
+2010,Crop and animal production,314105,5.471
+2011,Crop and animal production,317035,5.438
+2012,Crop and animal production,313380,5.532
+2013,Crop and animal production,329245,5.501
+2014,Crop and animal production,303615,5.523
+2015,Crop and animal production,298270,5.584
+2016,Crop and animal production,307370,5.463
+2017,Crop and animal production,306930,5.381
+2018,Crop and animal production,299065,5.247
+2019,Crop and animal production,301595,5.249
+1997,Forestry and logging,66765,5.819
+1998,Forestry and logging,62370,5.773
+1999,Forestry and logging,65825,5.805
+2000,Forestry and logging,62415,5.874
+2001,Forestry and logging,58515,5.868
+2002,Forestry and logging,58700,5.762
+2003,Forestry and logging,56625,5.844
+2004,Forestry and logging,57065,5.937
+2005,Forestry and logging,56985,5.803
+2006,Forestry and logging,49920,5.937
+2007,Forestry and logging,44955,5.973
+2008,Forestry and logging,41575,5.841
+2009,Forestry and logging,35050,5.784
+2010,Forestry and logging,35070,5.748
+2011,Forestry and logging,36285,5.781
+2012,Forestry and logging,32655,5.836
+2013,Forestry and logging,32595,5.986
+2014,Forestry and logging,31750,5.934
+2015,Forestry and logging,31955,6.063
+2016,Forestry and logging,33185,6.011
+2017,Forestry and logging,32400,5.795
+2018,Forestry and logging,32845,5.94
+2019,Forestry and logging,30545,5.888
+1997,"Fishing, hunting and trapping",19255,6.827
+1998,"Fishing, hunting and trapping",19390,6.816
+1999,"Fishing, hunting and trapping",18825,6.932
+2000,"Fishing, hunting and trapping",17740,6.964
+2001,"Fishing, hunting and trapping",16470,7.09
+2002,"Fishing, hunting and trapping",18190,6.945
+2003,"Fishing, hunting and trapping",18075,6.795
+2004,"Fishing, hunting and trapping",17350,6.781
+2005,"Fishing, hunting and trapping",17695,6.726
+2006,"Fishing, hunting and trapping",17300,6.907
+2007,"Fishing, hunting and trapping",15205,6.564
+2008,"Fishing, hunting and trapping",14075,6.644
+2009,"Fishing, hunting and trapping",12270,6.581
+2010,"Fishing, hunting and trapping",12430,6.759
+2011,"Fishing, hunting and trapping",12445,6.677
+2012,"Fishing, hunting and trapping",13245,6.521
+2013,"Fishing, hunting and trapping",13325,6.523
+2014,"Fishing, hunting and trapping",13645,6.592
+2015,"Fishing, hunting and trapping",12945,6.838
+2016,"Fishing, hunting and trapping",12735,6.466
+2017,"Fishing, hunting and trapping",13400,6.562
+2018,"Fishing, hunting and trapping",13245,6.559
+2019,"Fishing, hunting and trapping",12935,6.534
+1997,Support activities for agriculture and forestry,43725,4.866
+1998,Support activities for agriculture and forestry,45540,4.959
+1999,Support activities for agriculture and forestry,44500,4.923
+2000,Support activities for agriculture and forestry,39935,4.992
+2001,Support activities for agriculture and forestry,37110,5.033
+2002,Support activities for agriculture and forestry,39120,4.948
+2003,Support activities for agriculture and forestry,40920,4.923
+2004,Support activities for agriculture and forestry,39465,5.079
+2005,Support activities for agriculture and forestry,39435,5.025
+2006,Support activities for agriculture and forestry,39825,5.06
+2007,Support activities for agriculture and forestry,38165,5.038
+2008,Support activities for agriculture and forestry,38035,5.003
+2009,Support activities for agriculture and forestry,36200,5.06
+2010,Support activities for agriculture and forestry,35340,5.077
+2011,Support activities for agriculture and forestry,35660,5.005
+2012,Support activities for agriculture and forestry,33920,5.178
+2013,Support activities for agriculture and forestry,34845,5.159
+2014,Support activities for agriculture and forestry,36265,5.11
+2015,Support activities for agriculture and forestry,37270,5.068
+2016,Support activities for agriculture and forestry,40895,5.055
+2017,Support activities for agriculture and forestry,40890,5.214
+2018,Support activities for agriculture and forestry,41930,5.025
+2019,Support activities for agriculture and forestry,40945,4.997
+1997,Oil and gas extraction,33480,5.997
+1998,Oil and gas extraction,31085,5.658
+1999,Oil and gas extraction,32895,5.693
+2000,Oil and gas extraction,34390,5.868
+2001,Oil and gas extraction,41885,5.923
+2002,Oil and gas extraction,39880,5.803
+2003,Oil and gas extraction,45935,5.855
+2004,Oil and gas extraction,50585,5.849
+2005,Oil and gas extraction,59930,5.984
+2006,Oil and gas extraction,66050,5.838
+2007,Oil and gas extraction,77565,5.775
+2008,Oil and gas extraction,78725,5.764
+2009,Oil and gas extraction,79310,5.619
+2010,Oil and gas extraction,77755,5.822
+2011,Oil and gas extraction,87160,5.797
+2012,Oil and gas extraction,90170,5.882
+2013,Oil and gas extraction,85460,5.844
+2014,Oil and gas extraction,81080,5.912
+2015,Oil and gas extraction,77415,5.847
+2016,Oil and gas extraction,66810,5.69
+2017,Oil and gas extraction,72235,5.77
+2018,Oil and gas extraction,73080,5.879
+2019,Oil and gas extraction,72770,5.847
+1997,Mining and quarrying (except oil and gas),61900,5.647
+1998,Mining and quarrying (except oil and gas),55520,5.726
+1999,Mining and quarrying (except oil and gas),50500,5.71
+2000,Mining and quarrying (except oil and gas),49410,5.655
+2001,Mining and quarrying (except oil and gas),47920,5.726
+2002,Mining and quarrying (except oil and gas),44925,5.83
+2003,Mining and quarrying (except oil and gas),41915,5.729
+2004,Mining and quarrying (except oil and gas),43525,5.871
+2005,Mining and quarrying (except oil and gas),47380,5.855
+2006,Mining and quarrying (except oil and gas),52350,5.847
+2007,Mining and quarrying (except oil and gas),50950,5.756
+2008,Mining and quarrying (except oil and gas),55105,5.901
+2009,Mining and quarrying (except oil and gas),50160,5.803
+2010,Mining and quarrying (except oil and gas),53805,5.863
+2011,Mining and quarrying (except oil and gas),56045,5.945
+2012,Mining and quarrying (except oil and gas),55980,5.964
+2013,Mining and quarrying (except oil and gas),70130,6.049
+2014,Mining and quarrying (except oil and gas),69170,5.921
+2015,Mining and quarrying (except oil and gas),63110,5.934
+2016,Mining and quarrying (except oil and gas),68575,5.888
+2017,Mining and quarrying (except oil and gas),70685,5.929
+2018,Mining and quarrying (except oil and gas),73585,5.893
+2019,Mining and quarrying (except oil and gas),74245,6.066
+1997,Support activities for mining and oil and gas extraction,50400,6.868
+1998,Support activities for mining and oil and gas extraction,49695,6.263
+1999,Support activities for mining and oil and gas extraction,43170,6.392
+2000,Support activities for mining and oil and gas extraction,51035,6.855
+2001,Support activities for mining and oil and gas extraction,54070,6.896
+2002,Support activities for mining and oil and gas extraction,54550,6.545
+2003,Support activities for mining and oil and gas extraction,56880,6.921
+2004,Support activities for mining and oil and gas extraction,63200,6.951
+2005,Support activities for mining and oil and gas extraction,67300,6.89
+2006,Support activities for mining and oil and gas extraction,83710,6.751
+2007,Support activities for mining and oil and gas extraction,78735,6.647
+2008,Support activities for mining and oil and gas extraction,86510,6.616
+2009,Support activities for mining and oil and gas extraction,81015,6.203
+2010,Support activities for mining and oil and gas extraction,88225,6.562
+2011,Support activities for mining and oil and gas extraction,99020,6.71
+2012,Support activities for mining and oil and gas extraction,109335,6.605
+2013,Support activities for mining and oil and gas extraction,114490,6.436
+2014,Support activities for mining and oil and gas extraction,112765,6.578
+2015,Support activities for mining and oil and gas extraction,89605,6.159
+2016,Support activities for mining and oil and gas extraction,73375,6.225
+2017,Support activities for mining and oil and gas extraction,81755,6.54
+2018,Support activities for mining and oil and gas extraction,91080,6.329
+2019,Support activities for mining and oil and gas extraction,87520,6.293
+1997,"Electric power generation, transmission and distribution",80825,5.148
+1998,"Electric power generation, transmission and distribution",82670,5.233
+1999,"Electric power generation, transmission and distribution",82090,5.082
+2000,"Electric power generation, transmission and distribution",82695,5.121
+2001,"Electric power generation, transmission and distribution",82700,5.074
+2002,"Electric power generation, transmission and distribution",79920,5.099
+2003,"Electric power generation, transmission and distribution",84970,5.101
+2004,"Electric power generation, transmission and distribution",88045,5.027
+2005,"Electric power generation, transmission and distribution",88525,5.11
+2006,"Electric power generation, transmission and distribution",88665,5.038
+2007,"Electric power generation, transmission and distribution",90480,5.068
+2008,"Electric power generation, transmission and distribution",93605,5.126
+2009,"Electric power generation, transmission and distribution",93065,5.175
+2010,"Electric power generation, transmission and distribution",97030,5.247
+2011,"Electric power generation, transmission and distribution",106515,5.173
+2012,"Electric power generation, transmission and distribution",100380,5.041
+2013,"Electric power generation, transmission and distribution",97490,5.142
+2014,"Electric power generation, transmission and distribution",94460,5.115
+2015,"Electric power generation, transmission and distribution",95710,5.126
+2016,"Electric power generation, transmission and distribution",97030,5.036
+2017,"Electric power generation, transmission and distribution",96755,5.112
+2018,"Electric power generation, transmission and distribution",96445,5.156
+2019,"Electric power generation, transmission and distribution",97430,5.099
+1997,"Natural gas distribution, water, sewage and other systems",26260,4.981
+1998,"Natural gas distribution, water, sewage and other systems",26635,5.014
+1999,"Natural gas distribution, water, sewage and other systems",27935,4.923
+2000,"Natural gas distribution, water, sewage and other systems",27390,5.022
+2001,"Natural gas distribution, water, sewage and other systems",28870,4.984
+2002,"Natural gas distribution, water, sewage and other systems",30195,5.041
+2003,"Natural gas distribution, water, sewage and other systems",29685,5.137
+2004,"Natural gas distribution, water, sewage and other systems",30160,5.145
+2005,"Natural gas distribution, water, sewage and other systems",30490,5.14
+2006,"Natural gas distribution, water, sewage and other systems",32485,5.068
+2007,"Natural gas distribution, water, sewage and other systems",31495,5.077
+2008,"Natural gas distribution, water, sewage and other systems",29070,5.11
+2009,"Natural gas distribution, water, sewage and other systems",29810,5.184
+2010,"Natural gas distribution, water, sewage and other systems",31745,5.047
+2011,"Natural gas distribution, water, sewage and other systems",30390,5.142
+2012,"Natural gas distribution, water, sewage and other systems",28990,4.951
+2013,"Natural gas distribution, water, sewage and other systems",25945,5.058
+2014,"Natural gas distribution, water, sewage and other systems",26605,4.967
+2015,"Natural gas distribution, water, sewage and other systems",26755,5.025
+2016,"Natural gas distribution, water, sewage and other systems",26435,5.041
+2017,"Natural gas distribution, water, sewage and other systems",24605,4.962
+2018,"Natural gas distribution, water, sewage and other systems",24590,4.986
+2019,"Natural gas distribution, water, sewage and other systems",24755,4.959
+1997,Residential building construction,273975,5.4
+1998,Residential building construction,275575,5.452
+1999,Residential building construction,267505,5.477
+2000,Residential building construction,283720,5.488
+2001,Residential building construction,290770,5.444
+2002,Residential building construction,325515,5.436
+2003,Residential building construction,347945,5.353
+2004,Residential building construction,370635,5.46
+2005,Residential building construction,388780,5.395
+2006,Residential building construction,405515,5.356
+2007,Residential building construction,428830,5.397
+2008,Residential building construction,440685,5.397
+2009,Residential building construction,392865,5.29
+2010,Residential building construction,423210,5.34
+2011,Residential building construction,419225,5.299
+2012,Residential building construction,465000,5.364
+2013,Residential building construction,473115,5.337
+2014,Residential building construction,475455,5.318
+2015,Residential building construction,478400,5.342
+2016,Residential building construction,497140,5.315
+2017,Residential building construction,526920,5.26
+2018,Residential building construction,546940,5.31
+2019,Residential building construction,546210,5.255
+1997,Non-residential building construction,163275,5.441
+1998,Non-residential building construction,161765,5.49
+1999,Non-residential building construction,186215,5.504
+2000,Non-residential building construction,178625,5.488
+2001,Non-residential building construction,166445,5.43
+2002,Non-residential building construction,171835,5.466
+2003,Non-residential building construction,164885,5.37
+2004,Non-residential building construction,170500,5.447
+2005,Non-residential building construction,174285,5.43
+2006,Non-residential building construction,193245,5.411
+2007,Non-residential building construction,197780,5.441
+2008,Non-residential building construction,219705,5.474
+2009,Non-residential building construction,205425,5.386
+2010,Non-residential building construction,207235,5.411
+2011,Non-residential building construction,219000,5.405
+2012,Non-residential building construction,222060,5.46
+2013,Non-residential building construction,216285,5.405
+2014,Non-residential building construction,213370,5.389
+2015,Non-residential building construction,215340,5.389
+2016,Non-residential building construction,198255,5.378
+2017,Non-residential building construction,207210,5.293
+2018,Non-residential building construction,225105,5.348
+2019,Non-residential building construction,234255,5.29
+1997,Engineering construction,183865,5.688
+1998,Engineering construction,177460,5.647
+1999,Engineering construction,178610,5.682
+2000,Engineering construction,189720,5.649
+2001,Engineering construction,205720,5.729
+2002,Engineering construction,192740,5.671
+2003,Engineering construction,204210,5.595
+2004,Engineering construction,213115,5.677
+2005,Engineering construction,247750,5.685
+2006,Engineering construction,271830,5.658
+2007,Engineering construction,291335,5.721
+2008,Engineering construction,330615,5.732
+2009,Engineering construction,308060,5.608
+2010,Engineering construction,358470,5.638
+2011,Engineering construction,387050,5.688
+2012,Engineering construction,421850,5.748
+2013,Engineering construction,453560,5.745
+2014,Engineering construction,464095,5.775
+2015,Engineering construction,443190,5.715
+2016,Engineering construction,388440,5.633
+2017,Engineering construction,390825,5.658
+2018,Engineering construction,397900,5.611
+2019,Engineering construction,401315,5.534
+1997,Repair construction,172295,5.304
+1998,Repair construction,187710,5.367
+1999,Repair construction,194255,5.416
+2000,Repair construction,193935,5.408
+2001,Repair construction,200630,5.329
+2002,Repair construction,203195,5.34
+2003,Repair construction,200865,5.299
+2004,Repair construction,204255,5.381
+2005,Repair construction,207950,5.31
+2006,Repair construction,208385,5.29
+2007,Repair construction,230430,5.318
+2008,Repair construction,233220,5.345
+2009,Repair construction,246545,5.274
+2010,Repair construction,240120,5.271
+2011,Repair construction,238905,5.312
+2012,Repair construction,244510,5.263
+2013,Repair construction,247920,5.233
+2014,Repair construction,262215,5.247
+2015,Repair construction,277590,5.244
+2016,Repair construction,279865,5.233
+2017,Repair construction,294140,5.216
+2018,Repair construction,302300,5.279
+2019,Repair construction,313485,5.23
+1997,Other activities of the construction industry,5870,5.214
+1998,Other activities of the construction industry,5845,5.288
+1999,Other activities of the construction industry,5380,5.312
+2000,Other activities of the construction industry,6110,5.405
+2001,Other activities of the construction industry,7520,5.408
+2002,Other activities of the construction industry,8325,5.381
+2003,Other activities of the construction industry,8475,5.348
+2004,Other activities of the construction industry,8960,5.474
+2005,Other activities of the construction industry,9355,5.353
+2006,Other activities of the construction industry,9470,5.31
+2007,Other activities of the construction industry,7985,5.405
+2008,Other activities of the construction industry,8980,5.342
+2009,Other activities of the construction industry,11215,5.159
+2010,Other activities of the construction industry,11505,5.211
+2011,Other activities of the construction industry,12145,5.137
+2012,Other activities of the construction industry,12840,5.252
+2013,Other activities of the construction industry,13965,5.162
+2014,Other activities of the construction industry,14080,5.148
+2015,Other activities of the construction industry,15505,5.222
+2016,Other activities of the construction industry,14670,5.175
+2017,Other activities of the construction industry,14595,5.112
+2018,Other activities of the construction industry,15475,5.148
+2019,Other activities of the construction industry,15915,5.173
+1997,Food manufacturing,207130,5.255
+1998,Food manufacturing,207650,5.23
+1999,Food manufacturing,209070,5.258
+2000,Food manufacturing,194960,5.255
+2001,Food manufacturing,202400,5.255
+2002,Food manufacturing,204140,5.195
+2003,Food manufacturing,216530,5.178
+2004,Food manufacturing,216170,5.159
+2005,Food manufacturing,220100,5.181
+2006,Food manufacturing,223075,5.2
+2007,Food manufacturing,218780,5.227
+2008,Food manufacturing,220350,5.255
+2009,Food manufacturing,227550,5.145
+2010,Food manufacturing,233020,5.189
+2011,Food manufacturing,235875,5.148
+2012,Food manufacturing,237605,5.145
+2013,Food manufacturing,227275,5.173
+2014,Food manufacturing,219345,5.156
+2015,Food manufacturing,215460,5.175
+2016,Food manufacturing,223930,5.167
+2017,Food manufacturing,239140,5.079
+2018,Food manufacturing,243585,5.173
+2019,Food manufacturing,254360,5.151
+1997,Beverage and tobacco product manufacturing,29870,5.43
+1998,Beverage and tobacco product manufacturing,29400,5.345
+1999,Beverage and tobacco product manufacturing,26595,5.23
+2000,Beverage and tobacco product manufacturing,25040,5.29
+2001,Beverage and tobacco product manufacturing,24160,5.332
+2002,Beverage and tobacco product manufacturing,28215,5.129
+2003,Beverage and tobacco product manufacturing,29690,5.211
+2004,Beverage and tobacco product manufacturing,30640,5.307
+2005,Beverage and tobacco product manufacturing,29735,5.375
+2006,Beverage and tobacco product manufacturing,30745,5.255
+2007,Beverage and tobacco product manufacturing,33050,5.205
+2008,Beverage and tobacco product manufacturing,34195,5.093
+2009,Beverage and tobacco product manufacturing,34995,5.055
+2010,Beverage and tobacco product manufacturing,34545,5.156
+2011,Beverage and tobacco product manufacturing,35330,5.121
+2012,Beverage and tobacco product manufacturing,37590,5.222
+2013,Beverage and tobacco product manufacturing,37040,5.137
+2014,Beverage and tobacco product manufacturing,39245,5.118
+2015,Beverage and tobacco product manufacturing,38035,5.058
+2016,Beverage and tobacco product manufacturing,41240,5.063
+2017,Beverage and tobacco product manufacturing,42945,5.101
+2018,Beverage and tobacco product manufacturing,45265,5.014
+2019,Beverage and tobacco product manufacturing,50260,5.055
+1997,Textile and textile product mills,45210,5.512
+1998,Textile and textile product mills,47075,5.353
+1999,Textile and textile product mills,45885,5.422
+2000,Textile and textile product mills,47975,5.378
+2001,Textile and textile product mills,46825,5.342
+2002,Textile and textile product mills,45845,5.414
+2003,Textile and textile product mills,43300,5.263
+2004,Textile and textile product mills,43210,5.211
+2005,Textile and textile product mills,40240,5.214
+2006,Textile and textile product mills,34860,5.296
+2007,Textile and textile product mills,31075,5.11
+2008,Textile and textile product mills,24590,5.271
+2009,Textile and textile product mills,21510,5.142
+2010,Textile and textile product mills,21190,5.033
+2011,Textile and textile product mills,20620,4.997
+2012,Textile and textile product mills,19550,5.044
+2013,Textile and textile product mills,18835,5.068
+2014,Textile and textile product mills,19790,5.014
+2015,Textile and textile product mills,19365,5.079
+2016,Textile and textile product mills,19670,5.096
+2017,Textile and textile product mills,18475,5.088
+2018,Textile and textile product mills,17770,5.088
+2019,Textile and textile product mills,17940,4.937
+1997,Clothing and leather and allied product manufacturing,103140,5.263
+1998,Clothing and leather and allied product manufacturing,101850,5.23
+1999,Clothing and leather and allied product manufacturing,100700,5.219
+2000,Clothing and leather and allied product manufacturing,109945,5.214
+2001,Clothing and leather and allied product manufacturing,105015,5.219
+2002,Clothing and leather and allied product manufacturing,98320,5.107
+2003,Clothing and leather and allied product manufacturing,92255,5.063
+2004,Clothing and leather and allied product manufacturing,81810,5.151
+2005,Clothing and leather and allied product manufacturing,70955,5.101
+2006,Clothing and leather and allied product manufacturing,64700,4.97
+2007,Clothing and leather and allied product manufacturing,56700,4.995
+2008,Clothing and leather and allied product manufacturing,45305,4.975
+2009,Clothing and leather and allied product manufacturing,39430,4.904
+2010,Clothing and leather and allied product manufacturing,34550,5.005
+2011,Clothing and leather and allied product manufacturing,33880,4.871
+2012,Clothing and leather and allied product manufacturing,29070,4.882
+2013,Clothing and leather and allied product manufacturing,26955,4.926
+2014,Clothing and leather and allied product manufacturing,28275,4.929
+2015,Clothing and leather and allied product manufacturing,26940,4.978
+2016,Clothing and leather and allied product manufacturing,25835,4.91
+2017,Clothing and leather and allied product manufacturing,24610,4.934
+2018,Clothing and leather and allied product manufacturing,23700,4.838
+2019,Clothing and leather and allied product manufacturing,24085,4.893
+1997,Wood product manufacturing,153260,5.458
+1998,Wood product manufacturing,147570,5.397
+1999,Wood product manufacturing,162890,5.419
+2000,Wood product manufacturing,156180,5.411
+2001,Wood product manufacturing,147820,5.408
+2002,Wood product manufacturing,151340,5.397
+2003,Wood product manufacturing,148580,5.384
+2004,Wood product manufacturing,159260,5.356
+2005,Wood product manufacturing,150590,5.348
+2006,Wood product manufacturing,133810,5.342
+2007,Wood product manufacturing,113195,5.312
+2008,Wood product manufacturing,100495,5.301
+2009,Wood product manufacturing,86345,5.181
+2010,Wood product manufacturing,90880,5.321
+2011,Wood product manufacturing,86400,5.274
+2012,Wood product manufacturing,88170,5.285
+2013,Wood product manufacturing,91390,5.329
+2014,Wood product manufacturing,90625,5.299
+2015,Wood product manufacturing,91080,5.395
+2016,Wood product manufacturing,96610,5.321
+2017,Wood product manufacturing,98655,5.252
+2018,Wood product manufacturing,99215,5.315
+2019,Wood product manufacturing,96655,5.312
+1997,Paper manufacturing,104710,5.378
+1998,Paper manufacturing,100780,5.422
+1999,Paper manufacturing,98250,5.381
+2000,Paper manufacturing,105870,5.345
+2001,Paper manufacturing,104105,5.386
+2002,Paper manufacturing,96120,5.337
+2003,Paper manufacturing,91770,5.285
+2004,Paper manufacturing,90490,5.386
+2005,Paper manufacturing,89625,5.214
+2006,Paper manufacturing,82700,5.301
+2007,Paper manufacturing,77820,5.318
+2008,Paper manufacturing,70215,5.312
+2009,Paper manufacturing,64660,5.222
+2010,Paper manufacturing,64210,5.31
+2011,Paper manufacturing,60180,5.307
+2012,Paper manufacturing,57795,5.244
+2013,Paper manufacturing,58085,5.345
+2014,Paper manufacturing,58015,5.282
+2015,Paper manufacturing,57050,5.271
+2016,Paper manufacturing,54415,5.359
+2017,Paper manufacturing,56230,5.329
+2018,Paper manufacturing,56150,5.362
+2019,Paper manufacturing,52765,5.34
+1997,Printing and related support activities,80115,5.249
+1998,Printing and related support activities,78350,5.386
+1999,Printing and related support activities,78430,5.353
+2000,Printing and related support activities,82230,5.315
+2001,Printing and related support activities,91115,5.241
+2002,Printing and related support activities,87620,5.271
+2003,Printing and related support activities,88405,5.241
+2004,Printing and related support activities,86120,5.285
+2005,Printing and related support activities,85530,5.244
+2006,Printing and related support activities,82155,5.189
+2007,Printing and related support activities,82805,5.132
+2008,Printing and related support activities,76265,5.079
+2009,Printing and related support activities,67180,5.038
+2010,Printing and related support activities,63945,5.118
+2011,Printing and related support activities,62750,5.019
+2012,Printing and related support activities,61015,5.055
+2013,Printing and related support activities,58165,5.214
+2014,Printing and related support activities,57050,5.132
+2015,Printing and related support activities,54750,5.052
+2016,Printing and related support activities,54495,5.003
+2017,Printing and related support activities,51770,5.134
+2018,Printing and related support activities,52320,5.052
+2019,Printing and related support activities,53140,4.863
+1997,Petroleum and coal product manufacturing,6230,5.485
+1998,Petroleum and coal product manufacturing,4545,5.762
+1999,Petroleum and coal product manufacturing,7040,5.534
+2000,Petroleum and coal product manufacturing,6750,5.444
+2001,Petroleum and coal product manufacturing,8540,5.589
+2002,Petroleum and coal product manufacturing,7955,5.581
+2003,Petroleum and coal product manufacturing,10140,5.644
+2004,Petroleum and coal product manufacturing,11300,5.534
+2005,Petroleum and coal product manufacturing,11860,5.425
+2006,Petroleum and coal product manufacturing,12350,5.66
+2007,Petroleum and coal product manufacturing,14830,5.556
+2008,Petroleum and coal product manufacturing,16015,5.573
+2009,Petroleum and coal product manufacturing,16305,5.493
+2010,Petroleum and coal product manufacturing,16900,5.493
+2011,Petroleum and coal product manufacturing,16525,5.644
+2012,Petroleum and coal product manufacturing,15860,5.573
+2013,Petroleum and coal product manufacturing,12575,5.597
+2014,Petroleum and coal product manufacturing,12440,5.542
+2015,Petroleum and coal product manufacturing,12965,5.556
+2016,Petroleum and coal product manufacturing,13190,5.463
+2017,Petroleum and coal product manufacturing,14645,5.488
+2018,Petroleum and coal product manufacturing,15710,5.395
+2019,Petroleum and coal product manufacturing,16070,5.66
+1997,Chemical manufacturing,88380,5.433
+1998,Chemical manufacturing,85220,5.395
+1999,Chemical manufacturing,84600,5.427
+2000,Chemical manufacturing,78555,5.427
+2001,Chemical manufacturing,82745,5.364
+2002,Chemical manufacturing,85940,5.29
+2003,Chemical manufacturing,93285,5.312
+2004,Chemical manufacturing,89865,5.362
+2005,Chemical manufacturing,87555,5.312
+2006,Chemical manufacturing,88205,5.37
+2007,Chemical manufacturing,82350,5.362
+2008,Chemical manufacturing,84185,5.332
+2009,Chemical manufacturing,81725,5.299
+2010,Chemical manufacturing,83415,5.4
+2011,Chemical manufacturing,84265,5.255
+2012,Chemical manufacturing,83390,5.378
+2013,Chemical manufacturing,81010,5.29
+2014,Chemical manufacturing,85205,5.304
+2015,Chemical manufacturing,88785,5.337
+2016,Chemical manufacturing,88490,5.266
+2017,Chemical manufacturing,91320,5.211
+2018,Chemical manufacturing,89635,5.296
+2019,Chemical manufacturing,92520,5.208
+1997,Plastics and rubber products manufacturing,106075,5.452
+1998,Plastics and rubber products manufacturing,108705,5.515
+1999,Plastics and rubber products manufacturing,109770,5.436
+2000,Plastics and rubber products manufacturing,118570,5.425
+2001,Plastics and rubber products manufacturing,122260,5.414
+2002,Plastics and rubber products manufacturing,128195,5.414
+2003,Plastics and rubber products manufacturing,131065,5.384
+2004,Plastics and rubber products manufacturing,129035,5.345
+2005,Plastics and rubber products manufacturing,128885,5.359
+2006,Plastics and rubber products manufacturing,119525,5.34
+2007,Plastics and rubber products manufacturing,115755,5.405
+2008,Plastics and rubber products manufacturing,107790,5.356
+2009,Plastics and rubber products manufacturing,92430,5.263
+2010,Plastics and rubber products manufacturing,94690,5.392
+2011,Plastics and rubber products manufacturing,97215,5.422
+2012,Plastics and rubber products manufacturing,96070,5.4
+2013,Plastics and rubber products manufacturing,93005,5.389
+2014,Plastics and rubber products manufacturing,99370,5.359
+2015,Plastics and rubber products manufacturing,102000,5.375
+2016,Plastics and rubber products manufacturing,103155,5.329
+2017,Plastics and rubber products manufacturing,102970,5.175
+2018,Plastics and rubber products manufacturing,101860,5.359
+2019,Plastics and rubber products manufacturing,102470,5.271
+1997,Non-metallic mineral product manufacturing,46275,5.567
+1998,Non-metallic mineral product manufacturing,48115,5.562
+1999,Non-metallic mineral product manufacturing,45600,5.551
+2000,Non-metallic mineral product manufacturing,47785,5.49
+2001,Non-metallic mineral product manufacturing,49505,5.408
+2002,Non-metallic mineral product manufacturing,50235,5.463
+2003,Non-metallic mineral product manufacturing,52890,5.452
+2004,Non-metallic mineral product manufacturing,53340,5.518
+2005,Non-metallic mineral product manufacturing,54600,5.436
+2006,Non-metallic mineral product manufacturing,55410,5.534
+2007,Non-metallic mineral product manufacturing,55830,5.523
+2008,Non-metallic mineral product manufacturing,53470,5.427
+2009,Non-metallic mineral product manufacturing,50115,5.408
+2010,Non-metallic mineral product manufacturing,52370,5.433
+2011,Non-metallic mineral product manufacturing,52025,5.581
+2012,Non-metallic mineral product manufacturing,52750,5.529
+2013,Non-metallic mineral product manufacturing,52945,5.504
+2014,Non-metallic mineral product manufacturing,50920,5.367
+2015,Non-metallic mineral product manufacturing,54085,5.458
+2016,Non-metallic mineral product manufacturing,52205,5.447
+2017,Non-metallic mineral product manufacturing,53830,5.348
+2018,Non-metallic mineral product manufacturing,53615,5.515
+2019,Non-metallic mineral product manufacturing,54210,5.389
+1997,Primary metal manufacturing,85650,5.523
+1998,Primary metal manufacturing,87655,5.46
+1999,Primary metal manufacturing,83835,5.43
+2000,Primary metal manufacturing,84355,5.411
+2001,Primary metal manufacturing,73420,5.34
+2002,Primary metal manufacturing,81350,5.427
+2003,Primary metal manufacturing,79960,5.304
+2004,Primary metal manufacturing,81005,5.433
+2005,Primary metal manufacturing,78665,5.342
+2006,Primary metal manufacturing,80585,5.373
+2007,Primary metal manufacturing,79950,5.51
+2008,Primary metal manufacturing,79005,5.389
+2009,Primary metal manufacturing,61785,5.26
+2010,Primary metal manufacturing,67785,5.34
+2011,Primary metal manufacturing,74055,5.416
+2012,Primary metal manufacturing,65340,5.427
+2013,Primary metal manufacturing,65130,5.312
+2014,Primary metal manufacturing,63780,5.452
+2015,Primary metal manufacturing,64050,5.444
+2016,Primary metal manufacturing,62755,5.46
+2017,Primary metal manufacturing,63780,5.444
+2018,Primary metal manufacturing,63880,5.397
+2019,Primary metal manufacturing,66075,5.408
+1997,Fabricated metal product manufacturing,143045,5.573
+1998,Fabricated metal product manufacturing,149515,5.553
+1999,Fabricated metal product manufacturing,154045,5.526
+2000,Fabricated metal product manufacturing,179460,5.479
+2001,Fabricated metal product manufacturing,178635,5.466
+2002,Fabricated metal product manufacturing,183800,5.408
+2003,Fabricated metal product manufacturing,185470,5.378
+2004,Fabricated metal product manufacturing,181310,5.458
+2005,Fabricated metal product manufacturing,186615,5.403
+2006,Fabricated metal product manufacturing,183475,5.416
+2007,Fabricated metal product manufacturing,183140,5.43
+2008,Fabricated metal product manufacturing,175595,5.386
+2009,Fabricated metal product manufacturing,156465,5.293
+2010,Fabricated metal product manufacturing,152570,5.427
+2011,Fabricated metal product manufacturing,160385,5.359
+2012,Fabricated metal product manufacturing,161970,5.397
+2013,Fabricated metal product manufacturing,164145,5.321
+2014,Fabricated metal product manufacturing,167905,5.364
+2015,Fabricated metal product manufacturing,161315,5.356
+2016,Fabricated metal product manufacturing,160985,5.375
+2017,Fabricated metal product manufacturing,159580,5.307
+2018,Fabricated metal product manufacturing,165230,5.373
+2019,Fabricated metal product manufacturing,174495,5.214
+1997,Machinery manufacturing,146430,5.677
+1998,Machinery manufacturing,151685,5.564
+1999,Machinery manufacturing,142010,5.622
+2000,Machinery manufacturing,153800,5.611
+2001,Machinery manufacturing,153965,5.562
+2002,Machinery manufacturing,150735,5.595
+2003,Machinery manufacturing,149530,5.523
+2004,Machinery manufacturing,150910,5.556
+2005,Machinery manufacturing,154585,5.49
+2006,Machinery manufacturing,153470,5.553
+2007,Machinery manufacturing,160040,5.49
+2008,Machinery manufacturing,149560,5.545
+2009,Machinery manufacturing,131245,5.326
+2010,Machinery manufacturing,126300,5.466
+2011,Machinery manufacturing,139250,5.54
+2012,Machinery manufacturing,142840,5.449
+2013,Machinery manufacturing,140785,5.534
+2014,Machinery manufacturing,138670,5.438
+2015,Machinery manufacturing,139135,5.452
+2016,Machinery manufacturing,135530,5.359
+2017,Machinery manufacturing,139250,5.416
+2018,Machinery manufacturing,141250,5.466
+2019,Machinery manufacturing,147465,5.367
+1997,Computer and electronic product manufacturing,113615,5.545
+1998,Computer and electronic product manufacturing,113895,5.526
+1999,Computer and electronic product manufacturing,126370,5.518
+2000,Computer and electronic product manufacturing,131765,5.425
+2001,Computer and electronic product manufacturing,99945,5.367
+2002,Computer and electronic product manufacturing,89825,5.397
+2003,Computer and electronic product manufacturing,97105,5.362
+2004,Computer and electronic product manufacturing,101325,5.4
+2005,Computer and electronic product manufacturing,98045,5.493
+2006,Computer and electronic product manufacturing,96185,5.411
+2007,Computer and electronic product manufacturing,88065,5.364
+2008,Computer and electronic product manufacturing,79960,5.43
+2009,Computer and electronic product manufacturing,72960,5.381
+2010,Computer and electronic product manufacturing,70380,5.422
+2011,Computer and electronic product manufacturing,68390,5.37
+2012,Computer and electronic product manufacturing,62995,5.373
+2013,Computer and electronic product manufacturing,58175,5.29
+2014,Computer and electronic product manufacturing,53130,5.285
+2015,Computer and electronic product manufacturing,52455,5.323
+2016,Computer and electronic product manufacturing,53130,5.304
+2017,Computer and electronic product manufacturing,53675,5.285
+2018,Computer and electronic product manufacturing,54635,5.301
+2019,Computer and electronic product manufacturing,57785,5.282
+1997,"Electrical equipment, appliance and component manufacturing",48600,5.482
+1998,"Electrical equipment, appliance and component manufacturing",48895,5.477
+1999,"Electrical equipment, appliance and component manufacturing",50565,5.499
+2000,"Electrical equipment, appliance and component manufacturing",52860,5.477
+2001,"Electrical equipment, appliance and component manufacturing",52775,5.411
+2002,"Electrical equipment, appliance and component manufacturing",46585,5.458
+2003,"Electrical equipment, appliance and component manufacturing",41090,5.321
+2004,"Electrical equipment, appliance and component manufacturing",43615,5.449
+2005,"Electrical equipment, appliance and component manufacturing",43795,5.323
+2006,"Electrical equipment, appliance and component manufacturing",41560,5.315
+2007,"Electrical equipment, appliance and component manufacturing",41910,5.334
+2008,"Electrical equipment, appliance and component manufacturing",40870,5.326
+2009,"Electrical equipment, appliance and component manufacturing",37945,5.288
+2010,"Electrical equipment, appliance and component manufacturing",35765,5.364
+2011,"Electrical equipment, appliance and component manufacturing",38040,5.332
+2012,"Electrical equipment, appliance and component manufacturing",35295,5.414
+2013,"Electrical equipment, appliance and component manufacturing",36140,5.233
+2014,"Electrical equipment, appliance and component manufacturing",31595,5.323
+2015,"Electrical equipment, appliance and component manufacturing",33785,5.29
+2016,"Electrical equipment, appliance and component manufacturing",33720,5.321
+2017,"Electrical equipment, appliance and component manufacturing",34080,5.263
+2018,"Electrical equipment, appliance and component manufacturing",33775,5.34
+2019,"Electrical equipment, appliance and component manufacturing",36400,5.356
+1997,Transportation equipment manufacturing,252015,5.584
+1998,Transportation equipment manufacturing,256340,5.521
+1999,Transportation equipment manufacturing,274395,5.518
+2000,Transportation equipment manufacturing,262970,5.403
+2001,Transportation equipment manufacturing,252705,5.43
+2002,Transportation equipment manufacturing,244775,5.477
+2003,Transportation equipment manufacturing,249685,5.416
+2004,Transportation equipment manufacturing,246570,5.408
+2005,Transportation equipment manufacturing,247405,5.342
+2006,Transportation equipment manufacturing,232645,5.321
+2007,Transportation equipment manufacturing,227000,5.452
+2008,Transportation equipment manufacturing,197500,5.364
+2009,Transportation equipment manufacturing,169955,5.241
+2010,Transportation equipment manufacturing,176225,5.389
+2011,Transportation equipment manufacturing,177805,5.403
+2012,Transportation equipment manufacturing,193700,5.441
+2013,Transportation equipment manufacturing,195015,5.427
+2014,Transportation equipment manufacturing,203380,5.427
+2015,Transportation equipment manufacturing,206325,5.414
+2016,Transportation equipment manufacturing,206855,5.419
+2017,Transportation equipment manufacturing,212685,5.348
+2018,Transportation equipment manufacturing,214270,5.436
+2019,Transportation equipment manufacturing,228965,5.318
+1997,Furniture and related product manufacturing,85785,5.567
+1998,Furniture and related product manufacturing,93190,5.578
+1999,Furniture and related product manufacturing,98530,5.51
+2000,Furniture and related product manufacturing,109735,5.389
+2001,Furniture and related product manufacturing,115355,5.359
+2002,Furniture and related product manufacturing,118380,5.312
+2003,Furniture and related product manufacturing,115235,5.255
+2004,Furniture and related product manufacturing,115160,5.268
+2005,Furniture and related product manufacturing,109425,5.323
+2006,Furniture and related product manufacturing,102895,5.392
+2007,Furniture and related product manufacturing,103965,5.282
+2008,Furniture and related product manufacturing,94695,5.299
+2009,Furniture and related product manufacturing,81340,5.173
+2010,Furniture and related product manufacturing,78560,5.214
+2011,Furniture and related product manufacturing,76435,5.197
+2012,Furniture and related product manufacturing,72430,5.249
+2013,Furniture and related product manufacturing,72770,5.301
+2014,Furniture and related product manufacturing,71995,5.227
+2015,Furniture and related product manufacturing,77825,5.205
+2016,Furniture and related product manufacturing,77765,5.266
+2017,Furniture and related product manufacturing,75465,5.222
+2018,Furniture and related product manufacturing,75340,5.252
+2019,Furniture and related product manufacturing,76460,5.145
+1997,Miscellaneous manufacturing,57655,5.321
+1998,Miscellaneous manufacturing,59645,5.318
+1999,Miscellaneous manufacturing,59255,5.214
+2000,Miscellaneous manufacturing,62465,5.268
+2001,Miscellaneous manufacturing,63130,5.255
+2002,Miscellaneous manufacturing,67200,5.14
+2003,Miscellaneous manufacturing,69400,5.123
+2004,Miscellaneous manufacturing,69200,5.112
+2005,Miscellaneous manufacturing,67165,5.134
+2006,Miscellaneous manufacturing,67030,5.247
+2007,Miscellaneous manufacturing,64895,5.189
+2008,Miscellaneous manufacturing,63170,5.225
+2009,Miscellaneous manufacturing,61920,5.121
+2010,Miscellaneous manufacturing,63155,5.203
+2011,Miscellaneous manufacturing,63810,5.153
+2012,Miscellaneous manufacturing,62725,5.123
+2013,Miscellaneous manufacturing,61080,5.17
+2014,Miscellaneous manufacturing,59120,5.195
+2015,Miscellaneous manufacturing,64585,5.112
+2016,Miscellaneous manufacturing,66435,5.181
+2017,Miscellaneous manufacturing,66095,5.082
+2018,Miscellaneous manufacturing,67050,5.093
+2019,Miscellaneous manufacturing,70060,5.052
+1997,Farm product wholesaler-distributors,11180,5.219
+1998,Farm product wholesaler-distributors,12225,5.219
+1999,Farm product wholesaler-distributors,13975,5.162
+2000,Farm product wholesaler-distributors,13985,5.071
+2001,Farm product wholesaler-distributors,16985,5.34
+2002,Farm product wholesaler-distributors,14860,5.279
+2003,Farm product wholesaler-distributors,14775,5.408
+2004,Farm product wholesaler-distributors,13970,5.09
+2005,Farm product wholesaler-distributors,13380,5.285
+2006,Farm product wholesaler-distributors,13160,5.129
+2007,Farm product wholesaler-distributors,12455,5.052
+2008,Farm product wholesaler-distributors,13635,5.192
+2009,Farm product wholesaler-distributors,14745,5.096
+2010,Farm product wholesaler-distributors,16710,4.981
+2011,Farm product wholesaler-distributors,15030,5.189
+2012,Farm product wholesaler-distributors,15595,5.038
+2013,Farm product wholesaler-distributors,16300,5.058
+2014,Farm product wholesaler-distributors,18780,5.008
+2015,Farm product wholesaler-distributors,19070,5.088
+2016,Farm product wholesaler-distributors,16925,5
+2017,Farm product wholesaler-distributors,17705,5.058
+2018,Farm product wholesaler-distributors,17970,5.093
+2019,Farm product wholesaler-distributors,18065,4.97
+1997,Petroleum product wholesaler-distributors,22845,5.751
+1998,Petroleum product wholesaler-distributors,20690,5.581
+1999,Petroleum product wholesaler-distributors,16635,5.458
+2000,Petroleum product wholesaler-distributors,14610,5.559
+2001,Petroleum product wholesaler-distributors,15895,5.559
+2002,Petroleum product wholesaler-distributors,15680,5.512
+2003,Petroleum product wholesaler-distributors,14885,5.567
+2004,Petroleum product wholesaler-distributors,15670,5.381
+2005,Petroleum product wholesaler-distributors,15850,5.537
+2006,Petroleum product wholesaler-distributors,15465,5.321
+2007,Petroleum product wholesaler-distributors,24940,5.449
+2008,Petroleum product wholesaler-distributors,25890,5.586
+2009,Petroleum product wholesaler-distributors,13940,5.416
+2010,Petroleum product wholesaler-distributors,13835,5.422
+2011,Petroleum product wholesaler-distributors,12445,5.556
+2012,Petroleum product wholesaler-distributors,14325,5.603
+2013,Petroleum product wholesaler-distributors,15315,5.863
+2014,Petroleum product wholesaler-distributors,17330,5.542
+2015,Petroleum product wholesaler-distributors,15850,5.422
+2016,Petroleum product wholesaler-distributors,13515,5.466
+2017,Petroleum product wholesaler-distributors,13060,5.532
+2018,Petroleum product wholesaler-distributors,13635,5.685
+2019,Petroleum product wholesaler-distributors,13530,5.496
+1997,"Food, beverage and tobacco wholesaler-distributors",97775,5.244
+1998,"Food, beverage and tobacco wholesaler-distributors",99575,5.318
+1999,"Food, beverage and tobacco wholesaler-distributors",100945,5.397
+2000,"Food, beverage and tobacco wholesaler-distributors",105940,5.463
+2001,"Food, beverage and tobacco wholesaler-distributors",112190,5.414
+2002,"Food, beverage and tobacco wholesaler-distributors",118225,5.458
+2003,"Food, beverage and tobacco wholesaler-distributors",125430,5.255
+2004,"Food, beverage and tobacco wholesaler-distributors",129440,5.419
+2005,"Food, beverage and tobacco wholesaler-distributors",133505,5.285
+2006,"Food, beverage and tobacco wholesaler-distributors",114405,5.299
+2007,"Food, beverage and tobacco wholesaler-distributors",132540,5.238
+2008,"Food, beverage and tobacco wholesaler-distributors",136400,5.233
+2009,"Food, beverage and tobacco wholesaler-distributors",117740,5.208
+2010,"Food, beverage and tobacco wholesaler-distributors",120260,5.29
+2011,"Food, beverage and tobacco wholesaler-distributors",123190,5.137
+2012,"Food, beverage and tobacco wholesaler-distributors",124385,5.195
+2013,"Food, beverage and tobacco wholesaler-distributors",122960,5.337
+2014,"Food, beverage and tobacco wholesaler-distributors",128435,5.263
+2015,"Food, beverage and tobacco wholesaler-distributors",124605,5.258
+2016,"Food, beverage and tobacco wholesaler-distributors",117785,5.208
+2017,"Food, beverage and tobacco wholesaler-distributors",122510,5.079
+2018,"Food, beverage and tobacco wholesaler-distributors",122475,5.277
+2019,"Food, beverage and tobacco wholesaler-distributors",133715,5.162
+1997,Personal and household goods wholesaler-distributors,83880,5.162
+1998,Personal and household goods wholesaler-distributors,83280,5.134
+1999,Personal and household goods wholesaler-distributors,82425,5.299
+2000,Personal and household goods wholesaler-distributors,83475,5.384
+2001,Personal and household goods wholesaler-distributors,92320,5.192
+2002,Personal and household goods wholesaler-distributors,98935,5.197
+2003,Personal and household goods wholesaler-distributors,100980,5.195
+2004,Personal and household goods wholesaler-distributors,101455,5.296
+2005,Personal and household goods wholesaler-distributors,100470,5.342
+2006,Personal and household goods wholesaler-distributors,106325,5.241
+2007,Personal and household goods wholesaler-distributors,99950,5.23
+2008,Personal and household goods wholesaler-distributors,102140,5.296
+2009,Personal and household goods wholesaler-distributors,123350,5.121
+2010,Personal and household goods wholesaler-distributors,116580,5.123
+2011,Personal and household goods wholesaler-distributors,117365,5.134
+2012,Personal and household goods wholesaler-distributors,118820,5.167
+2013,Personal and household goods wholesaler-distributors,114665,5.189
+2014,Personal and household goods wholesaler-distributors,114445,5.055
+2015,Personal and household goods wholesaler-distributors,111445,5.027
+2016,Personal and household goods wholesaler-distributors,111530,5.112
+2017,Personal and household goods wholesaler-distributors,113735,5.036
+2018,Personal and household goods wholesaler-distributors,113300,5.148
+2019,Personal and household goods wholesaler-distributors,108125,4.967
+1997,Motor vehicle and parts wholesaler-distributors,54065,5.523
+1998,Motor vehicle and parts wholesaler-distributors,56020,5.466
+1999,Motor vehicle and parts wholesaler-distributors,57945,5.551
+2000,Motor vehicle and parts wholesaler-distributors,58680,5.499
+2001,Motor vehicle and parts wholesaler-distributors,55790,5.408
+2002,Motor vehicle and parts wholesaler-distributors,59070,5.425
+2003,Motor vehicle and parts wholesaler-distributors,57420,5.386
+2004,Motor vehicle and parts wholesaler-distributors,57310,5.37
+2005,Motor vehicle and parts wholesaler-distributors,59580,5.367
+2006,Motor vehicle and parts wholesaler-distributors,59285,5.326
+2007,Motor vehicle and parts wholesaler-distributors,56180,5.397
+2008,Motor vehicle and parts wholesaler-distributors,50420,5.321
+2009,Motor vehicle and parts wholesaler-distributors,50155,5.422
+2010,Motor vehicle and parts wholesaler-distributors,54660,5.367
+2011,Motor vehicle and parts wholesaler-distributors,55835,5.296
+2012,Motor vehicle and parts wholesaler-distributors,59530,5.296
+2013,Motor vehicle and parts wholesaler-distributors,58340,5.444
+2014,Motor vehicle and parts wholesaler-distributors,59700,5.326
+2015,Motor vehicle and parts wholesaler-distributors,62425,5.252
+2016,Motor vehicle and parts wholesaler-distributors,64495,5.263
+2017,Motor vehicle and parts wholesaler-distributors,65105,5.134
+2018,Motor vehicle and parts wholesaler-distributors,66655,5.208
+2019,Motor vehicle and parts wholesaler-distributors,65980,5.181
+1997,Building material and supplies wholesaler-distributors,141380,5.403
+1998,Building material and supplies wholesaler-distributors,129595,5.332
+1999,Building material and supplies wholesaler-distributors,133260,5.373
+2000,Building material and supplies wholesaler-distributors,131595,5.501
+2001,Building material and supplies wholesaler-distributors,129920,5.466
+2002,Building material and supplies wholesaler-distributors,129280,5.521
+2003,Building material and supplies wholesaler-distributors,130730,5.512
+2004,Building material and supplies wholesaler-distributors,134985,5.436
+2005,Building material and supplies wholesaler-distributors,139040,5.471
+2006,Building material and supplies wholesaler-distributors,139845,5.386
+2007,Building material and supplies wholesaler-distributors,132900,5.408
+2008,Building material and supplies wholesaler-distributors,130830,5.515
+2009,Building material and supplies wholesaler-distributors,124770,5.411
+2010,Building material and supplies wholesaler-distributors,128710,5.359
+2011,Building material and supplies wholesaler-distributors,131610,5.381
+2012,Building material and supplies wholesaler-distributors,136565,5.436
+2013,Building material and supplies wholesaler-distributors,135690,5.359
+2014,Building material and supplies wholesaler-distributors,139100,5.359
+2015,Building material and supplies wholesaler-distributors,135410,5.392
+2016,Building material and supplies wholesaler-distributors,132135,5.4
+2017,Building material and supplies wholesaler-distributors,134205,5.329
+2018,Building material and supplies wholesaler-distributors,138900,5.332
+2019,Building material and supplies wholesaler-distributors,138205,5.381
+1997,"Machinery, equipment and supplies wholesaler-distributors",171605,5.701
+1998,"Machinery, equipment and supplies wholesaler-distributors",179495,5.581
+1999,"Machinery, equipment and supplies wholesaler-distributors",187785,5.534
+2000,"Machinery, equipment and supplies wholesaler-distributors",191585,5.581
+2001,"Machinery, equipment and supplies wholesaler-distributors",193650,5.564
+2002,"Machinery, equipment and supplies wholesaler-distributors",191175,5.496
+2003,"Machinery, equipment and supplies wholesaler-distributors",192125,5.455
+2004,"Machinery, equipment and supplies wholesaler-distributors",194250,5.564
+2005,"Machinery, equipment and supplies wholesaler-distributors",202495,5.488
+2006,"Machinery, equipment and supplies wholesaler-distributors",213400,5.452
+2007,"Machinery, equipment and supplies wholesaler-distributors",206780,5.501
+2008,"Machinery, equipment and supplies wholesaler-distributors",201195,5.501
+2009,"Machinery, equipment and supplies wholesaler-distributors",195310,5.395
+2010,"Machinery, equipment and supplies wholesaler-distributors",197540,5.375
+2011,"Machinery, equipment and supplies wholesaler-distributors",200235,5.438
+2012,"Machinery, equipment and supplies wholesaler-distributors",205465,5.43
+2013,"Machinery, equipment and supplies wholesaler-distributors",201765,5.438
+2014,"Machinery, equipment and supplies wholesaler-distributors",193185,5.43
+2015,"Machinery, equipment and supplies wholesaler-distributors",195120,5.425
+2016,"Machinery, equipment and supplies wholesaler-distributors",201150,5.416
+2017,"Machinery, equipment and supplies wholesaler-distributors",216345,5.408
+2018,"Machinery, equipment and supplies wholesaler-distributors",219375,5.471
+2019,"Machinery, equipment and supplies wholesaler-distributors",222160,5.375
+1997,Miscellaneous wholesaler-distributors,103600,5.499
+1998,Miscellaneous wholesaler-distributors,102130,5.425
+1999,Miscellaneous wholesaler-distributors,109960,5.386
+2000,Miscellaneous wholesaler-distributors,109765,5.392
+2001,Miscellaneous wholesaler-distributors,108210,5.444
+2002,Miscellaneous wholesaler-distributors,110570,5.389
+2003,Miscellaneous wholesaler-distributors,114530,5.282
+2004,Miscellaneous wholesaler-distributors,116695,5.444
+2005,Miscellaneous wholesaler-distributors,119850,5.29
+2006,Miscellaneous wholesaler-distributors,115720,5.375
+2007,Miscellaneous wholesaler-distributors,125475,5.301
+2008,Miscellaneous wholesaler-distributors,115805,5.277
+2009,Miscellaneous wholesaler-distributors,105070,5.189
+2010,Miscellaneous wholesaler-distributors,102055,5.151
+2011,Miscellaneous wholesaler-distributors,104210,5.219
+2012,Miscellaneous wholesaler-distributors,103700,5.203
+2013,Miscellaneous wholesaler-distributors,103340,5.173
+2014,Miscellaneous wholesaler-distributors,105215,5.23
+2015,Miscellaneous wholesaler-distributors,102455,5.241
+2016,Miscellaneous wholesaler-distributors,100825,5.288
+2017,Miscellaneous wholesaler-distributors,101710,5.208
+2018,Miscellaneous wholesaler-distributors,105490,5.23
+2019,Miscellaneous wholesaler-distributors,107730,5.14
+1997,"Wholesale electronic markets, and agents and brokers",33845,5.362
+1998,"Wholesale electronic markets, and agents and brokers",35550,5.326
+1999,"Wholesale electronic markets, and agents and brokers",43050,5.301
+2000,"Wholesale electronic markets, and agents and brokers",43215,5.329
+2001,"Wholesale electronic markets, and agents and brokers",44275,5.208
+2002,"Wholesale electronic markets, and agents and brokers",42615,5.173
+2003,"Wholesale electronic markets, and agents and brokers",38325,5.162
+2004,"Wholesale electronic markets, and agents and brokers",38155,5.203
+2005,"Wholesale electronic markets, and agents and brokers",38610,5.26
+2006,"Wholesale electronic markets, and agents and brokers",36440,5.26
+2007,"Wholesale electronic markets, and agents and brokers",31125,5.326
+2008,"Wholesale electronic markets, and agents and brokers",40985,5.238
+2009,"Wholesale electronic markets, and agents and brokers",29070,5.104
+2010,"Wholesale electronic markets, and agents and brokers",28265,5.107
+2011,"Wholesale electronic markets, and agents and brokers",29395,5.093
+2012,"Wholesale electronic markets, and agents and brokers",29190,5.099
+2013,"Wholesale electronic markets, and agents and brokers",32525,5.123
+2014,"Wholesale electronic markets, and agents and brokers",32730,5.107
+2015,"Wholesale electronic markets, and agents and brokers",32395,5.118
+2016,"Wholesale electronic markets, and agents and brokers",34400,5.118
+2017,"Wholesale electronic markets, and agents and brokers",38665,5.06
+2018,"Wholesale electronic markets, and agents and brokers",41735,5.121
+2019,"Wholesale electronic markets, and agents and brokers",41520,5.052
+1997,Motor vehicle and parts dealers,139795,5.663
+1998,Motor vehicle and parts dealers,140365,5.63
+1999,Motor vehicle and parts dealers,141480,5.584
+2000,Motor vehicle and parts dealers,143090,5.592
+2001,Motor vehicle and parts dealers,146230,5.625
+2002,Motor vehicle and parts dealers,158675,5.496
+2003,Motor vehicle and parts dealers,172510,5.526
+2004,Motor vehicle and parts dealers,171735,5.504
+2005,Motor vehicle and parts dealers,174530,5.501
+2006,Motor vehicle and parts dealers,181730,5.389
+2007,Motor vehicle and parts dealers,189600,5.458
+2008,Motor vehicle and parts dealers,196410,5.348
+2009,Motor vehicle and parts dealers,175470,5.326
+2010,Motor vehicle and parts dealers,167345,5.373
+2011,Motor vehicle and parts dealers,174195,5.288
+2012,Motor vehicle and parts dealers,182960,5.342
+2013,Motor vehicle and parts dealers,186330,5.301
+2014,Motor vehicle and parts dealers,193650,5.29
+2015,Motor vehicle and parts dealers,200185,5.318
+2016,Motor vehicle and parts dealers,214915,5.323
+2017,Motor vehicle and parts dealers,231625,5.178
+2018,Motor vehicle and parts dealers,232100,5.225
+2019,Motor vehicle and parts dealers,231210,5.23
+1997,Furniture and home furnishings stores,60815,4.811
+1998,Furniture and home furnishings stores,60585,4.997
+1999,Furniture and home furnishings stores,58230,5.077
+2000,Furniture and home furnishings stores,57315,5.074
+2001,Furniture and home furnishings stores,60170,4.773
+2002,Furniture and home furnishings stores,61900,4.91
+2003,Furniture and home furnishings stores,69985,4.679
+2004,Furniture and home furnishings stores,74635,4.8
+2005,Furniture and home furnishings stores,75730,4.663
+2006,Furniture and home furnishings stores,75795,4.748
+2007,Furniture and home furnishings stores,86740,4.581
+2008,Furniture and home furnishings stores,85430,4.666
+2009,Furniture and home furnishings stores,81015,4.627
+2010,Furniture and home furnishings stores,83365,4.726
+2011,Furniture and home furnishings stores,82380,4.416
+2012,Furniture and home furnishings stores,83375,4.468
+2013,Furniture and home furnishings stores,86390,4.441
+2014,Furniture and home furnishings stores,89440,4.389
+2015,Furniture and home furnishings stores,88485,4.488
+2016,Furniture and home furnishings stores,87890,4.485
+2017,Furniture and home furnishings stores,89660,4.386
+2018,Furniture and home furnishings stores,86470,4.545
+2019,Furniture and home furnishings stores,85935,4.293
+1997,Electronics and appliance stores,59125,4.984
+1998,Electronics and appliance stores,64865,4.956
+1999,Electronics and appliance stores,66335,4.975
+2000,Electronics and appliance stores,66900,5.068
+2001,Electronics and appliance stores,65535,5.126
+2002,Electronics and appliance stores,64975,4.953
+2003,Electronics and appliance stores,65520,5.003
+2004,Electronics and appliance stores,67080,4.964
+2005,Electronics and appliance stores,68370,4.874
+2006,Electronics and appliance stores,67760,4.701
+2007,Electronics and appliance stores,69435,4.742
+2008,Electronics and appliance stores,68700,4.737
+2009,Electronics and appliance stores,66530,4.721
+2010,Electronics and appliance stores,62340,4.526
+2011,Electronics and appliance stores,67480,4.438
+2012,Electronics and appliance stores,64595,4.545
+2013,Electronics and appliance stores,63405,4.644
+2014,Electronics and appliance stores,58340,4.658
+2015,Electronics and appliance stores,60010,4.595
+2016,Electronics and appliance stores,62890,4.553
+2017,Electronics and appliance stores,48180,4.668
+2018,Electronics and appliance stores,44515,4.707
+2019,Electronics and appliance stores,43500,4.581
+1997,Building material and garden equipment and supplies dealers,50950,5.203
+1998,Building material and garden equipment and supplies dealers,67575,5.066
+1999,Building material and garden equipment and supplies dealers,68510,5.112
+2000,Building material and garden equipment and supplies dealers,70825,5.123
+2001,Building material and garden equipment and supplies dealers,89845,4.923
+2002,Building material and garden equipment and supplies dealers,94095,4.866
+2003,Building material and garden equipment and supplies dealers,98730,4.863
+2004,Building material and garden equipment and supplies dealers,109300,4.814
+2005,Building material and garden equipment and supplies dealers,112510,4.847
+2006,Building material and garden equipment and supplies dealers,116600,4.868
+2007,Building material and garden equipment and supplies dealers,123170,4.748
+2008,Building material and garden equipment and supplies dealers,121810,4.789
+2009,Building material and garden equipment and supplies dealers,131785,4.797
+2010,Building material and garden equipment and supplies dealers,144365,4.803
+2011,Building material and garden equipment and supplies dealers,141045,4.696
+2012,Building material and garden equipment and supplies dealers,144880,4.644
+2013,Building material and garden equipment and supplies dealers,148730,4.685
+2014,Building material and garden equipment and supplies dealers,149050,4.69
+2015,Building material and garden equipment and supplies dealers,149460,4.603
+2016,Building material and garden equipment and supplies dealers,143510,4.595
+2017,Building material and garden equipment and supplies dealers,147355,4.526
+2018,Building material and garden equipment and supplies dealers,145440,4.605
+2019,Building material and garden equipment and supplies dealers,145800,4.553
+1997,Food and beverage stores,388460,4.192
+1998,Food and beverage stores,399000,4.186
+1999,Food and beverage stores,403040,4.14
+2000,Food and beverage stores,404290,4.145
+2001,Food and beverage stores,412765,4.153
+2002,Food and beverage stores,440470,4.104
+2003,Food and beverage stores,453850,4.107
+2004,Food and beverage stores,465340,4.104
+2005,Food and beverage stores,473810,4.107
+2006,Food and beverage stores,477295,4.055
+2007,Food and beverage stores,468520,4.025
+2008,Food and beverage stores,470180,4.014
+2009,Food and beverage stores,520090,3.929
+2010,Food and beverage stores,499380,3.942
+2011,Food and beverage stores,494685,3.934
+2012,Food and beverage stores,493575,3.907
+2013,Food and beverage stores,510225,3.956
+2014,Food and beverage stores,500350,3.91
+2015,Food and beverage stores,495205,3.918
+2016,Food and beverage stores,508340,3.978
+2017,Food and beverage stores,524270,3.912
+2018,Food and beverage stores,519120,3.94
+2019,Food and beverage stores,531230,3.904
+1997,Health and personal care stores,130445,4.605
+1998,Health and personal care stores,129560,4.49
+1999,Health and personal care stores,125780,4.405
+2000,Health and personal care stores,129055,4.381
+2001,Health and personal care stores,130205,4.255
+2002,Health and personal care stores,132120,4.255
+2003,Health and personal care stores,139970,4.14
+2004,Health and personal care stores,149250,4.107
+2005,Health and personal care stores,145190,4.268
+2006,Health and personal care stores,144975,4.178
+2007,Health and personal care stores,151820,4.195
+2008,Health and personal care stores,174705,4.129
+2009,Health and personal care stores,168915,4.093
+2010,Health and personal care stores,169295,4.074
+2011,Health and personal care stores,174405,3.995
+2012,Health and personal care stores,194705,4
+2013,Health and personal care stores,195445,4.121
+2014,Health and personal care stores,191800,4.055
+2015,Health and personal care stores,198930,4.175
+2016,Health and personal care stores,203910,4.052
+2017,Health and personal care stores,216175,4.008
+2018,Health and personal care stores,216410,4.019
+2019,Health and personal care stores,220610,3.912
+1997,Gasoline stations,72740,4.827
+1998,Gasoline stations,72185,4.718
+1999,Gasoline stations,72840,4.534
+2000,Gasoline stations,70895,4.542
+2001,Gasoline stations,73310,4.479
+2002,Gasoline stations,76920,4.46
+2003,Gasoline stations,78670,4.367
+2004,Gasoline stations,82770,4.345
+2005,Gasoline stations,79200,4.403
+2006,Gasoline stations,80625,4.447
+2007,Gasoline stations,71920,4.364
+2008,Gasoline stations,85550,4.214
+2009,Gasoline stations,68605,4.326
+2010,Gasoline stations,66460,4.482
+2011,Gasoline stations,69510,4.266
+2012,Gasoline stations,76425,4.244
+2013,Gasoline stations,74330,4.384
+2014,Gasoline stations,75115,4.345
+2015,Gasoline stations,77720,4.101
+2016,Gasoline stations,81970,4.195
+2017,Gasoline stations,81810,4.326
+2018,Gasoline stations,78165,4.326
+2019,Gasoline stations,74885,4.373
+1997,Clothing and clothing accessories stores,168415,4.129
+1998,Clothing and clothing accessories stores,168900,4.167
+1999,Clothing and clothing accessories stores,173795,4.06
+2000,Clothing and clothing accessories stores,174310,3.97
+2001,Clothing and clothing accessories stores,175100,3.973
+2002,Clothing and clothing accessories stores,188635,3.866
+2003,Clothing and clothing accessories stores,189335,3.838
+2004,Clothing and clothing accessories stores,193620,3.899
+2005,Clothing and clothing accessories stores,198070,3.814
+2006,Clothing and clothing accessories stores,201000,3.874
+2007,Clothing and clothing accessories stores,217320,3.764
+2008,Clothing and clothing accessories stores,207635,3.745
+2009,Clothing and clothing accessories stores,221550,3.575
+2010,Clothing and clothing accessories stores,245960,3.521
+2011,Clothing and clothing accessories stores,243950,3.573
+2012,Clothing and clothing accessories stores,248375,3.542
+2013,Clothing and clothing accessories stores,252140,3.496
+2014,Clothing and clothing accessories stores,250745,3.521
+2015,Clothing and clothing accessories stores,255565,3.51
+2016,Clothing and clothing accessories stores,251635,3.627
+2017,Clothing and clothing accessories stores,249705,3.575
+2018,Clothing and clothing accessories stores,252855,3.529
+2019,Clothing and clothing accessories stores,259560,3.556
+1997,"Sporting goods, hobby, book and music stores",88620,4.463
+1998,"Sporting goods, hobby, book and music stores",90070,4.425
+1999,"Sporting goods, hobby, book and music stores",96615,4.164
+2000,"Sporting goods, hobby, book and music stores",90895,4.353
+2001,"Sporting goods, hobby, book and music stores",93605,4.167
+2002,"Sporting goods, hobby, book and music stores",95565,4.068
+2003,"Sporting goods, hobby, book and music stores",96475,4.063
+2004,"Sporting goods, hobby, book and music stores",101405,4.036
+2005,"Sporting goods, hobby, book and music stores",100455,4.044
+2006,"Sporting goods, hobby, book and music stores",101995,4.022
+2007,"Sporting goods, hobby, book and music stores",107780,3.918
+2008,"Sporting goods, hobby, book and music stores",99730,3.956
+2009,"Sporting goods, hobby, book and music stores",92910,3.795
+2010,"Sporting goods, hobby, book and music stores",88000,3.838
+2011,"Sporting goods, hobby, book and music stores",82050,3.962
+2012,"Sporting goods, hobby, book and music stores",81230,3.841
+2013,"Sporting goods, hobby, book and music stores",80510,3.866
+2014,"Sporting goods, hobby, book and music stores",78860,3.858
+2015,"Sporting goods, hobby, book and music stores",80920,3.77
+2016,"Sporting goods, hobby, book and music stores",84210,3.773
+2017,"Sporting goods, hobby, book and music stores",82110,3.855
+2018,"Sporting goods, hobby, book and music stores",81245,3.836
+2019,"Sporting goods, hobby, book and music stores",79055,3.775
+1997,General merchandise stores,219770,4.055
+1998,General merchandise stores,231350,4.099
+1999,General merchandise stores,232815,4.063
+2000,General merchandise stores,231630,4.088
+2001,General merchandise stores,226735,4.09
+2002,General merchandise stores,233690,4.104
+2003,General merchandise stores,254880,3.915
+2004,General merchandise stores,255620,4.044
+2005,General merchandise stores,257790,4.016
+2006,General merchandise stores,257485,4.033
+2007,General merchandise stores,262625,4.025
+2008,General merchandise stores,256470,4.079
+2009,General merchandise stores,259640,3.986
+2010,General merchandise stores,275485,3.984
+2011,General merchandise stores,280110,3.97
+2012,General merchandise stores,260315,3.992
+2013,General merchandise stores,261850,3.929
+2014,General merchandise stores,265500,3.91
+2015,General merchandise stores,241065,4.055
+2016,General merchandise stores,235490,4.055
+2017,General merchandise stores,227310,4.104
+2018,General merchandise stores,225715,4.06
+2019,General merchandise stores,227215,4.03
+1997,Miscellaneous store retailers,81155,4.69
+1998,Miscellaneous store retailers,83975,4.745
+1999,Miscellaneous store retailers,88200,4.641
+2000,Miscellaneous store retailers,105580,4.559
+2001,Miscellaneous store retailers,103840,4.526
+2002,Miscellaneous store retailers,103820,4.523
+2003,Miscellaneous store retailers,106975,4.49
+2004,Miscellaneous store retailers,107855,4.482
+2005,Miscellaneous store retailers,105085,4.507
+2006,Miscellaneous store retailers,107195,4.37
+2007,Miscellaneous store retailers,107910,4.225
+2008,Miscellaneous store retailers,113635,4.236
+2009,Miscellaneous store retailers,105300,4.208
+2010,Miscellaneous store retailers,112115,4.2
+2011,Miscellaneous store retailers,109095,4.274
+2012,Miscellaneous store retailers,113290,4.123
+2013,Miscellaneous store retailers,112660,4.195
+2014,Miscellaneous store retailers,111915,4.29
+2015,Miscellaneous store retailers,113695,4.148
+2016,Miscellaneous store retailers,118780,4.156
+2017,Miscellaneous store retailers,121495,4.096
+2018,Miscellaneous store retailers,124870,4.123
+2019,Miscellaneous store retailers,125200,4.115
+1997,Non-store retailers,50680,4.118
+1998,Non-store retailers,53470,4.315
+1999,Non-store retailers,52930,4.296
+2000,Non-store retailers,45515,4.633
+2001,Non-store retailers,42935,4.701
+2002,Non-store retailers,41395,4.614
+2003,Non-store retailers,41540,4.721
+2004,Non-store retailers,40125,4.707
+2005,Non-store retailers,39670,4.647
+2006,Non-store retailers,44435,4.556
+2007,Non-store retailers,41845,4.548
+2008,Non-store retailers,41405,4.638
+2009,Non-store retailers,41365,4.43
+2010,Non-store retailers,45220,4.337
+2011,Non-store retailers,49200,4.422
+2012,Non-store retailers,50305,4.29
+2013,Non-store retailers,52775,4.534
+2014,Non-store retailers,54340,4.545
+2015,Non-store retailers,55895,4.523
+2016,Non-store retailers,56975,4.474
+2017,Non-store retailers,57890,4.444
+2018,Non-store retailers,59240,4.408
+2019,Non-store retailers,60900,4.46
+1997,Air transportation,55020,4.885
+1998,Air transportation,59605,4.844
+1999,Air transportation,63815,4.827
+2000,Air transportation,64050,4.814
+2001,Air transportation,59905,4.833
+2002,Air transportation,55805,4.879
+2003,Air transportation,52570,4.797
+2004,Air transportation,51280,4.742
+2005,Air transportation,41885,4.778
+2006,Air transportation,43500,4.745
+2007,Air transportation,46835,4.655
+2008,Air transportation,46400,4.542
+2009,Air transportation,47790,4.559
+2010,Air transportation,51950,4.704
+2011,Air transportation,57635,4.638
+2012,Air transportation,59675,4.575
+2013,Air transportation,59960,4.375
+2014,Air transportation,60165,4.627
+2015,Air transportation,60930,4.622
+2016,Air transportation,67005,4.488
+2017,Air transportation,71325,4.438
+2018,Air transportation,74710,4.479
+2019,Air transportation,75990,4.638
+1997,Rail transportation,46015,5.526
+1998,Rail transportation,42435,5.567
+1999,Rail transportation,44545,5.575
+2000,Rail transportation,48815,5.518
+2001,Rail transportation,42685,5.444
+2002,Rail transportation,42240,5.608
+2003,Rail transportation,39510,5.652
+2004,Rail transportation,41220,5.822
+2005,Rail transportation,41360,5.934
+2006,Rail transportation,40235,5.649
+2007,Rail transportation,40875,5.616
+2008,Rail transportation,38340,5.71
+2009,Rail transportation,37620,5.471
+2010,Rail transportation,38450,5.666
+2011,Rail transportation,40835,5.397
+2012,Rail transportation,40265,5.668
+2013,Rail transportation,36910,5.759
+2014,Rail transportation,38330,5.816
+2015,Rail transportation,38045,5.849
+2016,Rail transportation,38150,5.816
+2017,Rail transportation,38780,5.595
+2018,Rail transportation,41945,5.575
+2019,Rail transportation,40875,5.611
+1997,Water transportation,12795,5.334
+1998,Water transportation,12000,5.384
+1999,Water transportation,13075,5.266
+2000,Water transportation,12765,5.414
+2001,Water transportation,13505,5.326
+2002,Water transportation,12460,5.205
+2003,Water transportation,12275,5.332
+2004,Water transportation,12635,5.334
+2005,Water transportation,12285,5.742
+2006,Water transportation,13610,5.381
+2007,Water transportation,14740,5.512
+2008,Water transportation,14565,5.477
+2009,Water transportation,13580,5.167
+2010,Water transportation,15120,5.34
+2011,Water transportation,15575,5.112
+2012,Water transportation,15185,5.2
+2013,Water transportation,14155,5.405
+2014,Water transportation,14175,5.378
+2015,Water transportation,14955,5.345
+2016,Water transportation,14165,5.395
+2017,Water transportation,15100,5.405
+2018,Water transportation,15995,5.534
+2019,Water transportation,15805,5.205
+1997,Truck transportation,204415,6.34
+1998,Truck transportation,219135,6.447
+1999,Truck transportation,228930,6.518
+2000,Truck transportation,241555,6.419
+2001,Truck transportation,255315,6.381
+2002,Truck transportation,259335,6.279
+2003,Truck transportation,262005,6.252
+2004,Truck transportation,270520,6.337
+2005,Truck transportation,274490,6.271
+2006,Truck transportation,285225,6.238
+2007,Truck transportation,273495,6.186
+2008,Truck transportation,267305,6.142
+2009,Truck transportation,238815,5.981
+2010,Truck transportation,244875,6.071
+2011,Truck transportation,245590,6.126
+2012,Truck transportation,245795,6.033
+2013,Truck transportation,248110,5.992
+2014,Truck transportation,248325,6.082
+2015,Truck transportation,254605,6.033
+2016,Truck transportation,255360,5.948
+2017,Truck transportation,260705,5.986
+2018,Truck transportation,274425,6.049
+2019,Truck transportation,281620,5.992
+1997,"Transit, ground passenger and scenic and sightseeing transportation",98945,5.145
+1998,"Transit, ground passenger and scenic and sightseeing transportation",102360,5.304
+1999,"Transit, ground passenger and scenic and sightseeing transportation",104550,5.277
+2000,"Transit, ground passenger and scenic and sightseeing transportation",104830,5.2
+2001,"Transit, ground passenger and scenic and sightseeing transportation",104885,5.164
+2002,"Transit, ground passenger and scenic and sightseeing transportation",111025,5.145
+2003,"Transit, ground passenger and scenic and sightseeing transportation",115900,5.159
+2004,"Transit, ground passenger and scenic and sightseeing transportation",114945,5.205
+2005,"Transit, ground passenger and scenic and sightseeing transportation",112635,5.049
+2006,"Transit, ground passenger and scenic and sightseeing transportation",115455,5.112
+2007,"Transit, ground passenger and scenic and sightseeing transportation",123365,5.033
+2008,"Transit, ground passenger and scenic and sightseeing transportation",120790,5.134
+2009,"Transit, ground passenger and scenic and sightseeing transportation",127965,5.038
+2010,"Transit, ground passenger and scenic and sightseeing transportation",137735,5.047
+2011,"Transit, ground passenger and scenic and sightseeing transportation",142270,5.033
+2012,"Transit, ground passenger and scenic and sightseeing transportation",144770,4.948
+2013,"Transit, ground passenger and scenic and sightseeing transportation",148265,4.964
+2014,"Transit, ground passenger and scenic and sightseeing transportation",150515,5.027
+2015,"Transit, ground passenger and scenic and sightseeing transportation",153045,5.129
+2016,"Transit, ground passenger and scenic and sightseeing transportation",154900,5.049
+2017,"Transit, ground passenger and scenic and sightseeing transportation",157635,4.992
+2018,"Transit, ground passenger and scenic and sightseeing transportation",163710,5.011
+2019,"Transit, ground passenger and scenic and sightseeing transportation",167215,4.918
+1997,Support activities for transportation,96910,5.414
+1998,Support activities for transportation,93165,5.416
+1999,Support activities for transportation,93465,5.337
+2000,Support activities for transportation,88430,5.378
+2001,Support activities for transportation,88535,5.266
+2002,Support activities for transportation,88985,5.252
+2003,Support activities for transportation,89315,5.197
+2004,Support activities for transportation,91225,5.293
+2005,Support activities for transportation,88930,5.203
+2006,Support activities for transportation,95990,5.277
+2007,Support activities for transportation,102305,5.268
+2008,Support activities for transportation,103195,5.301
+2009,Support activities for transportation,105580,5.288
+2010,Support activities for transportation,111665,5.31
+2011,Support activities for transportation,117590,5.219
+2012,Support activities for transportation,124390,5.216
+2013,Support activities for transportation,130410,5.019
+2014,Support activities for transportation,135310,5.145
+2015,Support activities for transportation,145260,5.263
+2016,Support activities for transportation,150620,5.255
+2017,Support activities for transportation,158440,5.101
+2018,Support activities for transportation,163535,5.252
+2019,Support activities for transportation,166345,5.118
+1997,Pipeline transportation,6850,5.542
+1998,Pipeline transportation,6730,5.474
+1999,Pipeline transportation,7125,5.441
+2000,Pipeline transportation,6785,5.359
+2001,Pipeline transportation,7005,5.351
+2002,Pipeline transportation,6890,5.301
+2003,Pipeline transportation,7415,5.356
+2004,Pipeline transportation,7335,5.43
+2005,Pipeline transportation,6335,5.479
+2006,Pipeline transportation,5890,5.419
+2007,Pipeline transportation,5615,5.389
+2008,Pipeline transportation,5630,5.468
+2009,Pipeline transportation,5435,5.277
+2010,Pipeline transportation,6925,5.277
+2011,Pipeline transportation,7185,5.386
+2012,Pipeline transportation,7510,5.518
+2013,Pipeline transportation,9625,5.54
+2014,Pipeline transportation,9075,5.353
+2015,Pipeline transportation,9640,5.268
+2016,Pipeline transportation,10360,5.304
+2017,Pipeline transportation,10985,5.266
+2018,Pipeline transportation,11605,5.312
+2019,Pipeline transportation,12230,5.11
+1997,Postal service and couriers and messengers,123325,5.129
+1998,Postal service and couriers and messengers,125480,5.041
+1999,Postal service and couriers and messengers,126185,5.055
+2000,Postal service and couriers and messengers,125930,4.926
+2001,Postal service and couriers and messengers,121075,4.918
+2002,Postal service and couriers and messengers,119810,4.893
+2003,Postal service and couriers and messengers,121555,4.888
+2004,Postal service and couriers and messengers,122365,4.904
+2005,Postal service and couriers and messengers,123490,4.795
+2006,Postal service and couriers and messengers,121440,4.885
+2007,Postal service and couriers and messengers,128410,4.855
+2008,Postal service and couriers and messengers,125505,4.871
+2009,Postal service and couriers and messengers,124910,4.797
+2010,Postal service and couriers and messengers,127570,4.803
+2011,Postal service and couriers and messengers,122630,4.759
+2012,Postal service and couriers and messengers,120215,4.789
+2013,Postal service and couriers and messengers,122690,4.71
+2014,Postal service and couriers and messengers,122055,4.723
+2015,Postal service and couriers and messengers,114135,4.789
+2016,Postal service and couriers and messengers,115040,4.726
+2017,Postal service and couriers and messengers,122250,4.729
+2018,Postal service and couriers and messengers,128270,4.742
+2019,Postal service and couriers and messengers,132935,4.696
+1997,Warehousing and storage,20645,5.115
+1998,Warehousing and storage,21265,5.249
+1999,Warehousing and storage,23125,5.247
+2000,Warehousing and storage,23045,5.134
+2001,Warehousing and storage,23020,5.351
+2002,Warehousing and storage,23820,5.195
+2003,Warehousing and storage,25700,5.329
+2004,Warehousing and storage,30520,5.268
+2005,Warehousing and storage,30395,5.216
+2006,Warehousing and storage,33930,5.345
+2007,Warehousing and storage,36470,5.252
+2008,Warehousing and storage,37230,5.077
+2009,Warehousing and storage,41530,5.058
+2010,Warehousing and storage,38760,5.025
+2011,Warehousing and storage,40705,5.104
+2012,Warehousing and storage,41150,5.137
+2013,Warehousing and storage,41675,5.255
+2014,Warehousing and storage,41440,5.181
+2015,Warehousing and storage,42045,5.205
+2016,Warehousing and storage,43975,5.11
+2017,Warehousing and storage,50615,5.014
+2018,Warehousing and storage,58055,5.104
+2019,Warehousing and storage,63480,4.992
+1997,Publishing industries (except internet),70695,4.696
+1998,Publishing industries (except internet),77105,4.556
+1999,Publishing industries (except internet),78320,4.742
+2000,Publishing industries (except internet),80825,4.616
+2001,Publishing industries (except internet),86050,4.526
+2002,Publishing industries (except internet),89170,4.425
+2003,Publishing industries (except internet),89235,4.512
+2004,Publishing industries (except internet),91235,4.625
+2005,Publishing industries (except internet),92120,4.622
+2006,Publishing industries (except internet),92270,4.605
+2007,Publishing industries (except internet),93330,4.641
+2008,Publishing industries (except internet),92285,4.671
+2009,Publishing industries (except internet),85405,4.614
+2010,Publishing industries (except internet),88050,4.622
+2011,Publishing industries (except internet),91685,4.668
+2012,Publishing industries (except internet),93015,4.619
+2013,Publishing industries (except internet),91470,4.534
+2014,Publishing industries (except internet),91705,4.625
+2015,Publishing industries (except internet),90490,4.696
+2016,Publishing industries (except internet),87235,4.819
+2017,Publishing industries (except internet),85335,4.734
+2018,Publishing industries (except internet),85990,4.827
+2019,Publishing industries (except internet),86090,4.814
+1997,Motion picture and sound recording industries,25585,4.984
+1998,Motion picture and sound recording industries,30710,4.959
+1999,Motion picture and sound recording industries,34160,5.123
+2000,Motion picture and sound recording industries,35950,4.795
+2001,Motion picture and sound recording industries,37880,4.959
+2002,Motion picture and sound recording industries,41210,4.507
+2003,Motion picture and sound recording industries,41090,4.455
+2004,Motion picture and sound recording industries,41025,4.567
+2005,Motion picture and sound recording industries,37905,4.6
+2006,Motion picture and sound recording industries,39815,4.496
+2007,Motion picture and sound recording industries,39695,4.605
+2008,Motion picture and sound recording industries,42425,4.449
+2009,Motion picture and sound recording industries,45360,4.551
+2010,Motion picture and sound recording industries,42420,4.405
+2011,Motion picture and sound recording industries,44735,4.556
+2012,Motion picture and sound recording industries,45540,4.616
+2013,Motion picture and sound recording industries,48930,4.562
+2014,Motion picture and sound recording industries,55985,4.595
+2015,Motion picture and sound recording industries,62455,4.666
+2016,Motion picture and sound recording industries,71935,4.921
+2017,Motion picture and sound recording industries,75725,4.784
+2018,Motion picture and sound recording industries,78165,4.86
+2019,Motion picture and sound recording industries,76845,4.781
+1997,Broadcasting (except internet),33200,4.901
+1998,Broadcasting (except internet),33915,4.803
+1999,Broadcasting (except internet),35720,4.874
+2000,Broadcasting (except internet),35705,4.77
+2001,Broadcasting (except internet),35290,4.753
+2002,Broadcasting (except internet),35740,4.844
+2003,Broadcasting (except internet),38435,4.595
+2004,Broadcasting (except internet),37180,4.63
+2005,Broadcasting (except internet),35835,4.688
+2006,Broadcasting (except internet),37410,4.584
+2007,Broadcasting (except internet),36410,4.781
+2008,Broadcasting (except internet),37120,4.773
+2009,Broadcasting (except internet),35445,4.762
+2010,Broadcasting (except internet),34985,4.775
+2011,Broadcasting (except internet),36780,4.674
+2012,Broadcasting (except internet),35550,4.674
+2013,Broadcasting (except internet),35595,4.729
+2014,Broadcasting (except internet),34160,4.537
+2015,Broadcasting (except internet),34755,4.499
+2016,Broadcasting (except internet),34155,4.616
+2017,Broadcasting (except internet),34545,4.603
+2018,Broadcasting (except internet),34770,4.71
+2019,Broadcasting (except internet),34140,4.737
+1997,Telecommunications,109830,5.099
+1998,Telecommunications,120570,5.044
+1999,Telecommunications,131565,5.11
+2000,Telecommunications,139920,5.126
+2001,Telecommunications,134045,5.112
+2002,Telecommunications,137800,5.005
+2003,Telecommunications,131345,4.981
+2004,Telecommunications,135255,5.096
+2005,Telecommunications,131700,5.066
+2006,Telecommunications,132740,4.94
+2007,Telecommunications,139995,4.97
+2008,Telecommunications,140500,4.97
+2009,Telecommunications,140495,4.937
+2010,Telecommunications,139595,5.005
+2011,Telecommunications,136885,5.016
+2012,Telecommunications,138670,4.97
+2013,Telecommunications,126750,5.003
+2014,Telecommunications,115935,5.068
+2015,Telecommunications,115880,5.058
+2016,Telecommunications,119810,5.079
+2017,Telecommunications,130270,4.992
+2018,Telecommunications,130430,5.049
+2019,Telecommunications,125365,4.989
+1997,"Data processing, hosting, and related services",7935,5.145
+1998,"Data processing, hosting, and related services",9090,5.022
+1999,"Data processing, hosting, and related services",9855,5.019
+2000,"Data processing, hosting, and related services",11465,4.981
+2001,"Data processing, hosting, and related services",11845,4.951
+2002,"Data processing, hosting, and related services",11635,4.981
+2003,"Data processing, hosting, and related services",12020,4.778
+2004,"Data processing, hosting, and related services",12570,4.888
+2005,"Data processing, hosting, and related services",12995,4.94
+2006,"Data processing, hosting, and related services",13630,4.781
+2007,"Data processing, hosting, and related services",13810,4.964
+2008,"Data processing, hosting, and related services",15320,5.003
+2009,"Data processing, hosting, and related services",14610,4.868
+2010,"Data processing, hosting, and related services",16600,4.893
+2011,"Data processing, hosting, and related services",17245,4.844
+2012,"Data processing, hosting, and related services",19010,4.863
+2013,"Data processing, hosting, and related services",17080,4.849
+2014,"Data processing, hosting, and related services",15935,4.858
+2015,"Data processing, hosting, and related services",17690,4.937
+2016,"Data processing, hosting, and related services",19685,4.871
+2017,"Data processing, hosting, and related services",20125,5.014
+2018,"Data processing, hosting, and related services",20830,4.984
+2019,"Data processing, hosting, and related services",21365,4.855
+1997,Other information services,18400,3.715
+1998,Other information services,17830,3.668
+1999,Other information services,17005,3.548
+2000,Other information services,17960,3.836
+2001,Other information services,18580,3.627
+2002,Other information services,19885,3.836
+2003,Other information services,22215,3.488
+2004,Other information services,20865,3.6
+2005,Other information services,21215,3.414
+2006,Other information services,22555,3.436
+2007,Other information services,22760,3.279
+2008,Other information services,23085,3.575
+2009,Other information services,26440,3.353
+2010,Other information services,26975,3.578
+2011,Other information services,26835,3.444
+2012,Other information services,26820,3.46
+2013,Other information services,31740,3.556
+2014,Other information services,32355,3.323
+2015,Other information services,36750,3.367
+2016,Other information services,38660,3.359
+2017,Other information services,37195,3.408
+2018,Other information services,37000,3.238
+2019,Other information services,38845,3.54
+1997,Depository credit intermediation and monetary authorities,416925,4.737
+1998,Depository credit intermediation and monetary authorities,394880,4.688
+1999,Depository credit intermediation and monetary authorities,382345,4.652
+2000,Depository credit intermediation and monetary authorities,403115,4.693
+2001,Depository credit intermediation and monetary authorities,401515,4.663
+2002,Depository credit intermediation and monetary authorities,380895,4.666
+2003,Depository credit intermediation and monetary authorities,387575,4.658
+2004,Depository credit intermediation and monetary authorities,387075,4.674
+2005,Depository credit intermediation and monetary authorities,401330,4.693
+2006,Depository credit intermediation and monetary authorities,401715,4.74
+2007,Depository credit intermediation and monetary authorities,411190,4.647
+2008,Depository credit intermediation and monetary authorities,416915,4.712
+2009,Depository credit intermediation and monetary authorities,417260,4.658
+2010,Depository credit intermediation and monetary authorities,434370,4.677
+2011,Depository credit intermediation and monetary authorities,450595,4.726
+2012,Depository credit intermediation and monetary authorities,451235,4.775
+2013,Depository credit intermediation and monetary authorities,459935,4.753
+2014,Depository credit intermediation and monetary authorities,462740,4.77
+2015,Depository credit intermediation and monetary authorities,455130,4.83
+2016,Depository credit intermediation and monetary authorities,448990,4.868
+2017,Depository credit intermediation and monetary authorities,452085,4.797
+2018,Depository credit intermediation and monetary authorities,434520,4.822
+2019,Depository credit intermediation and monetary authorities,450360,4.833
+1997,Non-depository credit intermediation,21060,4.967
+1998,Non-depository credit intermediation,21620,4.789
+1999,Non-depository credit intermediation,29170,4.704
+2000,Non-depository credit intermediation,31500,4.682
+2001,Non-depository credit intermediation,33590,4.816
+2002,Non-depository credit intermediation,37130,4.721
+2003,Non-depository credit intermediation,37285,4.811
+2004,Non-depository credit intermediation,38930,4.819
+2005,Non-depository credit intermediation,42015,4.767
+2006,Non-depository credit intermediation,44850,4.789
+2007,Non-depository credit intermediation,60010,4.797
+2008,Non-depository credit intermediation,57755,4.937
+2009,Non-depository credit intermediation,48035,4.934
+2010,Non-depository credit intermediation,46715,4.915
+2011,Non-depository credit intermediation,43095,4.745
+2012,Non-depository credit intermediation,34905,4.808
+2013,Non-depository credit intermediation,35545,4.737
+2014,Non-depository credit intermediation,36840,4.718
+2015,Non-depository credit intermediation,36675,4.789
+2016,Non-depository credit intermediation,40025,4.89
+2017,Non-depository credit intermediation,41645,4.918
+2018,Non-depository credit intermediation,39565,4.89
+2019,Non-depository credit intermediation,43440,4.808
+1997,Activities related to credit intermediation,7330,5.219
+1998,Activities related to credit intermediation,9825,5.186
+1999,Activities related to credit intermediation,10555,5.112
+2000,Activities related to credit intermediation,9480,5.071
+2001,Activities related to credit intermediation,9580,5.044
+2002,Activities related to credit intermediation,10145,5.038
+2003,Activities related to credit intermediation,11400,4.997
+2004,Activities related to credit intermediation,15335,5.107
+2005,Activities related to credit intermediation,19755,5.159
+2006,Activities related to credit intermediation,23130,5
+2007,Activities related to credit intermediation,16925,5.104
+2008,Activities related to credit intermediation,18725,4.995
+2009,Activities related to credit intermediation,27925,4.942
+2010,Activities related to credit intermediation,28375,5.03
+2011,Activities related to credit intermediation,27825,4.868
+2012,Activities related to credit intermediation,29340,4.951
+2013,Activities related to credit intermediation,29325,4.962
+2014,Activities related to credit intermediation,29370,5.071
+2015,Activities related to credit intermediation,29300,4.942
+2016,Activities related to credit intermediation,29665,5.011
+2017,Activities related to credit intermediation,30350,5.052
+2018,Activities related to credit intermediation,30630,5.014
+2019,Activities related to credit intermediation,31095,4.888
+1997,Insurance carriers and related activities,234875,5.167
+1998,Insurance carriers and related activities,225540,5.096
+1999,Insurance carriers and related activities,228695,5.003
+2000,Insurance carriers and related activities,229660,4.989
+2001,Insurance carriers and related activities,222960,4.91
+2002,Insurance carriers and related activities,214530,4.814
+2003,Insurance carriers and related activities,208080,4.737
+2004,Insurance carriers and related activities,216055,4.781
+2005,Insurance carriers and related activities,212345,4.833
+2006,Insurance carriers and related activities,211750,4.819
+2007,Insurance carriers and related activities,208860,4.767
+2008,Insurance carriers and related activities,202640,4.8
+2009,Insurance carriers and related activities,201525,4.778
+2010,Insurance carriers and related activities,209400,4.742
+2011,Insurance carriers and related activities,217000,4.721
+2012,Insurance carriers and related activities,215020,4.795
+2013,Insurance carriers and related activities,213810,4.805
+2014,Insurance carriers and related activities,217800,4.756
+2015,Insurance carriers and related activities,221610,4.759
+2016,Insurance carriers and related activities,228225,4.811
+2017,Insurance carriers and related activities,237085,4.751
+2018,Insurance carriers and related activities,236800,4.715
+2019,Insurance carriers and related activities,235515,4.74
+1997,"Financial investment services, funds and other financial vehicles",77420,5.414
+1998,"Financial investment services, funds and other financial vehicles",85920,5.351
+1999,"Financial investment services, funds and other financial vehicles",106275,5.268
+2000,"Financial investment services, funds and other financial vehicles",113195,5.312
+2001,"Financial investment services, funds and other financial vehicles",118430,5.096
+2002,"Financial investment services, funds and other financial vehicles",129120,5.145
+2003,"Financial investment services, funds and other financial vehicles",133455,5.047
+2004,"Financial investment services, funds and other financial vehicles",152415,5.063
+2005,"Financial investment services, funds and other financial vehicles",165490,4.964
+2006,"Financial investment services, funds and other financial vehicles",176960,5.104
+2007,"Financial investment services, funds and other financial vehicles",186290,5.011
+2008,"Financial investment services, funds and other financial vehicles",195750,5.008
+2009,"Financial investment services, funds and other financial vehicles",173005,4.975
+2010,"Financial investment services, funds and other financial vehicles",181450,4.888
+2011,"Financial investment services, funds and other financial vehicles",182630,4.841
+2012,"Financial investment services, funds and other financial vehicles",173060,4.962
+2013,"Financial investment services, funds and other financial vehicles",174520,5.036
+2014,"Financial investment services, funds and other financial vehicles",180105,5.058
+2015,"Financial investment services, funds and other financial vehicles",182200,5.052
+2016,"Financial investment services, funds and other financial vehicles",189285,5.186
+2017,"Financial investment services, funds and other financial vehicles",198195,4.97
+2018,"Financial investment services, funds and other financial vehicles",188695,5.019
+2019,"Financial investment services, funds and other financial vehicles",187535,4.97
+1997,Real estate,149465,4.803
+1998,Real estate,156410,4.967
+1999,Real estate,157615,4.934
+2000,Real estate,168760,4.984
+2001,Real estate,173675,4.882
+2002,Real estate,184125,4.775
+2003,Real estate,201490,4.814
+2004,Real estate,204660,4.816
+2005,Real estate,218985,4.819
+2006,Real estate,233140,4.737
+2007,Real estate,247450,4.784
+2008,Real estate,255480,4.69
+2009,Real estate,256855,4.726
+2010,Real estate,265785,4.756
+2011,Real estate,272225,4.584
+2012,Real estate,274675,4.847
+2013,Real estate,276740,4.773
+2014,Real estate,275970,4.679
+2015,Real estate,290075,4.729
+2016,Real estate,298645,4.704
+2017,Real estate,312030,4.611
+2018,Real estate,312295,4.575
+2019,Real estate,316740,4.649
+1997,Rental and leasing services,78540,4.723
+1998,Rental and leasing services,80520,4.66
+1999,Rental and leasing services,81195,4.871
+2000,Rental and leasing services,81125,4.833
+2001,Rental and leasing services,87740,4.77
+2002,Rental and leasing services,84550,4.844
+2003,Rental and leasing services,85310,4.723
+2004,Rental and leasing services,87630,4.805
+2005,Rental and leasing services,90485,4.756
+2006,Rental and leasing services,85965,4.858
+2007,Rental and leasing services,84385,4.732
+2008,Rental and leasing services,85000,4.833
+2009,Rental and leasing services,78330,4.767
+2010,Rental and leasing services,74145,5.014
+2011,Rental and leasing services,74730,4.984
+2012,Rental and leasing services,73175,5.162
+2013,Rental and leasing services,71715,5.104
+2014,Rental and leasing services,72150,5.14
+2015,Rental and leasing services,72400,5.112
+2016,Rental and leasing services,71305,5.096
+2017,Rental and leasing services,72590,5.181
+2018,Rental and leasing services,73870,5.263
+2019,Rental and leasing services,74615,5.077
+1997,Lessors of non-financial intangible assets (except copyrighted works),3120,5.285
+1998,Lessors of non-financial intangible assets (except copyrighted works),4585,5.096
+1999,Lessors of non-financial intangible assets (except copyrighted works),8385,5.151
+2000,Lessors of non-financial intangible assets (except copyrighted works),12295,5.162
+2001,Lessors of non-financial intangible assets (except copyrighted works),8355,5.14
+2002,Lessors of non-financial intangible assets (except copyrighted works),8665,5.093
+2003,Lessors of non-financial intangible assets (except copyrighted works),8610,5.06
+2004,Lessors of non-financial intangible assets (except copyrighted works),9495,5.038
+2005,Lessors of non-financial intangible assets (except copyrighted works),8415,5.022
+2006,Lessors of non-financial intangible assets (except copyrighted works),9520,4.912
+2007,Lessors of non-financial intangible assets (except copyrighted works),11705,4.929
+2008,Lessors of non-financial intangible assets (except copyrighted works),9775,4.921
+2009,Lessors of non-financial intangible assets (except copyrighted works),8445,4.83
+2010,Lessors of non-financial intangible assets (except copyrighted works),8010,4.899
+2011,Lessors of non-financial intangible assets (except copyrighted works),8810,4.8
+2012,Lessors of non-financial intangible assets (except copyrighted works),9440,5.005
+2013,Lessors of non-financial intangible assets (except copyrighted works),9635,4.923
+2014,Lessors of non-financial intangible assets (except copyrighted works),9335,4.945
+2015,Lessors of non-financial intangible assets (except copyrighted works),9835,4.997
+2016,Lessors of non-financial intangible assets (except copyrighted works),8970,4.942
+2017,Lessors of non-financial intangible assets (except copyrighted works),8470,4.962
+2018,Lessors of non-financial intangible assets (except copyrighted works),8970,4.921
+2019,Lessors of non-financial intangible assets (except copyrighted works),8815,4.945
+1997,"Legal, accounting and related services",199800,5.142
+1998,"Legal, accounting and related services",204950,5.134
+1999,"Legal, accounting and related services",199100,5.192
+2000,"Legal, accounting and related services",200075,5.058
+2001,"Legal, accounting and related services",210535,4.997
+2002,"Legal, accounting and related services",210675,5.014
+2003,"Legal, accounting and related services",211360,4.956
+2004,"Legal, accounting and related services",209240,4.986
+2005,"Legal, accounting and related services",217580,4.833
+2006,"Legal, accounting and related services",226035,4.819
+2007,"Legal, accounting and related services",242590,4.827
+2008,"Legal, accounting and related services",246725,4.825
+2009,"Legal, accounting and related services",236015,4.77
+2010,"Legal, accounting and related services",248260,4.715
+2011,"Legal, accounting and related services",250000,4.8
+2012,"Legal, accounting and related services",243860,4.825
+2013,"Legal, accounting and related services",249950,4.866
+2014,"Legal, accounting and related services",253885,4.742
+2015,"Legal, accounting and related services",263815,4.833
+2016,"Legal, accounting and related services",272775,4.866
+2017,"Legal, accounting and related services",278180,4.784
+2018,"Legal, accounting and related services",284165,4.795
+2019,"Legal, accounting and related services",296690,4.805
+1997,"Architectural, engineering and related services",133055,5.488
+1998,"Architectural, engineering and related services",148395,5.501
+1999,"Architectural, engineering and related services",136180,5.512
+2000,"Architectural, engineering and related services",140615,5.521
+2001,"Architectural, engineering and related services",142410,5.444
+2002,"Architectural, engineering and related services",145315,5.299
+2003,"Architectural, engineering and related services",151325,5.296
+2004,"Architectural, engineering and related services",158960,5.359
+2005,"Architectural, engineering and related services",168735,5.4
+2006,"Architectural, engineering and related services",176295,5.37
+2007,"Architectural, engineering and related services",175915,5.392
+2008,"Architectural, engineering and related services",198885,5.312
+2009,"Architectural, engineering and related services",194645,5.164
+2010,"Architectural, engineering and related services",203490,5.277
+2011,"Architectural, engineering and related services",215150,5.301
+2012,"Architectural, engineering and related services",228395,5.255
+2013,"Architectural, engineering and related services",203885,5.241
+2014,"Architectural, engineering and related services",204650,5.296
+2015,"Architectural, engineering and related services",209640,5.241
+2016,"Architectural, engineering and related services",212195,5.219
+2017,"Architectural, engineering and related services",220365,5.203
+2018,"Architectural, engineering and related services",221290,5.175
+2019,"Architectural, engineering and related services",233070,5.107
+1997,"Other professional, scientific and technical services including scientific research and development",168195,4.86
+1998,"Other professional, scientific and technical services including scientific research and development",199150,4.896
+1999,"Other professional, scientific and technical services including scientific research and development",207380,5.06
+2000,"Other professional, scientific and technical services including scientific research and development",236360,5
+2001,"Other professional, scientific and technical services including scientific research and development",245905,4.912
+2002,"Other professional, scientific and technical services including scientific research and development",244745,4.797
+2003,"Other professional, scientific and technical services including scientific research and development",270525,4.762
+2004,"Other professional, scientific and technical services including scientific research and development",281485,4.734
+2005,"Other professional, scientific and technical services including scientific research and development",291265,4.732
+2006,"Other professional, scientific and technical services including scientific research and development",310700,4.69
+2007,"Other professional, scientific and technical services including scientific research and development",328000,4.74
+2008,"Other professional, scientific and technical services including scientific research and development",347065,4.66
+2009,"Other professional, scientific and technical services including scientific research and development",325345,4.529
+2010,"Other professional, scientific and technical services including scientific research and development",322870,4.523
+2011,"Other professional, scientific and technical services including scientific research and development",326565,4.581
+2012,"Other professional, scientific and technical services including scientific research and development",322035,4.589
+2013,"Other professional, scientific and technical services including scientific research and development",346990,4.562
+2014,"Other professional, scientific and technical services including scientific research and development",344470,4.515
+2015,"Other professional, scientific and technical services including scientific research and development",336195,4.603
+2016,"Other professional, scientific and technical services including scientific research and development",347690,4.482
+2017,"Other professional, scientific and technical services including scientific research and development",352440,4.499
+2018,"Other professional, scientific and technical services including scientific research and development",356905,4.57
+2019,"Other professional, scientific and technical services including scientific research and development",370775,4.463
+1997,Computer systems design and related services,90980,5.436
+1998,Computer systems design and related services,114805,5.37
+1999,Computer systems design and related services,145670,5.367
+2000,Computer systems design and related services,163555,5.315
+2001,Computer systems design and related services,166670,5.227
+2002,Computer systems design and related services,171990,5.241
+2003,Computer systems design and related services,185040,5.107
+2004,Computer systems design and related services,182430,5.195
+2005,Computer systems design and related services,182500,5.129
+2006,Computer systems design and related services,182215,5.132
+2007,Computer systems design and related services,189800,5.101
+2008,Computer systems design and related services,192835,5.101
+2009,Computer systems design and related services,197935,5.044
+2010,Computer systems design and related services,197650,5.03
+2011,Computer systems design and related services,213695,5.047
+2012,Computer systems design and related services,213300,5.134
+2013,Computer systems design and related services,233735,5.205
+2014,Computer systems design and related services,244635,5.088
+2015,Computer systems design and related services,250500,5.123
+2016,Computer systems design and related services,269635,5.129
+2017,Computer systems design and related services,285895,5.079
+2018,Computer systems design and related services,308935,5.167
+2019,Computer systems design and related services,333780,5.068
+1997,"Advertising, public relations, and related services",43715,4.688
+1998,"Advertising, public relations, and related services",43125,4.6
+1999,"Advertising, public relations, and related services",43670,4.69
+2000,"Advertising, public relations, and related services",44990,4.562
+2001,"Advertising, public relations, and related services",46820,4.573
+2002,"Advertising, public relations, and related services",47245,4.468
+2003,"Advertising, public relations, and related services",51715,4.34
+2004,"Advertising, public relations, and related services",51265,4.592
+2005,"Advertising, public relations, and related services",53825,4.638
+2006,"Advertising, public relations, and related services",55975,4.649
+2007,"Advertising, public relations, and related services",55545,4.773
+2008,"Advertising, public relations, and related services",58650,4.71
+2009,"Advertising, public relations, and related services",60550,4.778
+2010,"Advertising, public relations, and related services",63080,4.564
+2011,"Advertising, public relations, and related services",62175,4.605
+2012,"Advertising, public relations, and related services",63225,4.567
+2013,"Advertising, public relations, and related services",66795,4.614
+2014,"Advertising, public relations, and related services",70160,4.573
+2015,"Advertising, public relations, and related services",70120,4.811
+2016,"Advertising, public relations, and related services",66350,4.614
+2017,"Advertising, public relations, and related services",67895,4.679
+2018,"Advertising, public relations, and related services",67010,4.701
+2019,"Advertising, public relations, and related services",68770,4.589
+1997,Administrative and support services,522665,4.321
+1998,Administrative and support services,573125,4.288
+1999,Administrative and support services,647435,4.282
+2000,Administrative and support services,670190,4.279
+2001,Administrative and support services,673915,4.301
+2002,Administrative and support services,730940,4.288
+2003,Administrative and support services,757660,4.304
+2004,Administrative and support services,776105,4.34
+2005,Administrative and support services,810710,4.332
+2006,Administrative and support services,837790,4.342
+2007,Administrative and support services,841515,4.397
+2008,Administrative and support services,870115,4.364
+2009,Administrative and support services,828355,4.318
+2010,Administrative and support services,853695,4.293
+2011,Administrative and support services,857815,4.271
+2012,Administrative and support services,869770,4.282
+2013,Administrative and support services,887570,4.282
+2014,Administrative and support services,920975,4.252
+2015,Administrative and support services,918275,4.321
+2016,Administrative and support services,925275,4.277
+2017,Administrative and support services,909030,4.255
+2018,Administrative and support services,909920,4.268
+2019,Administrative and support services,941295,4.208
+1997,Waste management and remediation services,41705,4.334
+1998,Waste management and remediation services,39270,4.534
+1999,Waste management and remediation services,36230,4.745
+2000,Waste management and remediation services,29520,4.918
+2001,Waste management and remediation services,26130,5.307
+2002,Waste management and remediation services,27110,5.414
+2003,Waste management and remediation services,27565,5.589
+2004,Waste management and remediation services,28385,5.589
+2005,Waste management and remediation services,29235,5.395
+2006,Waste management and remediation services,32050,5.351
+2007,Waste management and remediation services,32350,5.334
+2008,Waste management and remediation services,35550,5.277
+2009,Waste management and remediation services,35050,5.351
+2010,Waste management and remediation services,35600,5.318
+2011,Waste management and remediation services,37230,5.293
+2012,Waste management and remediation services,38630,5.485
+2013,Waste management and remediation services,41235,5.501
+2014,Waste management and remediation services,42135,5.422
+2015,Waste management and remediation services,45415,5.397
+2016,Waste management and remediation services,49500,5.392
+2017,Waste management and remediation services,51365,5.518
+2018,Waste management and remediation services,53200,5.581
+2019,Waste management and remediation services,56165,5.315
+1997,Universities,192160,4.455
+1998,Universities,201780,4.438
+1999,Universities,215510,4.51
+2000,Universities,230215,4.359
+2001,Universities,241280,4.323
+2002,Universities,260985,4.247
+2003,Universities,272545,4.293
+2004,Universities,284200,4.244
+2005,Universities,290655,4.263
+2006,Universities,298030,4.197
+2007,Universities,301160,4.312
+2008,Universities,305515,4.304
+2009,Universities,304480,4.249
+2010,Universities,302275,4.211
+2011,Universities,300990,4.255
+2012,Universities,303980,4.266
+2013,Universities,307095,4.178
+2014,Universities,311510,4.112
+2015,Universities,311110,4.14
+2016,Universities,315240,4.236
+2017,Universities,313845,4.159
+2018,Universities,326330,4.162
+2019,Universities,338740,4.126
+1997,Educational services (except universities),804900,4.304
+1998,Educational services (except universities),819160,4.296
+1999,Educational services (except universities),820105,4.279
+2000,Educational services (except universities),822745,4.279
+2001,Educational services (except universities),851020,4.255
+2002,Educational services (except universities),876730,4.225
+2003,Educational services (except universities),888560,4.184
+2004,Educational services (except universities),894010,4.129
+2005,Educational services (except universities),911350,4.151
+2006,Educational services (except universities),925135,4.156
+2007,Educational services (except universities),947060,4.137
+2008,Educational services (except universities),963845,4.222
+2009,Educational services (except universities),979605,4.115
+2010,Educational services (except universities),981215,4.142
+2011,Educational services (except universities),989405,4.101
+2012,Educational services (except universities),1004200,4.162
+2013,Educational services (except universities),1027830,4.099
+2014,Educational services (except universities),1040840,4.071
+2015,Educational services (except universities),1048370,4.11
+2016,Educational services (except universities),1068750,4.052
+2017,Educational services (except universities),1083980,4.003
+2018,Educational services (except universities),1111760,4.082
+2019,Educational services (except universities),1146700,3.997
+1997,Health care,1165265,4.414
+1998,Health care,1180835,4.395
+1999,Health care,1211515,4.43
+2000,Health care,1255490,4.411
+2001,Health care,1272985,4.381
+2002,Health care,1308170,4.31
+2003,Health care,1339790,4.299
+2004,Health care,1341665,4.326
+2005,Health care,1356275,4.277
+2006,Health care,1390770,4.329
+2007,Health care,1464120,4.34
+2008,Health care,1490015,4.364
+2009,Health care,1522300,4.373
+2010,Health care,1536915,4.348
+2011,Health care,1563340,4.34
+2012,Health care,1581250,4.375
+2013,Health care,1613040,4.337
+2014,Health care,1639520,4.315
+2015,Health care,1679945,4.34
+2016,Health care,1733030,4.364
+2017,Health care,1763965,4.359
+2018,Health care,1810115,4.411
+2019,Health care,1832520,4.367
+1997,Social assistance,222660,4.356
+1998,Social assistance,242340,4.381
+1999,Social assistance,241295,4.504
+2000,Social assistance,252150,4.452
+2001,Social assistance,257040,4.452
+2002,Social assistance,267070,4.436
+2003,Social assistance,277090,4.397
+2004,Social assistance,284420,4.405
+2005,Social assistance,286385,4.419
+2006,Social assistance,294395,4.397
+2007,Social assistance,306305,4.482
+2008,Social assistance,313270,4.433
+2009,Social assistance,320940,4.449
+2010,Social assistance,341995,4.414
+2011,Social assistance,349040,4.37
+2012,Social assistance,347175,4.4
+2013,Social assistance,355545,4.403
+2014,Social assistance,358500,4.37
+2015,Social assistance,367845,4.348
+2016,Social assistance,381865,4.384
+2017,Social assistance,393915,4.384
+2018,Social assistance,406065,4.37
+2019,Social assistance,419790,4.296
+1997,"Performing arts, spectator sports and related industries, and heritage institutions",93805,4.099
+1998,"Performing arts, spectator sports and related industries, and heritage institutions",107255,4.123
+1999,"Performing arts, spectator sports and related industries, and heritage institutions",112550,4.153
+2000,"Performing arts, spectator sports and related industries, and heritage institutions",117225,4.277
+2001,"Performing arts, spectator sports and related industries, and heritage institutions",124490,4.288
+2002,"Performing arts, spectator sports and related industries, and heritage institutions",134020,4.255
+2003,"Performing arts, spectator sports and related industries, and heritage institutions",138120,4.126
+2004,"Performing arts, spectator sports and related industries, and heritage institutions",144625,4.181
+2005,"Performing arts, spectator sports and related industries, and heritage institutions",132645,4.03
+2006,"Performing arts, spectator sports and related industries, and heritage institutions",134420,4.011
+2007,"Performing arts, spectator sports and related industries, and heritage institutions",137600,4.071
+2008,"Performing arts, spectator sports and related industries, and heritage institutions",143330,4.099
+2009,"Performing arts, spectator sports and related industries, and heritage institutions",147175,3.951
+2010,"Performing arts, spectator sports and related industries, and heritage institutions",140255,4
+2011,"Performing arts, spectator sports and related industries, and heritage institutions",138940,3.953
+2012,"Performing arts, spectator sports and related industries, and heritage institutions",133190,3.912
+2013,"Performing arts, spectator sports and related industries, and heritage institutions",140125,3.989
+2014,"Performing arts, spectator sports and related industries, and heritage institutions",137765,3.929
+2015,"Performing arts, spectator sports and related industries, and heritage institutions",144715,3.918
+2016,"Performing arts, spectator sports and related industries, and heritage institutions",155080,3.901
+2017,"Performing arts, spectator sports and related industries, and heritage institutions",154390,3.871
+2018,"Performing arts, spectator sports and related industries, and heritage institutions",158050,3.942
+2019,"Performing arts, spectator sports and related industries, and heritage institutions",161775,3.923
+1997,"Amusement, gambling and recreation industries",115745,4.375
+1998,"Amusement, gambling and recreation industries",120985,4.318
+1999,"Amusement, gambling and recreation industries",132935,4.26
+2000,"Amusement, gambling and recreation industries",133100,4.258
+2001,"Amusement, gambling and recreation industries",139580,4.181
+2002,"Amusement, gambling and recreation industries",154590,4.107
+2003,"Amusement, gambling and recreation industries",156085,4.153
+2004,"Amusement, gambling and recreation industries",165500,4.14
+2005,"Amusement, gambling and recreation industries",168330,4.003
+2006,"Amusement, gambling and recreation industries",171000,3.964
+2007,"Amusement, gambling and recreation industries",171260,3.945
+2008,"Amusement, gambling and recreation industries",169940,3.964
+2009,"Amusement, gambling and recreation industries",171125,3.893
+2010,"Amusement, gambling and recreation industries",172695,3.871
+2011,"Amusement, gambling and recreation industries",174645,3.83
+2012,"Amusement, gambling and recreation industries",176695,3.827
+2013,"Amusement, gambling and recreation industries",184270,3.742
+2014,"Amusement, gambling and recreation industries",185305,3.723
+2015,"Amusement, gambling and recreation industries",193115,3.795
+2016,"Amusement, gambling and recreation industries",201650,3.729
+2017,"Amusement, gambling and recreation industries",208935,3.625
+2018,"Amusement, gambling and recreation industries",208695,3.718
+2019,"Amusement, gambling and recreation industries",216095,3.671
+1997,Accommodation services,195160,4.816
+1998,Accommodation services,203755,4.934
+1999,Accommodation services,199390,4.833
+2000,Accommodation services,196360,4.852
+2001,Accommodation services,190080,4.745
+2002,Accommodation services,193415,4.649
+2003,Accommodation services,186375,4.69
+2004,Accommodation services,192335,4.688
+2005,Accommodation services,194405,4.649
+2006,Accommodation services,197240,4.636
+2007,Accommodation services,201000,4.699
+2008,Accommodation services,210455,4.611
+2009,Accommodation services,197110,4.578
+2010,Accommodation services,206885,4.529
+2011,Accommodation services,207325,4.499
+2012,Accommodation services,207975,4.548
+2013,Accommodation services,194450,4.597
+2014,Accommodation services,191440,4.499
+2015,Accommodation services,189330,4.51
+2016,Accommodation services,198085,4.512
+2017,Accommodation services,197960,4.507
+2018,Accommodation services,198000,4.463
+2019,Accommodation services,198955,4.425
+1997,Food services and drinking places,712730,4.23
+1998,Food services and drinking places,723540,4.326
+1999,Food services and drinking places,753700,4.26
+2000,Food services and drinking places,791250,4.195
+2001,Food services and drinking places,793540,4.134
+2002,Food services and drinking places,817715,4.047
+2003,Food services and drinking places,812270,4.068
+2004,Food services and drinking places,815940,4.055
+2005,Food services and drinking places,829540,3.981
+2006,Food services and drinking places,831470,4.005
+2007,Food services and drinking places,844940,4.016
+2008,Food services and drinking places,877240,3.959
+2009,Food services and drinking places,882935,3.899
+2010,Food services and drinking places,908245,3.844
+2011,Food services and drinking places,925925,3.838
+2012,Food services and drinking places,947160,3.885
+2013,Food services and drinking places,981690,3.858
+2014,Food services and drinking places,1015045,3.858
+2015,Food services and drinking places,1061830,3.858
+2016,Food services and drinking places,1087630,3.825
+2017,Food services and drinking places,1104195,3.808
+2018,Food services and drinking places,1106245,3.849
+2019,Food services and drinking places,1101980,3.795
+1997,Repair and maintenance,152480,5.493
+1998,Repair and maintenance,162460,5.474
+1999,Repair and maintenance,187585,5.419
+2000,Repair and maintenance,194775,5.46
+2001,Repair and maintenance,200670,5.397
+2002,Repair and maintenance,208260,5.31
+2003,Repair and maintenance,213175,5.238
+2004,Repair and maintenance,211320,5.299
+2005,Repair and maintenance,209495,5.285
+2006,Repair and maintenance,209180,5.244
+2007,Repair and maintenance,212210,5.227
+2008,Repair and maintenance,212910,5.279
+2009,Repair and maintenance,210495,5.071
+2010,Repair and maintenance,217755,5.118
+2011,Repair and maintenance,222040,5.184
+2012,Repair and maintenance,228225,5.159
+2013,Repair and maintenance,226205,5.178
+2014,Repair and maintenance,223975,5.214
+2015,Repair and maintenance,230835,5.101
+2016,Repair and maintenance,233205,5.085
+2017,Repair and maintenance,237905,5.025
+2018,Repair and maintenance,238480,5.115
+2019,Repair and maintenance,238735,5.077
+1997,Personal services and private households,317235,4.605
+1998,Personal services and private households,318440,4.499
+1999,Personal services and private households,307680,4.767
+2000,Personal services and private households,294510,4.696
+2001,Personal services and private households,297995,4.677
+2002,Personal services and private households,304595,4.581
+2003,Personal services and private households,304275,4.559
+2004,Personal services and private households,306915,4.537
+2005,Personal services and private households,308365,4.438
+2006,Personal services and private households,320325,4.523
+2007,Personal services and private households,329330,4.562
+2008,Personal services and private households,345870,4.534
+2009,Personal services and private households,357080,4.482
+2010,Personal services and private households,360670,4.438
+2011,Personal services and private households,356505,4.433
+2012,Personal services and private households,361605,4.425
+2013,Personal services and private households,364880,4.359
+2014,Personal services and private households,350065,4.427
+2015,Personal services and private households,376010,4.282
+2016,Personal services and private households,369530,4.34
+2017,Personal services and private households,377265,4.282
+2018,Personal services and private households,379325,4.285
+2019,Personal services and private households,387410,4.263
+1997,"Religious, grant-making, civic, and professional and similar organizations",226050,4.679
+1998,"Religious, grant-making, civic, and professional and similar organizations",232820,4.732
+1999,"Religious, grant-making, civic, and professional and similar organizations",245715,4.699
+2000,"Religious, grant-making, civic, and professional and similar organizations",244160,4.674
+2001,"Religious, grant-making, civic, and professional and similar organizations",245515,4.611
+2002,"Religious, grant-making, civic, and professional and similar organizations",254745,4.63
+2003,"Religious, grant-making, civic, and professional and similar organizations",257610,4.581
+2004,"Religious, grant-making, civic, and professional and similar organizations",254855,4.573
+2005,"Religious, grant-making, civic, and professional and similar organizations",255975,4.655
+2006,"Religious, grant-making, civic, and professional and similar organizations",258820,4.603
+2007,"Religious, grant-making, civic, and professional and similar organizations",267495,4.532
+2008,"Religious, grant-making, civic, and professional and similar organizations",273470,4.479
+2009,"Religious, grant-making, civic, and professional and similar organizations",272470,4.433
+2010,"Religious, grant-making, civic, and professional and similar organizations",267860,4.392
+2011,"Religious, grant-making, civic, and professional and similar organizations",272715,4.441
+2012,"Religious, grant-making, civic, and professional and similar organizations",283695,4.419
+2013,"Religious, grant-making, civic, and professional and similar organizations",294165,4.449
+2014,"Religious, grant-making, civic, and professional and similar organizations",295685,4.4
+2015,"Religious, grant-making, civic, and professional and similar organizations",292585,4.364
+2016,"Religious, grant-making, civic, and professional and similar organizations",285460,4.321
+2017,"Religious, grant-making, civic, and professional and similar organizations",289695,4.29
+2018,"Religious, grant-making, civic, and professional and similar organizations",290090,4.288
+2019,"Religious, grant-making, civic, and professional and similar organizations",291865,4.241
+1997,Federal government public administration,315650,4.921
+1998,Federal government public administration,309310,4.814
+1999,Federal government public administration,306700,4.89
+2000,Federal government public administration,314330,4.811
+2001,Federal government public administration,317005,4.792
+2002,Federal government public administration,328675,4.721
+2003,Federal government public administration,334580,4.655
+2004,Federal government public administration,334640,4.666
+2005,Federal government public administration,340650,4.619
+2006,Federal government public administration,354080,4.63
+2007,Federal government public administration,355605,4.636
+2008,Federal government public administration,366710,4.641
+2009,Federal government public administration,382320,4.663
+2010,Federal government public administration,387545,4.693
+2011,Federal government public administration,390690,4.726
+2012,Federal government public administration,376025,4.603
+2013,Federal government public administration,360365,4.553
+2014,Federal government public administration,358605,4.608
+2015,Federal government public administration,360775,4.529
+2016,Federal government public administration,369670,4.54
+2017,Federal government public administration,373315,4.499
+2018,Federal government public administration,386130,4.515
+2019,Federal government public administration,403260,4.43
+1997,Provincial and territorial public administration,237050,4.855
+1998,Provincial and territorial public administration,233030,4.871
+1999,Provincial and territorial public administration,238400,4.83
+2000,Provincial and territorial public administration,240685,4.868
+2001,Provincial and territorial public administration,242790,4.836
+2002,Provincial and territorial public administration,235090,4.797
+2003,Provincial and territorial public administration,243215,4.726
+2004,Provincial and territorial public administration,240515,4.759
+2005,Provincial and territorial public administration,244115,4.699
+2006,Provincial and territorial public administration,246695,4.742
+2007,Provincial and territorial public administration,251490,4.784
+2008,Provincial and territorial public administration,258390,4.753
+2009,Provincial and territorial public administration,257610,4.77
+2010,Provincial and territorial public administration,259675,4.778
+2011,Provincial and territorial public administration,261750,4.704
+2012,Provincial and territorial public administration,254370,4.699
+2013,Provincial and territorial public administration,252810,4.679
+2014,Provincial and territorial public administration,249030,4.701
+2015,Provincial and territorial public administration,245150,4.647
+2016,Provincial and territorial public administration,247305,4.663
+2017,Provincial and territorial public administration,250965,4.674
+2018,Provincial and territorial public administration,256590,4.679
+2019,Provincial and territorial public administration,257615,4.671
+1997,"Local, municipal, regional and aboriginal public administration",323345,4.77
+1998,"Local, municipal, regional and aboriginal public administration",320240,4.734
+1999,"Local, municipal, regional and aboriginal public administration",328900,4.737
+2000,"Local, municipal, regional and aboriginal public administration",346235,4.704
+2001,"Local, municipal, regional and aboriginal public administration",357880,4.666
+2002,"Local, municipal, regional and aboriginal public administration",366835,4.668
+2003,"Local, municipal, regional and aboriginal public administration",378790,4.699
+2004,"Local, municipal, regional and aboriginal public administration",390155,4.685
+2005,"Local, municipal, regional and aboriginal public administration",401805,4.595
+2006,"Local, municipal, regional and aboriginal public administration",402435,4.658
+2007,"Local, municipal, regional and aboriginal public administration",418515,4.729
+2008,"Local, municipal, regional and aboriginal public administration",446410,4.71
+2009,"Local, municipal, regional and aboriginal public administration",484200,4.715
+2010,"Local, municipal, regional and aboriginal public administration",483970,4.677
+2011,"Local, municipal, regional and aboriginal public administration",483150,4.682
+2012,"Local, municipal, regional and aboriginal public administration",478860,4.666
+2013,"Local, municipal, regional and aboriginal public administration",486140,4.674
+2014,"Local, municipal, regional and aboriginal public administration",482975,4.668
+2015,"Local, municipal, regional and aboriginal public administration",481990,4.658
+2016,"Local, municipal, regional and aboriginal public administration",493120,4.666
+2017,"Local, municipal, regional and aboriginal public administration",508480,4.633
+2018,"Local, municipal, regional and aboriginal public administration",513165,4.677
+2019,"Local, municipal, regional and aboriginal public administration",526435,4.712

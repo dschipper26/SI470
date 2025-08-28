@@ -1,0 +1,115 @@
+tier1,tier2,hours_per_day
+Personal activities,Night sleep/necessary sleep,8.083333333
+Personal activities,Nap,0.933333333
+Personal activities,Bed of sickness,0.016666667
+Personal activities,Meals (including working meals),1.533333333
+Personal activities,Drinking water and bererages,0.1
+Personal activities,Eating snakes,0.016666667
+Personal activities,Daily personal hyginene activities,0.566666667
+Personal activities,Bathing,0.166666667
+Personal activities,Grooming personal hyginene activities,0.016666667
+Personal activities,Other personal hyginene activities,0.033333333
+Personal activities,Religious activities,0.016666667
+Personal activities,Smoking,0.016666667
+Personal activities,Other personal activities,0.083333333
+Personal activities,Transportation activities (related to Gategory 0),0.083333333
+Employment,Full-time job,2.25
+Employment,Part-time job,0.083333333
+Employment,Apprenticeship or internship,0
+Employment,Short break or work interruption,0.1
+Employment,Training or learning related to employment activities,0.016666667
+Employment,Looking for jobs,0
+Employment,Entrepreneurial activities,0
+Employment,Other employment activities,0.033333333
+Employment,Transportation activities (related to Gategory 1),0.466666667
+Agriculture,Agricultural(planting) production activities,1.366666667
+Agriculture,Forestry production activities,0.016666667
+Agriculture,Livestock production activities,0.183333333
+Agriculture,Fishery production activities,0.016666667
+Agriculture,Other primary production activities,0.016666667
+Agriculture,Transportation activities (related to Gategory 2),0.2
+Manufacturing,Agricultural and sideline products processing,0.016666667
+Manufacturing,Food manufacturing,0
+Manufacturing,Brewing and beverage manufacturing,0
+Manufacturing,"Production of textiles, clothing, leather and related products",0.016666667
+Manufacturing,Production and processing of non-metallic mineral products,0.016666667
+Manufacturing,Other manufacturing activities,0.016666667
+Manufacturing,Home construction activities,0.066666667
+Manufacturing,Other activities,0
+Manufacturing,Transportation activities (related to Gategory 3),0.016666667
+Housework,Food and small commodities trading,0.116666667
+Housework,"Provide repair, instrallation and maintenance services",0.016666667
+Housework,Provide professional services,0.016666667
+Housework,Provide personal care services,0
+Housework,Passenger and cargo transport,0.033333333
+Housework,Paid housekeeping services,0
+Housework,Other activities,0.033333333
+Housework,Transportation activities (related to Gategory 4),0.033333333
+Housework,Prepare food or drink,0.85
+Housework,Meal service and cleaning up,0.25
+Housework,Indoor cleaning,0.233333333
+Housework,Outdoor cleaning,0.033333333
+Housework,Washing clothes and shoes,0.2
+Housework,"Ironing, organizing and storing clothes",0
+Housework,Mending clothes and hand knitting,0.05
+Housework,Buy household consumer goods and durable goods,0.233333333
+Housework,Window-shopping,0.05
+Housework,"Ask someone to repair electrical appliances, cars or arrange for repairs",0
+Housework,Go to specialized agencies for specific services,0.033333333
+Housework,"Feeding, cleaning, walking pets",0.016666667
+Housework,"Seeing a veterinatian, grooming and breeding pets",0
+Housework,Planting flowers and plants,0
+Housework,Renovate or repair the house yourself,0.016666667
+Housework,"Production, installation, debugging and repair of personal or household items",0
+Housework,Maintenance and small repairs of vehicles,0.016666667
+Housework,Arrangement and management of family affairs,0
+Housework,Transportation activities (related to Gategory 5),0.15
+Taking care of family members,Take care of children,0.1
+Taking care of family members,"Carrying out education, traning and assistance for children",0.116666667
+Taking care of family members,Babysitting,0.1
+Taking care of family members,Go out with children,0.033333333
+Taking care of family members,Take care of adult family members,0.016666667
+Taking care of family members,Medical care for adult family members,0.016666667
+Taking care of family members,Go out with adult family members,0
+Taking care of family members,Free housework assistance to other families,0.033333333
+Taking care of family members,Community services and public welfare activities,0.016666667
+Taking care of family members,Other activities,0.016666667
+Taking care of family members,Transportation activities (related to Gategory 6),0.1
+Learning and training,School education activities,0.266666667
+Learning and training,Resting or waiting for classes,0.05
+Learning and training,Remote education learning activities,0
+Learning and training,"Complete homework or review, pre-study homework, etc",0.116666667
+Learning and training,Part-time learning and non-formal education,0.016666667
+Learning and training,Participate in vocational professional-related training and leaning,0
+Learning and training,Other activities,0.016666667
+Learning and training,Transportation activities (related to Gategory 7),0.066666667
+Free time,Read books,0.066666667
+Free time,Read newspaper/periodicals,0.116666667
+Free time,Read other metarials,0
+Free time,Watch TV,2.083333333
+Free time,Watch and listen to CD programs,0
+Free time,Listen to the radio,0.016666667
+Free time,Listen to other radio equipments,0
+Free time,Use computer to read and watch/listen to programs,0
+Free time,Use the Internet,0.233333333
+Free time,Walking and running,0.3
+Free time,Wushu and Qigoing,0
+Free time,Dancing and fitness activities,0.05
+Free time,Ball games,0.033333333
+Free time,Water sports,0
+Free time,Other sports,0
+Free time,Board games,0.316666667
+Free time,Computer games,0.016666667
+Free time,Group games,0.016666667
+Free time,Collection activities,0
+Free time,Art activities,0.016666667
+Free time,Watching movies,0
+Free time,Visiting activities,0.033333333
+Free time,Watching performances,0
+Free time,Watching sports,0
+Free time,Concersation and communication,0.366666667
+Free time,Reading and writing letters,0
+Free time,Other social interaction activities,0.016666667
+Free time,Other activities,0.033333333
+Free time,Transportation activities (related to Gategory 8),0.133333333
+Undefined activities,Undefined activities,0.016666667

@@ -1,0 +1,52 @@
+﻿tier1,tier2,hours_per_day
+personal care and maintenance,sleep and related activities,8.983
+personal care and maintenance,eating and drinking,0.967
+personal care and maintenance,hygiene and personal care,0.633
+personal care and maintenance,receiving personal and/or medical care,0
+personal care and maintenance,"resting, relaxing, and reflecting",1.25
+personal care and maintenance,travel related to personal care and maintenance,0.117
+personal care and maintenance,other personal care and maintenance activities,0.017
+SNA professional activities,"work for establishments, non-profit institutions, and public administration",1.933
+SNA professional activities,work for households in primary production activities,1.083
+SNA professional activities,work for households in non-primary production,0.083
+SNA professional activities,work for households in construction activities,0.017
+SNA professional activities,work for households providing services for income,0.367
+SNA professional activities,searching for job,0
+SNA professional activities,travel related to work,0.45
+SNA professional activities,other activities related to work nec,0.05
+studies and learning,general education,1.617
+studies and learning,"homework, studying, research, and activities related to general education",0.583
+studies and learning,"supplementary education, non-school learning, and free-time courses",0.033
+studies and learning,travel related to education,0.167
+studies and learning,other activities related to education nec,0.033
+household work,cooking and preparing food,0.883
+household work,cleaning and maintenance of household and surroundings,0.297
+household work,"DIY decoration, maintenance, and small repairs",0
+household work,maintenance of textiles and shoes,0.191
+household work,household management,0.06
+household work,care for pets,0.11
+household work,purchasing,0.067
+household work,travel related to household work,0.21
+household work,other activities related to household work nec,0.05
+household work,residual household work,0.782
+household care work,childcare,0.347
+household care work,care for dependent adults,0.015
+household care work,help to non-dependent adults,0.014
+household care work,travel related to household care work,0.06
+household care work,other activities related to household care work nec,0.011
+sports and recreation,"participation and visitis to cultural events, spectacles, and sports",0.02
+sports and recreation,"hobbies, games, and other pastimes",0.133
+sports and recreation,sports and exercise participation,0.033
+sports and recreation,travel related to sports and recreation,0.033
+sports and recreation,other activities related to sports and recreation nec,0
+social activities,social life and communication,1.067
+social activities,participation in community cultural and social events,0.027
+social activities,civic responsabilities,0
+social activities,religious practice,0.51
+social activities,travel related to social activities,0.077
+social activities,other social activities nec,0.023
+volunteer activities,unpaid help to other households,0.03
+volunteer activities,community-organized services,0.013
+volunteer activities,participation in meetings for community volunteering,0
+volunteer activities,travel related to volunteer activities,0.026
+volunteer activities,other volunteer activities nec,0.013

@@ -1,0 +1,821 @@
+year,economicActivity,employment,hours_worked
+2010,Agriculture,2260000,5.328571429
+2010,Forestry,80000,5.685714286
+2010,"Fisheries, except aquaculture",130000,5.257142857
+2010,Aquaculture,60000,6.057142857
+2010,Mining and quarrying of stone and gravel,30000,6.457142857
+2010,Construction,4980000,6.314285714
+2010,Manufacture of food,1360000,5.771428571
+2010,"Manufacture of beverages, tobacco and feed",140000,6.071428571
+2010,Manufacture of textile mill products,540000,5.728571429
+2010,"Manufacture of lumber and wood products, except furniture",150000,6.085714286
+2010,Manufacture of furniture and fixtures,160000,5.942857143
+2010,"Manufacture of pulp, paper and paper products",270000,5.914285714
+2010,Printing and allied industries,500000,6.242857143
+2010,Manufacture of chemical and allied products,580000,6.042857143
+2010,Manufacture of petroleum and coal products,30000,6.128571429
+2010,"Manufacture of plastic products, except otherwise classified",440000,5.942857143
+2010,Manufacture of rubber products,160000,5.871428571
+2010,"Manufacture of leather tanning, leather products and fur skins",60000,5.785714286
+2010,"Manufacture of ceramic, stone and clay products",330000,6.028571429
+2010,Manufacture of iron and steel,230000,6.057142857
+2010,Manufacture of non-ferrous metals and products,180000,6.114285714
+2010,Manufacture of fabricated metal products,980000,5.971428571
+2010,Manufacture of general-purpose machinery,340000,6.1
+2010,Manufacture of production machinery,700000,6.171428571
+2010,Manufacture of business oriented machinery,350000,6.114285714
+2010,"Electronic parts, devices and electronic circuits",700000,6.157142857
+2010,"Manufacture of electrical machinery, equipment and supplies",630000,6.057142857
+2010,Manufacture of information and communication electronics equipment,290000,6.128571429
+2010,Manufacture of transportation equipment,1000000,6.157142857
+2010,Miscellaneous manufacturing industries,360000,5.614285714
+2010,"Electricity, gas, heat supply and water",340000,5.885714286
+2010,Communications,220000,6.142857143
+2010,Broadcasting,80000,6.485714286
+2010,Information services,1250000,6.328571429
+2010,Internet based services,80000,6.485714286
+2010,"Video picture, sound information, character information production and distribution",330000,6.528571429
+2010,Railway transport,260000,5.914285714
+2010,Road passenger transport,610000,6.857142857
+2010,Road freight transport,1810000,6.842857143
+2010,Water transport,70000,6.557142857
+2010,Air transport,50000,5.442857143
+2010,Warehousing,170000,5.785714286
+2010,Services incidental to transport,300000,5.842857143
+2010,"Postal activities, including mail delivery",240000,5.314285714
+2010,Wholesale trade,3310000,6.3
+2010,"Retail trade, general merchandise",500000,4.628571429
+2010,"Retail trade (dry goods, apparel and apparel accessories)",660000,5.6
+2010,Retail trade (food and beverage),2710000,5.042857143
+2010,Retail trade (machinery and equipment),910000,6.742857143
+2010,Miscellaneous retail trade,2490000,5.457142857
+2010,Finance and insurance,1630000,5.914285714
+2010,Real estate,830000,5.171428571
+2010,Goods rental and leasing,270000,5.914285714
+2010,Scientific and development research institutes,190000,5.9
+2010,"Professional services, N.E.C.",790000,5.671428571
+2010,Advertising,170000,6.657142857
+2010,"Technical services, N.E.C.",830000,6.1
+2010,Accommodations,570000,5.9
+2010,Eating and drinking places,2820000,5.214285714
+2010,Food take out and delivery services,470000,4.842857143
+2010,"Laundry, beauty and bath services",1150000,5.885714286
+2010,Miscellaneous living-related and personal services,450000,5.371428571
+2010,Services for amusement and hobbies,790000,5.228571429
+2010,School education,1990000,6.028571429
+2010,"Miscellaneous education, learning support",890000,4.014285714
+2010,Medical and other health services,3420000,5.557142857
+2010,Public health and hygiene,100000,4.842857143
+2010,Social insurance and social welfare,3010000,5.071428571
+2010,Postal services,160000,5.328571429
+2010,"Cooperative associations, N.E.C.",290000,6.014285714
+2010,Waste disposal business,310000,5.942857143
+2010,Automobile maintenance services,330000,6.428571429
+2010,"Machine, etc. repair services, except otherwise classified",290000,6.114285714
+2010,Employment and worker dispatching services,980000,5.2
+2010,Miscellaneous business services,2110000,4.942857143
+2010,"Political, business and cultural organizations",260000,5.271428571
+2010,Religion,190000,5.542857143
+2010,Miscellaneous services,40000,4.671428571
+2010,Foreign governments and international agencies in Japan,20000,5.642857143
+2010,National government services,630000,6.014285714
+2010,Local government services,1570000,6.057142857
+2010,Industries unable to classify,610000,5.385714286
+2012,Agriculture,2160000,5.314285714
+2012,Forestry,80000,5.757142857
+2012,"Fisheries, except aquaculture",120000,5.314285714
+2012,Aquaculture,40000,6.085714286
+2012,Mining and quarrying of stone and gravel,30000,6.2
+2012,Construction,5030000,6.385714286
+2012,Manufacture of food,1310000,5.714285714
+2012,"Manufacture of beverages, tobacco and feed",140000,6.042857143
+2012,Manufacture of textile mill products,500000,5.685714286
+2012,"Manufacture of lumber and wood products, except furniture",140000,6.042857143
+2012,Manufacture of furniture and fixtures,170000,6.2
+2012,"Manufacture of pulp, paper and paper products",240000,5.828571429
+2012,Printing and allied industries,460000,6.357142857
+2012,Manufacture of chemical and allied products,560000,5.971428571
+2012,Manufacture of petroleum and coal products,40000,5.985714286
+2012,"Manufacture of plastic products, except otherwise classified",440000,5.842857143
+2012,Manufacture of rubber products,160000,5.885714286
+2012,"Manufacture of leather tanning, leather products and fur skins",60000,5.685714286
+2012,"Manufacture of ceramic, stone and clay products",310000,6.085714286
+2012,Manufacture of iron and steel,260000,6.228571429
+2012,Manufacture of non-ferrous metals and products,170000,6.142857143
+2012,Manufacture of fabricated metal products,950000,6.085714286
+2012,Manufacture of general-purpose machinery,370000,6.142857143
+2012,Manufacture of production machinery,630000,6.3
+2012,Manufacture of business oriented machinery,330000,6.014285714
+2012,"Electronic parts, devices and electronic circuits",640000,5.971428571
+2012,"Manufacture of electrical machinery, equipment and supplies",650000,6.085714286
+2012,Manufacture of information and communication electronics equipment,280000,6.228571429
+2012,Manufacture of transportation equipment,1150000,6.257142857
+2012,Miscellaneous manufacturing industries,380000,5.642857143
+2012,"Electricity, gas, heat supply and water",310000,5.9
+2012,Communications,180000,6.185714286
+2012,Broadcasting,70000,6.5
+2012,Information services,1260000,6.4
+2012,Internet based services,70000,6.328571429
+2012,"Video picture, sound information, character information production and distribution",300000,6.342857143
+2012,Railway transport,240000,5.957142857
+2012,Road passenger transport,550000,6.742857143
+2012,Road freight transport,1820000,6.885714286
+2012,Water transport,60000,6.2
+2012,Air transport,50000,5.871428571
+2012,Warehousing,190000,5.671428571
+2012,Services incidental to transport,270000,5.757142857
+2012,"Postal activities, including mail delivery",210000,5.342857143
+2012,Wholesale trade,3220000,6.214285714
+2012,"Retail trade, general merchandise",480000,4.585714286
+2012,"Retail trade (dry goods, apparel and apparel accessories)",620000,5.542857143
+2012,Retail trade (food and beverage),2710000,4.928571429
+2012,Retail trade (machinery and equipment),910000,6.671428571
+2012,Miscellaneous retail trade,2490000,5.342857143
+2012,Finance and insurance,1630000,5.942857143
+2012,Real estate,850000,5.142857143
+2012,Goods rental and leasing,260000,5.914285714
+2012,Scientific and development research institutes,220000,5.928571429
+2012,"Professional services, N.E.C.",810000,5.757142857
+2012,Advertising,180000,6.457142857
+2012,"Technical services, N.E.C.",840000,6.128571429
+2012,Accommodations,550000,5.714285714
+2012,Eating and drinking places,2700000,5.057142857
+2012,Food take out and delivery services,510000,4.757142857
+2012,"Laundry, beauty and bath services",1160000,5.8
+2012,Miscellaneous living-related and personal services,470000,5.342857143
+2012,Services for amusement and hobbies,770000,5.228571429
+2012,School education,2040000,6.028571429
+2012,"Miscellaneous education, learning support",900000,3.985714286
+2012,Medical and other health services,3620000,5.514285714
+2012,Public health and hygiene,100000,5.114285714
+2012,Social insurance and social welfare,3350000,5.042857143
+2012,Postal services,210000,5.4
+2012,"Cooperative associations, N.E.C.",260000,6.057142857
+2012,Waste disposal business,300000,5.914285714
+2012,Automobile maintenance services,330000,6.328571429
+2012,"Machine, etc. repair services, except otherwise classified",270000,6.114285714
+2012,Employment and worker dispatching services,980000,5.228571429
+2012,Miscellaneous business services,2210000,4.9
+2012,"Political, business and cultural organizations",230000,5.285714286
+2012,Religion,220000,5.628571429
+2012,Miscellaneous services,40000,4.528571429
+2012,Foreign governments and international agencies in Japan,30000,5.728571429
+2012,National government services,590000,6
+2012,Local government services,1650000,6.028571429
+2012,Industries unable to classify,640000,5.357142857
+2013,Agriculture,2090000,5.214285714
+2013,Forestry,80000,5.585714286
+2013,"Fisheries, except aquaculture",130000,4.814285714
+2013,Aquaculture,30000,5.971428571
+2013,Mining and quarrying of stone and gravel,30000,6.428571429
+2013,Construction,4990000,6.3
+2013,Manufacture of food,1320000,5.657142857
+2013,"Manufacture of beverages, tobacco and feed",140000,6.028571429
+2013,Manufacture of textile mill products,490000,5.614285714
+2013,"Manufacture of lumber and wood products, except furniture",150000,6.014285714
+2013,Manufacture of furniture and fixtures,160000,6.157142857
+2013,"Manufacture of pulp, paper and paper products",240000,5.8
+2013,Printing and allied industries,450000,6.242857143
+2013,Manufacture of chemical and allied products,570000,5.857142857
+2013,Manufacture of petroleum and coal products,30000,5.842857143
+2013,"Manufacture of plastic products, except otherwise classified",470000,5.842857143
+2013,Manufacture of rubber products,160000,5.828571429
+2013,"Manufacture of leather tanning, leather products and fur skins",50000,5.714285714
+2013,"Manufacture of ceramic, stone and clay products",320000,6.114285714
+2013,Manufacture of iron and steel,230000,6.128571429
+2013,Manufacture of non-ferrous metals and products,170000,6.042857143
+2013,Manufacture of fabricated metal products,950000,6.042857143
+2013,Manufacture of general-purpose machinery,380000,6.071428571
+2013,Manufacture of production machinery,660000,6.214285714
+2013,Manufacture of business oriented machinery,350000,5.928571429
+2013,"Electronic parts, devices and electronic circuits",620000,5.985714286
+2013,"Manufacture of electrical machinery, equipment and supplies",660000,6.071428571
+2013,Manufacture of information and communication electronics equipment,280000,6.128571429
+2013,Manufacture of transportation equipment,1130000,6.2
+2013,Miscellaneous manufacturing industries,390000,5.585714286
+2013,"Electricity, gas, heat supply and water",300000,5.757142857
+2013,Communications,190000,6.028571429
+2013,Broadcasting,70000,6.328571429
+2013,Information services,1250000,6.185714286
+2013,Internet based services,90000,6.057142857
+2013,"Video picture, sound information, character information production and distribution",320000,6.242857143
+2013,Railway transport,250000,5.914285714
+2013,Road passenger transport,550000,6.7
+2013,Road freight transport,1870000,6.785714286
+2013,Water transport,50000,6.4
+2013,Air transport,50000,5.471428571
+2013,Warehousing,220000,5.757142857
+2013,Services incidental to transport,300000,5.685714286
+2013,"Postal activities, including mail delivery",110000,5.3
+2013,Wholesale trade,3280000,6.185714286
+2013,"Retail trade, general merchandise",490000,4.5
+2013,"Retail trade (dry goods, apparel and apparel accessories)",650000,5.4
+2013,Retail trade (food and beverage),2760000,4.842857143
+2013,Retail trade (machinery and equipment),900000,6.628571429
+2013,Miscellaneous retail trade,2480000,5.257142857
+2013,Finance and insurance,1650000,5.828571429
+2013,Real estate,830000,5.042857143
+2013,Goods rental and leasing,270000,6.042857143
+2013,Scientific and development research institutes,190000,5.714285714
+2013,"Professional services, N.E.C.",810000,5.685714286
+2013,Advertising,160000,6.257142857
+2013,"Technical services, N.E.C.",900000,6.014285714
+2013,Accommodations,540000,5.528571429
+2013,Eating and drinking places,2740000,4.957142857
+2013,Food take out and delivery services,560000,4.657142857
+2013,"Laundry, beauty and bath services",1170000,5.771428571
+2013,Miscellaneous living-related and personal services,480000,5.057142857
+2013,Services for amusement and hobbies,770000,5.085714286
+2013,School education,2030000,5.928571429
+2013,"Miscellaneous education, learning support",970000,3.914285714
+2013,Medical and other health services,3690000,5.428571429
+2013,Public health and hygiene,110000,4.957142857
+2013,Social insurance and social welfare,3550000,4.971428571
+2013,Postal services,300000,5.328571429
+2013,"Cooperative associations, N.E.C.",260000,6.071428571
+2013,Waste disposal business,310000,5.971428571
+2013,Automobile maintenance services,320000,6.4
+2013,"Machine, etc. repair services, except otherwise classified",270000,5.985714286
+2013,Employment and worker dispatching services,190000,5.6
+2013,Miscellaneous business services,2360000,4.8
+2013,"Political, business and cultural organizations",260000,5.085714286
+2013,Religion,230000,5.657142857
+2013,Miscellaneous services,40000,4.357142857
+2013,Foreign governments and international agencies in Japan,30000,5.714285714
+2013,National government services,580000,5.985714286
+2013,Local government services,1700000,5.914285714
+2013,Industries unable to classify,920000,5.257142857
+2014,Agriculture,2010000,5.2
+2014,Forestry,80000,5.414285714
+2014,"Fisheries, except aquaculture",160000,5.114285714
+2014,Aquaculture,50000,6.014285714
+2014,Mining and quarrying of stone and gravel,30000,6.242857143
+2014,Construction,5050000,6.257142857
+2014,Manufacture of food,1330000,5.6
+2014,"Manufacture of beverages, tobacco and feed",140000,5.742857143
+2014,Manufacture of textile mill products,550000,5.314285714
+2014,"Manufacture of lumber and wood products, except furniture",140000,5.985714286
+2014,Manufacture of furniture and fixtures,150000,6.157142857
+2014,"Manufacture of pulp, paper and paper products",260000,5.685714286
+2014,Printing and allied industries,430000,6.185714286
+2014,Manufacture of chemical and allied products,610000,5.828571429
+2014,Manufacture of petroleum and coal products,30000,5.857142857
+2014,"Manufacture of plastic products, except otherwise classified",470000,5.928571429
+2014,Manufacture of rubber products,160000,5.842857143
+2014,"Manufacture of leather tanning, leather products and fur skins",40000,5.628571429
+2014,"Manufacture of ceramic, stone and clay products",310000,5.971428571
+2014,Manufacture of iron and steel,240000,6.085714286
+2014,Manufacture of non-ferrous metals and products,160000,5.928571429
+2014,Manufacture of fabricated metal products,940000,6.085714286
+2014,Manufacture of general-purpose machinery,350000,6.157142857
+2014,Manufacture of production machinery,700000,6.171428571
+2014,Manufacture of business oriented machinery,360000,5.857142857
+2014,"Electronic parts, devices and electronic circuits",610000,6.014285714
+2014,"Manufacture of electrical machinery, equipment and supplies",640000,5.971428571
+2014,Manufacture of information and communication electronics equipment,280000,6.1
+2014,Manufacture of transportation equipment,1100000,6.157142857
+2014,Miscellaneous manufacturing industries,380000,5.557142857
+2014,"Electricity, gas, heat supply and water",290000,5.671428571
+2014,Communications,190000,5.928571429
+2014,Broadcasting,80000,6.3
+2014,Information services,1340000,6.1
+2014,Internet based services,100000,6.042857143
+2014,"Video picture, sound information, character information production and distribution",320000,6.2
+2014,Railway transport,270000,5.814285714
+2014,Road passenger transport,530000,6.614285714
+2014,Road freight transport,1850000,6.785714286
+2014,Water transport,60000,6.514285714
+2014,Air transport,40000,5.542857143
+2014,Warehousing,210000,5.557142857
+2014,Services incidental to transport,300000,5.742857143
+2014,"Postal activities, including mail delivery",110000,5.414285714
+2014,Wholesale trade,3300000,6.114285714
+2014,"Retail trade, general merchandise",480000,4.528571429
+2014,"Retail trade (dry goods, apparel and apparel accessories)",660000,5.328571429
+2014,Retail trade (food and beverage),2770000,4.757142857
+2014,Retail trade (machinery and equipment),900000,6.571428571
+2014,Miscellaneous retail trade,2480000,5.2
+2014,Finance and insurance,1540000,5.685714286
+2014,Real estate,860000,4.957142857
+2014,Goods rental and leasing,270000,5.871428571
+2014,Scientific and development research institutes,210000,5.671428571
+2014,"Professional services, N.E.C.",820000,5.557142857
+2014,Advertising,170000,6.4
+2014,"Technical services, N.E.C.",920000,5.971428571
+2014,Accommodations,590000,5.542857143
+2014,Eating and drinking places,2720000,4.9
+2014,Food take out and delivery services,540000,4.528571429
+2014,"Laundry, beauty and bath services",1140000,5.728571429
+2014,Miscellaneous living-related and personal services,500000,5.114285714
+2014,Services for amusement and hobbies,730000,5.028571429
+2014,School education,2040000,5.914285714
+2014,"Miscellaneous education, learning support",960000,3.828571429
+2014,Medical and other health services,3750000,5.342857143
+2014,Public health and hygiene,110000,4.685714286
+2014,Social insurance and social welfare,3700000,4.928571429
+2014,Postal services,320000,5.428571429
+2014,"Cooperative associations, N.E.C.",250000,5.871428571
+2014,Waste disposal business,320000,5.871428571
+2014,Automobile maintenance services,320000,6.314285714
+2014,"Machine, etc. repair services, except otherwise classified",280000,5.9
+2014,Employment and worker dispatching services,180000,5.628571429
+2014,Miscellaneous business services,2330000,4.757142857
+2014,"Political, business and cultural organizations",260000,5.042857143
+2014,Religion,210000,5.585714286
+2014,Miscellaneous services,40000,4.257142857
+2014,Foreign governments and international agencies in Japan,20000,5.714285714
+2014,National government services,570000,5.885714286
+2014,Local government services,1780000,5.857142857
+2014,Industries unable to classify,990000,5.257142857
+2015,Agriculture,2010000,5.171428571
+2015,Forestry,70000,5.442857143
+2015,"Fisheries, except aquaculture",140000,5.228571429
+2015,Aquaculture,60000,6.128571429
+2015,Mining and quarrying of stone and gravel,30000,5.857142857
+2015,Construction,5000000,6.214285714
+2015,Manufacture of food,1350000,5.571428571
+2015,"Manufacture of beverages, tobacco and feed",150000,5.857142857
+2015,Manufacture of textile mill products,550000,5.085714286
+2015,"Manufacture of lumber and wood products, except furniture",140000,5.971428571
+2015,Manufacture of furniture and fixtures,130000,6.085714286
+2015,"Manufacture of pulp, paper and paper products",240000,5.742857143
+2015,Printing and allied industries,430000,6.257142857
+2015,Manufacture of chemical and allied products,640000,5.885714286
+2015,Manufacture of petroleum and coal products,30000,5.957142857
+2015,"Manufacture of plastic products, except otherwise classified",480000,5.8
+2015,Manufacture of rubber products,160000,5.8
+2015,"Manufacture of leather tanning, leather products and fur skins",40000,5.357142857
+2015,"Manufacture of ceramic, stone and clay products",300000,5.971428571
+2015,Manufacture of iron and steel,250000,6.228571429
+2015,Manufacture of non-ferrous metals and products,170000,6.071428571
+2015,Manufacture of fabricated metal products,960000,6.071428571
+2015,Manufacture of general-purpose machinery,330000,6.114285714
+2015,Manufacture of production machinery,680000,6.271428571
+2015,Manufacture of business oriented machinery,360000,5.985714286
+2015,"Electronic parts, devices and electronic circuits",590000,6.014285714
+2015,"Manufacture of electrical machinery, equipment and supplies",620000,6.028571429
+2015,Manufacture of information and communication electronics equipment,230000,6.1
+2015,Manufacture of transportation equipment,1180000,6.171428571
+2015,Miscellaneous manufacturing industries,360000,5.514285714
+2015,"Electricity, gas, heat supply and water",290000,5.728571429
+2015,Communications,200000,5.985714286
+2015,Broadcasting,70000,6.385714286
+2015,Information services,1400000,6.085714286
+2015,Internet based services,110000,5.971428571
+2015,"Video picture, sound information, character information production and distribution",310000,6.242857143
+2015,Railway transport,230000,5.885714286
+2015,Road passenger transport,510000,6.571428571
+2015,Road freight transport,1850000,6.785714286
+2015,Water transport,60000,6.328571429
+2015,Air transport,40000,5.328571429
+2015,Warehousing,220000,5.528571429
+2015,Services incidental to transport,320000,5.671428571
+2015,"Postal activities, including mail delivery",110000,5.614285714
+2015,Wholesale trade,3260000,6.1
+2015,"Retail trade, general merchandise",450000,4.528571429
+2015,"Retail trade (dry goods, apparel and apparel accessories)",640000,5.3
+2015,Retail trade (food and beverage),2770000,4.714285714
+2015,Retail trade (machinery and equipment),890000,6.528571429
+2015,Miscellaneous retail trade,2510000,5.142857143
+2015,Finance and insurance,1530000,5.728571429
+2015,Real estate,920000,4.985714286
+2015,Goods rental and leasing,280000,5.857142857
+2015,Scientific and development research institutes,210000,5.7
+2015,"Professional services, N.E.C.",820000,5.614285714
+2015,Advertising,180000,6.371428571
+2015,"Technical services, N.E.C.",920000,5.914285714
+2015,Accommodations,550000,5.5
+2015,Eating and drinking places,2710000,4.857142857
+2015,Food take out and delivery services,570000,4.642857143
+2015,"Laundry, beauty and bath services",1130000,5.714285714
+2015,Miscellaneous living-related and personal services,470000,5.014285714
+2015,Services for amusement and hobbies,710000,5
+2015,School education,2070000,5.914285714
+2015,"Miscellaneous education, learning support",960000,3.8
+2015,Medical and other health services,3860000,5.385714286
+2015,Public health and hygiene,120000,4.785714286
+2015,Social insurance and social welfare,3860000,4.914285714
+2015,Postal services,320000,5.457142857
+2015,"Cooperative associations, N.E.C.",270000,5.942857143
+2015,Waste disposal business,320000,5.857142857
+2015,Automobile maintenance services,290000,6.357142857
+2015,"Machine, etc. repair services, except otherwise classified",270000,5.985714286
+2015,Employment and worker dispatching services,190000,5.742857143
+2015,Miscellaneous business services,2470000,4.714285714
+2015,"Political, business and cultural organizations",260000,5.028571429
+2015,Religion,200000,5.442857143
+2015,Miscellaneous services,40000,4.471428571
+2015,Foreign governments and international agencies in Japan,30000,5.657142857
+2015,National government services,560000,5.9
+2015,Local government services,1740000,5.942857143
+2015,Industries unable to classify,1010000,5.271428571
+2016,Agriculture,1960000,5.028571429
+2016,Forestry,60000,5.528571429
+2016,"Fisheries, except aquaculture",130000,5.1
+2016,Aquaculture,60000,5.828571429
+2016,Mining and quarrying of stone and gravel,30000,5.928571429
+2016,Construction,4920000,6.157142857
+2016,Manufacture of food,1380000,5.557142857
+2016,"Manufacture of beverages, tobacco and feed",140000,5.857142857
+2016,Manufacture of textile mill products,490000,5.6
+2016,"Manufacture of lumber and wood products, except furniture",140000,5.942857143
+2016,Manufacture of furniture and fixtures,130000,5.985714286
+2016,"Manufacture of pulp, paper and paper products",260000,5.614285714
+2016,Printing and allied industries,430000,6.1
+2016,Manufacture of chemical and allied products,600000,5.9
+2016,Manufacture of petroleum and coal products,30000,6.071428571
+2016,"Manufacture of plastic products, except otherwise classified",500000,5.8
+2016,Manufacture of rubber products,160000,5.871428571
+2016,"Manufacture of leather tanning, leather products and fur skins",40000,5.528571429
+2016,"Manufacture of ceramic, stone and clay products",310000,6
+2016,Manufacture of iron and steel,250000,6.171428571
+2016,Manufacture of non-ferrous metals and products,180000,6.142857143
+2016,Manufacture of fabricated metal products,950000,6.057142857
+2016,Manufacture of general-purpose machinery,340000,6.028571429
+2016,Manufacture of production machinery,650000,6.242857143
+2016,Manufacture of business oriented machinery,350000,5.885714286
+2016,"Electronic parts, devices and electronic circuits",580000,6.042857143
+2016,"Manufacture of electrical machinery, equipment and supplies",620000,6.028571429
+2016,Manufacture of information and communication electronics equipment,230000,6.142857143
+2016,Manufacture of transportation equipment,1280000,6.271428571
+2016,Miscellaneous manufacturing industries,370000,5.414285714
+2016,"Electricity, gas, heat supply and water",300000,5.771428571
+2016,Communications,160000,5.914285714
+2016,Broadcasting,80000,6.114285714
+2016,Information services,1390000,6.057142857
+2016,Internet based services,120000,6.057142857
+2016,"Video picture, sound information, character information production and distribution",330000,6.2
+2016,Railway transport,250000,5.828571429
+2016,Road passenger transport,480000,6.5
+2016,Road freight transport,1880000,6.771428571
+2016,Water transport,60000,6.2
+2016,Air transport,40000,5.4
+2016,Warehousing,230000,5.5
+2016,Services incidental to transport,320000,5.657142857
+2016,"Postal activities, including mail delivery",100000,5.542857143
+2016,Wholesale trade,3250000,6.071428571
+2016,"Retail trade, general merchandise",460000,4.357142857
+2016,"Retail trade (dry goods, apparel and apparel accessories)",670000,5.142857143
+2016,Retail trade (food and beverage),2780000,4.642857143
+2016,Retail trade (machinery and equipment),910000,6.442857143
+2016,Miscellaneous retail trade,2510000,5.1
+2016,Finance and insurance,1620000,5.728571429
+2016,Real estate,940000,4.9
+2016,Goods rental and leasing,300000,5.814285714
+2016,Scientific and development research institutes,190000,5.657142857
+2016,"Professional services, N.E.C.",890000,5.542857143
+2016,Advertising,180000,6.285714286
+2016,"Technical services, N.E.C.",940000,5.914285714
+2016,Accommodations,550000,5.4
+2016,Eating and drinking places,2760000,4.757142857
+2016,Food take out and delivery services,580000,4.6
+2016,"Laundry, beauty and bath services",1110000,5.657142857
+2016,Miscellaneous living-related and personal services,470000,5
+2016,Services for amusement and hobbies,750000,4.957142857
+2016,School education,2100000,5.942857143
+2016,"Miscellaneous education, learning support",970000,3.828571429
+2016,Medical and other health services,3960000,5.357142857
+2016,Public health and hygiene,110000,4.8
+2016,Social insurance and social welfare,4010000,4.914285714
+2016,Postal services,340000,5.485714286
+2016,"Cooperative associations, N.E.C.",280000,5.9
+2016,Waste disposal business,320000,5.814285714
+2016,Automobile maintenance services,290000,6.342857143
+2016,"Machine, etc. repair services, except otherwise classified",260000,5.885714286
+2016,Employment and worker dispatching services,220000,5.642857143
+2016,Miscellaneous business services,2510000,4.685714286
+2016,"Political, business and cultural organizations",250000,5.042857143
+2016,Religion,220000,5.5
+2016,Miscellaneous services,50000,4.228571429
+2016,Foreign governments and international agencies in Japan,20000,5.785714286
+2016,National government services,560000,5.928571429
+2016,Local government services,1740000,5.857142857
+2016,Industries unable to classify,1010000,5.214285714
+2017,Agriculture,1950000,5.114285714
+2017,Forestry,60000,5.842857143
+2017,"Fisheries, except aquaculture",130000,5.271428571
+2017,Aquaculture,80000,5.871428571
+2017,Mining and quarrying of stone and gravel,30000,5.985714286
+2017,Construction,4980000,6.2
+2017,Manufacture of food,1340000,5.585714286
+2017,"Manufacture of beverages, tobacco and feed",140000,5.871428571
+2017,Manufacture of textile mill products,460000,5.585714286
+2017,"Manufacture of lumber and wood products, except furniture",150000,6.028571429
+2017,Manufacture of furniture and fixtures,150000,5.942857143
+2017,"Manufacture of pulp, paper and paper products",260000,5.671428571
+2017,Printing and allied industries,430000,6.114285714
+2017,Manufacture of chemical and allied products,570000,5.971428571
+2017,Manufacture of petroleum and coal products,30000,5.971428571
+2017,"Manufacture of plastic products, except otherwise classified",520000,5.914285714
+2017,Manufacture of rubber products,180000,6.014285714
+2017,"Manufacture of leather tanning, leather products and fur skins",40000,5.642857143
+2017,"Manufacture of ceramic, stone and clay products",330000,6.085714286
+2017,Manufacture of iron and steel,260000,6.228571429
+2017,Manufacture of non-ferrous metals and products,170000,6.142857143
+2017,Manufacture of fabricated metal products,960000,6.085714286
+2017,Manufacture of general-purpose machinery,370000,6.214285714
+2017,Manufacture of production machinery,680000,6.285714286
+2017,Manufacture of business oriented machinery,350000,6.085714286
+2017,"Electronic parts, devices and electronic circuits",590000,6.071428571
+2017,"Manufacture of electrical machinery, equipment and supplies",620000,6.085714286
+2017,Manufacture of information and communication electronics equipment,240000,6.171428571
+2017,Manufacture of transportation equipment,1290000,6.342857143
+2017,Miscellaneous manufacturing industries,400000,5.514285714
+2017,"Electricity, gas, heat supply and water",290000,5.8
+2017,Communications,160000,5.971428571
+2017,Broadcasting,80000,6.271428571
+2017,Information services,1430000,6.114285714
+2017,Internet based services,140000,6.042857143
+2017,"Video picture, sound information, character information production and distribution",320000,6.2
+2017,Railway transport,240000,5.885714286
+2017,Road passenger transport,500000,6.528571429
+2017,Road freight transport,1910000,6.742857143
+2017,Water transport,60000,6.185714286
+2017,Air transport,40000,5.4
+2017,Warehousing,250000,5.514285714
+2017,Services incidental to transport,310000,5.714285714
+2017,"Postal activities, including mail delivery",100000,5.4
+2017,Wholesale trade,3310000,6.1
+2017,"Retail trade, general merchandise",460000,4.4
+2017,"Retail trade (dry goods, apparel and apparel accessories)",680000,5.128571429
+2017,Retail trade (food and beverage),2830000,4.642857143
+2017,Retail trade (machinery and equipment),940000,6.414285714
+2017,Miscellaneous retail trade,2530000,5.042857143
+2017,Finance and insurance,1680000,5.842857143
+2017,Real estate,950000,4.928571429
+2017,Goods rental and leasing,300000,5.857142857
+2017,Scientific and development research institutes,210000,5.742857143
+2017,"Professional services, N.E.C.",960000,5.628571429
+2017,Advertising,170000,6.171428571
+2017,"Technical services, N.E.C.",980000,5.942857143
+2017,Accommodations,580000,5.4
+2017,Eating and drinking places,2760000,4.657142857
+2017,Food take out and delivery services,570000,4.642857143
+2017,"Laundry, beauty and bath services",1090000,5.542857143
+2017,Miscellaneous living-related and personal services,470000,4.971428571
+2017,Services for amusement and hobbies,780000,4.885714286
+2017,School education,2130000,6.085714286
+2017,"Miscellaneous education, learning support",1020000,3.814285714
+2017,Medical and other health services,3920000,5.4
+2017,Public health and hygiene,120000,4.814285714
+2017,Social insurance and social welfare,4110000,4.885714286
+2017,Postal services,320000,5.6
+2017,"Cooperative associations, N.E.C.",250000,5.971428571
+2017,Waste disposal business,320000,5.857142857
+2017,Automobile maintenance services,300000,6.328571429
+2017,"Machine, etc. repair services, except otherwise classified",270000,5.957142857
+2017,Employment and worker dispatching services,240000,5.728571429
+2017,Miscellaneous business services,2600000,4.671428571
+2017,"Political, business and cultural organizations",260000,5.157142857
+2017,Religion,220000,5.671428571
+2017,Miscellaneous services,50000,4.571428571
+2017,Foreign governments and international agencies in Japan,30000,5.642857143
+2017,National government services,580000,5.914285714
+2017,Local government services,1720000,5.971428571
+2017,Industries unable to classify,1060000,5.114285714
+2018,Agriculture,2030000,5.057142857
+2018,Forestry,70000,5.714285714
+2018,"Fisheries, except aquaculture",120000,5.2
+2018,Aquaculture,60000,6.028571429
+2018,Mining and quarrying of stone and gravel,30000,6.028571429
+2018,Construction,5030000,6.114285714
+2018,Manufacture of food,1350000,5.542857143
+2018,"Manufacture of beverages, tobacco and feed",160000,5.757142857
+2018,Manufacture of textile mill products,440000,5.457142857
+2018,"Manufacture of lumber and wood products, except furniture",140000,5.928571429
+2018,Manufacture of furniture and fixtures,140000,5.8
+2018,"Manufacture of pulp, paper and paper products",250000,5.6
+2018,Printing and allied industries,420000,5.985714286
+2018,Manufacture of chemical and allied products,600000,5.828571429
+2018,Manufacture of petroleum and coal products,20000,6.085714286
+2018,"Manufacture of plastic products, except otherwise classified",530000,5.771428571
+2018,Manufacture of rubber products,170000,5.757142857
+2018,"Manufacture of leather tanning, leather products and fur skins",40000,5.314285714
+2018,"Manufacture of ceramic, stone and clay products",330000,5.942857143
+2018,Manufacture of iron and steel,270000,6.228571429
+2018,Manufacture of non-ferrous metals and products,180000,6
+2018,Manufacture of fabricated metal products,1000000,5.971428571
+2018,Manufacture of general-purpose machinery,380000,6.114285714
+2018,Manufacture of production machinery,700000,6.185714286
+2018,Manufacture of business oriented machinery,360000,5.914285714
+2018,"Electronic parts, devices and electronic circuits",610000,5.971428571
+2018,"Manufacture of electrical machinery, equipment and supplies",620000,5.871428571
+2018,Manufacture of information and communication electronics equipment,230000,6
+2018,Manufacture of transportation equipment,1230000,6.285714286
+2018,Miscellaneous manufacturing industries,410000,5.471428571
+2018,"Electricity, gas, heat supply and water",280000,5.614285714
+2018,Communications,160000,5.814285714
+2018,Broadcasting,80000,6.142857143
+2018,Information services,1500000,5.9
+2018,Internet based services,150000,5.857142857
+2018,"Video picture, sound information, character information production and distribution",320000,6.014285714
+2018,Railway transport,220000,5.785714286
+2018,Road passenger transport,490000,6.457142857
+2018,Road freight transport,1930000,6.642857143
+2018,Water transport,50000,6.342857143
+2018,Air transport,50000,5.242857143
+2018,Warehousing,250000,5.371428571
+2018,Services incidental to transport,320000,5.714285714
+2018,"Postal activities, including mail delivery",100000,5.571428571
+2018,Wholesale trade,3260000,5.971428571
+2018,"Retail trade, general merchandise",460000,4.371428571
+2018,"Retail trade (dry goods, apparel and apparel accessories)",670000,5.057142857
+2018,Retail trade (food and beverage),2840000,4.485714286
+2018,Retail trade (machinery and equipment),950000,6.342857143
+2018,Miscellaneous retail trade,2550000,4.942857143
+2018,Finance and insurance,1630000,5.685714286
+2018,Real estate,1000000,4.785714286
+2018,Goods rental and leasing,290000,5.714285714
+2018,Scientific and development research institutes,200000,5.628571429
+2018,"Professional services, N.E.C.",1010000,5.428571429
+2018,Advertising,180000,5.885714286
+2018,"Technical services, N.E.C.",1000000,5.814285714
+2018,Accommodations,630000,5.314285714
+2018,Eating and drinking places,2940000,4.5
+2018,Food take out and delivery services,600000,4.471428571
+2018,"Laundry, beauty and bath services",1080000,5.457142857
+2018,Miscellaneous living-related and personal services,490000,4.9
+2018,Services for amusement and hobbies,790000,4.7
+2018,School education,2180000,5.885714286
+2018,"Miscellaneous education, learning support",1040000,3.742857143
+2018,Medical and other health services,3950000,5.3
+2018,Public health and hygiene,130000,4.757142857
+2018,Social insurance and social welfare,4230000,4.842857143
+2018,Postal services,330000,5.4
+2018,"Cooperative associations, N.E.C.",230000,5.9
+2018,Waste disposal business,330000,5.828571429
+2018,Automobile maintenance services,300000,6.242857143
+2018,"Machine, etc. repair services, except otherwise classified",270000,5.885714286
+2018,Employment and worker dispatching services,250000,5.5
+2018,Miscellaneous business services,2770000,4.6
+2018,"Political, business and cultural organizations",260000,5.014285714
+2018,Religion,190000,5.557142857
+2018,Miscellaneous services,50000,4.357142857
+2018,Foreign governments and international agencies in Japan,30000,5.728571429
+2018,National government services,580000,5.857142857
+2018,Local government services,1740000,5.8
+2018,Industries unable to classify,1380000,5.028571429
+2019,Agriculture,2000000,4.957142857
+2019,Forestry,80000,5.414285714
+2019,"Fisheries, except aquaculture",110000,5.071428571
+2019,Aquaculture,40000,5.728571429
+2019,Mining and quarrying of stone and gravel,20000,6
+2019,Construction,4990000,6.085714286
+2019,Manufacture of food,1340000,5.485714286
+2019,"Manufacture of beverages, tobacco and feed",150000,5.828571429
+2019,Manufacture of textile mill products,430000,5.414285714
+2019,"Manufacture of lumber and wood products, except furniture",140000,6.014285714
+2019,Manufacture of furniture and fixtures,140000,5.871428571
+2019,"Manufacture of pulp, paper and paper products",270000,5.585714286
+2019,Printing and allied industries,430000,5.8
+2019,Manufacture of chemical and allied products,660000,5.828571429
+2019,Manufacture of petroleum and coal products,40000,6.014285714
+2019,"Manufacture of plastic products, except otherwise classified",530000,5.685714286
+2019,Manufacture of rubber products,160000,5.742857143
+2019,"Manufacture of leather tanning, leather products and fur skins",50000,5.142857143
+2019,"Manufacture of ceramic, stone and clay products",310000,5.985714286
+2019,Manufacture of iron and steel,280000,6.085714286
+2019,Manufacture of non-ferrous metals and products,180000,5.971428571
+2019,Manufacture of fabricated metal products,970000,5.985714286
+2019,Manufacture of general-purpose machinery,360000,6.028571429
+2019,Manufacture of production machinery,700000,6.128571429
+2019,Manufacture of business oriented machinery,370000,5.842857143
+2019,"Electronic parts, devices and electronic circuits",620000,5.9
+2019,"Manufacture of electrical machinery, equipment and supplies",650000,5.771428571
+2019,Manufacture of information and communication electronics equipment,200000,5.957142857
+2019,Manufacture of transportation equipment,1250000,6.114285714
+2019,Miscellaneous manufacturing industries,420000,5.385714286
+2019,"Electricity, gas, heat supply and water",280000,5.614285714
+2019,Communications,160000,5.814285714
+2019,Broadcasting,80000,5.942857143
+2019,Information services,1570000,5.885714286
+2019,Internet based services,150000,5.671428571
+2019,"Video picture, sound information, character information production and distribution",340000,5.928571429
+2019,Railway transport,240000,5.742857143
+2019,Road passenger transport,480000,6.385714286
+2019,Road freight transport,1960000,6.5
+2019,Water transport,60000,6.3
+2019,Air transport,50000,5.385714286
+2019,Warehousing,260000,5.3
+2019,Services incidental to transport,320000,5.642857143
+2019,"Postal activities, including mail delivery",100000,5.285714286
+2019,Wholesale trade,3230000,5.942857143
+2019,"Retail trade, general merchandise",440000,4.357142857
+2019,"Retail trade (dry goods, apparel and apparel accessories)",660000,5
+2019,Retail trade (food and beverage),2790000,4.414285714
+2019,Retail trade (machinery and equipment),940000,6.285714286
+2019,Miscellaneous retail trade,2520000,4.871428571
+2019,Finance and insurance,1660000,5.671428571
+2019,Real estate,990000,4.657142857
+2019,Goods rental and leasing,300000,5.685714286
+2019,Scientific and development research institutes,200000,5.514285714
+2019,"Professional services, N.E.C.",1020000,5.371428571
+2019,Advertising,180000,5.857142857
+2019,"Technical services, N.E.C.",1000000,5.714285714
+2019,Accommodations,650000,5.285714286
+2019,Eating and drinking places,2960000,4.442857143
+2019,Food take out and delivery services,600000,4.414285714
+2019,"Laundry, beauty and bath services",1080000,5.4
+2019,Miscellaneous living-related and personal services,490000,4.771428571
+2019,Services for amusement and hobbies,840000,4.842857143
+2019,School education,2260000,5.842857143
+2019,"Miscellaneous education, learning support",1080000,3.685714286
+2019,Medical and other health services,4000000,5.328571429
+2019,Public health and hygiene,140000,4.742857143
+2019,Social insurance and social welfare,4290000,4.828571429
+2019,Postal services,310000,5.342857143
+2019,"Cooperative associations, N.E.C.",230000,5.885714286
+2019,Waste disposal business,330000,5.714285714
+2019,Automobile maintenance services,290000,6.157142857
+2019,"Machine, etc. repair services, except otherwise classified",270000,5.9
+2019,Employment and worker dispatching services,300000,5.628571429
+2019,Miscellaneous business services,2820000,4.557142857
+2019,"Political, business and cultural organizations",270000,4.942857143
+2019,Religion,200000,5.371428571
+2019,Miscellaneous services,50000,4.071428571
+2019,Foreign governments and international agencies in Japan,30000,5.557142857
+2019,National government services,640000,5.785714286
+2019,Local government services,1770000,5.814285714
+2019,Industries unable to classify,1490000,5.071428571
+2020,Agriculture,1940000,4.885714286
+2020,Forestry,60000,5.385714286
+2020,"Fisheries, except aquaculture",100000,5.2
+2020,Aquaculture,30000,5.928571429
+2020,Mining and quarrying of stone and gravel,20000,6.057142857
+2020,Construction,4920000,5.914285714
+2020,Manufacture of food,1320000,5.328571429
+2020,"Manufacture of beverages, tobacco and feed",160000,5.7
+2020,Manufacture of textile mill products,400000,5.128571429
+2020,"Manufacture of lumber and wood products, except furniture",120000,5.685714286
+2020,Manufacture of furniture and fixtures,130000,5.785714286
+2020,"Manufacture of pulp, paper and paper products",270000,5.542857143
+2020,Printing and allied industries,400000,5.571428571
+2020,Manufacture of chemical and allied products,700000,5.657142857
+2020,Manufacture of petroleum and coal products,30000,6.042857143
+2020,"Manufacture of plastic products, except otherwise classified",490000,5.571428571
+2020,Manufacture of rubber products,160000,5.471428571
+2020,"Manufacture of leather tanning, leather products and fur skins",40000,4.9
+2020,"Manufacture of ceramic, stone and clay products",290000,5.671428571
+2020,Manufacture of iron and steel,270000,5.728571429
+2020,Manufacture of non-ferrous metals and products,180000,5.671428571
+2020,Manufacture of fabricated metal products,930000,5.671428571
+2020,Manufacture of general-purpose machinery,350000,5.757142857
+2020,Manufacture of production machinery,710000,5.785714286
+2020,Manufacture of business oriented machinery,360000,5.614285714
+2020,"Electronic parts, devices and electronic circuits",590000,5.757142857
+2020,"Manufacture of electrical machinery, equipment and supplies",660000,5.628571429
+2020,Manufacture of information and communication electronics equipment,210000,5.785714286
+2020,Manufacture of transportation equipment,1240000,5.814285714
+2020,Miscellaneous manufacturing industries,410000,5.128571429
+2020,"Electricity, gas, heat supply and water",320000,5.585714286
+2020,Communications,170000,5.642857143
+2020,Broadcasting,80000,5.742857143
+2020,Information services,1630000,5.742857143
+2020,Internet based services,180000,5.585714286
+2020,"Video picture, sound information, character information production and distribution",340000,5.571428571
+2020,Railway transport,250000,5.742857143
+2020,Road passenger transport,460000,6.014285714
+2020,Road freight transport,1940000,6.328571429
+2020,Water transport,70000,6.185714286
+2020,Air transport,50000,4.8
+2020,Warehousing,260000,5.185714286
+2020,Services incidental to transport,340000,5.342857143
+2020,"Postal activities, including mail delivery",100000,5.157142857
+2020,Wholesale trade,3230000,5.714285714
+2020,"Retail trade, general merchandise",450000,4.214285714
+2020,"Retail trade (dry goods, apparel and apparel accessories)",610000,4.828571429
+2020,Retail trade (food and beverage),2780000,4.257142857
+2020,Retail trade (machinery and equipment),950000,6.014285714
+2020,Miscellaneous retail trade,2530000,4.7
+2020,Finance and insurance,1660000,5.557142857
+2020,Real estate,1090000,4.585714286
+2020,Goods rental and leasing,300000,5.485714286
+2020,Scientific and development research institutes,170000,5.414285714
+2020,"Professional services, N.E.C.",1050000,5.257142857
+2020,Advertising,180000,5.614285714
+2020,"Technical services, N.E.C.",1030000,5.557142857
+2020,Accommodations,590000,4.714285714
+2020,Eating and drinking places,2740000,4.114285714
+2020,Food take out and delivery services,580000,4.357142857
+2020,"Laundry, beauty and bath services",1070000,5.2
+2020,Miscellaneous living-related and personal services,460000,4.414285714
+2020,Services for amusement and hobbies,810000,4.542857143
+2020,School education,2320000,5.657142857
+2020,"Miscellaneous education, learning support",1070000,3.5
+2020,Medical and other health services,4090000,5.257142857
+2020,Public health and hygiene,140000,4.857142857
+2020,Social insurance and social welfare,4380000,4.757142857
+2020,Postal services,280000,5.185714286
+2020,"Cooperative associations, N.E.C.",220000,5.714285714
+2020,Waste disposal business,340000,5.742857143
+2020,Automobile maintenance services,280000,5.942857143
+2020,"Machine, etc. repair services, except otherwise classified",260000,5.471428571
+2020,Employment and worker dispatching services,300000,5.442857143
+2020,Miscellaneous business services,2790000,4.457142857
+2020,"Political, business and cultural organizations",270000,4.885714286
+2020,Religion,210000,5.042857143
+2020,Miscellaneous services,40000,4.142857143
+2020,Foreign governments and international agencies in Japan,30000,5.5
+2020,National government services,690000,5.7
+2020,Local government services,1780000,5.728571429
+2020,Industries unable to classify,1220000,4.914285714

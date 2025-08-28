@@ -1,0 +1,50 @@
+tier1,tier2,hours_per_day
+Personal care,Sleep,8.5
+Personal care,Eating,2.2
+Personal care,Other and/or unspecified personal care,0.88
+"Employment, related activities and travel as part of/during main and second job",Main and second job and related travel,2.38
+"Employment, related activities and travel as part of/during main and second job",Activities related to employment and unspecified employment,0.05
+Study,School and university except homework,0.28
+Study,Homework,0.12
+Study,Free time study,0.03
+Household and family care,Food management except dish washing,0.67
+Household and family care,Dish washing,0.2
+Household and family care,Cleaning dwelling,0.53
+Household and family care,Household upkeep except cleaning dwelling,0.15
+Household and family care,Laundry,0.05
+Household and family care,Ironing,0.08
+Household and family care,Handicraft and producing textiles and other care for textiles,0.03
+Household and family care,Gardening; other pet care,0.18
+Household and family care,Tending domestic animals,0.02
+Household and family care,Caring for pets,0.03
+Household and family care,Walking the dog,0.05
+Household and family care,Construction and repairs,0.2
+Household and family care,Shopping and services,0.43
+Household and family care,"Childcare, except teaching, reading and talking",0.23
+Household and family care,"Teaching, reading and talking with child",0.1
+Household and family care,Household management and help family member,0.12
+"Leisure, social and associative life",Organisational work,0.03
+"Leisure, social and associative life",Informal help to other households,0.07
+"Leisure, social and associative life",Participatory activities,0.1
+"Leisure, social and associative life",Visiting and feasts,0.4
+"Leisure, social and associative life",Other social life,0.35
+"Leisure, social and associative life",Entertainment and culture,0.08
+"Leisure, social and associative life",Resting,0.48
+"Leisure, social and associative life",Walking and hiking,0.23
+"Leisure, social and associative life",Sports and outdoor activities except walking and hiking,0.22
+"Leisure, social and associative life",Computer games,0.08
+"Leisure, social and associative life",Computing,0.37
+"Leisure, social and associative life",Hobbies and games except computing and computer games,0.18
+"Leisure, social and associative life",Reading books,0.03
+"Leisure, social and associative life","Reading, except books",0.27
+"Leisure, social and associative life",TV and video,2.1
+"Leisure, social and associative life",Radio and music,0.03
+"Leisure, social and associative life",Unspecified leisure,0.02
+Travel except travel related to jobs,Travel to/from work,0.35
+Travel except travel related to jobs,Travel related to study,0.05
+Travel except travel related to jobs,Travel related to shopping and services,0.13
+Travel except travel related to jobs,Transporting a child,0.07
+Travel except travel related to jobs,Travel related to other household purposes,0.05
+Travel except travel related to jobs,"Travel related to leisure, social and associative life",0.25
+Travel except travel related to jobs,Unspecified travel,0.4
+Unspecified time use,Unspecified time use,0.12

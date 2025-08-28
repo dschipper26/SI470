@@ -1,0 +1,28 @@
+tier1,tier2,hours_per_day
+SNA,Work for Establishments (Formal Sector),0.633333333
+SNA Work for HH in Primary Production,crops,0.614
+SNA Work for HH in Primary Production,livestock,0.691
+SNA Work for HH in Primary Production,mining & quarrying,0.0178
+SNA Work for HH in Primary Production,wood & fuel collection,0.2238
+SNA Work for HH in Primary Production,water collection,0.2505
+SNA Work for HH in Primary Production,"purchasing, selling, travelling",0.4695
+SNA Work for HH in Primary Production,Primary production nec,0.167
+SNA,Work for HH in Non-Primary Production,0.283333333
+SNA,Work for HH in Construction Activities,0.183333333
+SNA,Work for HH Providing Services for Income,0.616666667
+Non-SNA (Extended SNA),Provide Unpaid Services For Domestic Uses,2.666666667
+Non-SNA (Extended SNA),Provide Unpaid Care Giving Services,0.466666667
+Non-SNA (Extended SNA),Provide Unpaid Community Services,0.35
+Learning,Education,0.51567
+Learning,Homework,0.35717
+Learning,Additional study,0.041
+Learning,Career training,0.0248
+Learning,Other related learning activities,0.0248
+Learning,Travel,0.1085
+Learning,Learning nec,0.0167
+Non-Productive Activities,Social and Cultural,1.166666667
+Non-Productive Activities,Attending / Visiting Cultural Places/Event,0.033333333
+Non-Productive Activities,Hobbies / Games,0.383333333
+Non-Productive Activities,Indoor/Outdoor Sports,0.083333333
+Non-Productive Activities,Mass Media,0.333333333
+Non-Productive Activities,Personal Care and Maintenance,13.3

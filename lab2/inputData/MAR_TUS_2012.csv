@@ -1,0 +1,43 @@
+tier1,tier2,hours_per_day
+Sleep,Sleep,8.35
+Meals,Meals (excluding receptions or ceremonies),1.33333333
+Meals,Meals (receptions or ceremonies),0.11666667
+Meals,Tasks related to meals,0.01666667
+Personal care,Personal care,0.73333333
+Personal care,Medical care,0.03333333
+Personal care,Other private activities,0.01666667
+Professional work,Main professional work (excluding agriculture),2.28333333
+Professional work,Agriculture,0.88333333
+Professional work,Secondary professional activities,0.13333333
+Professional work,Job search,0.03333333
+Education and training,School activities and studying,0.38333333
+Education and training,Educaton and training (excluding formal education),0.01666667
+Education and training,Other forms of apprenticeship,0.01666667
+Education and training,Related tasks and travel,0.06666667
+Housework,Cooking,1.41666667
+Housework,Cleaning interior of home,0.38333333
+Housework,Laundry and clothing care,0.26666667
+Housework,Cleaning exterior of home,0
+Housework,Purchasing goods and services,0.3
+Housework,Provision of water,0.05
+Housework,"Provision of wood or gas, or similar",0.03333333
+Housework,Other activities related to housework,0.06666667
+Housework,Administrative services,0.03333333
+Care for household members,Care for household children (less than 15 years),0.23333333
+Care for household members,Instruction and playing games,0.08333333
+Care for household members,Medical care for children (less than 15 years),0.01666667
+Care for household members,Care for household adults (more than 15 years),0.03333333
+Hobbies,Practicing a sport or game,0.05
+Hobbies,"Excursions, hikes, travel and outings",0.6
+Hobbies,"Reading, media and use of computer and internet",2.43333333
+Hobbies,"Assisting at spectacles, parties, expositions",0.01666667
+Hobbies,"Practicing a game, musical instrument, or dance",0.05
+Hobbies,Semi-hobbies,0.01666667
+Hobbies,No activity,0.63333333
+Hobbies,Rest,0.71666667
+Social life,Receptions and visits,0.45
+Social life,"Conversations, telephone communication, email, discussions, etc",0.63333333
+Social life,"Civil engagement, volunteering, community activity and aid",0.01666667
+Social life,Aid and volunteering for family and friends,0.06666667
+Religious practice,Religious practice,0.91666667
+Religious practice,Travel related to religious practice,0.08333333

@@ -1,0 +1,21 @@
+tier1,tier2,hours_per_day,male_hours_per_day,female_hours_per_day
+SNA work,work activities in the production of goods and services included in the System of National Accounts (except work in production of goods for own final use by households),3.324414833,4.43314061,2.260862337
+SNA work,work activities in production of goods for own final use by households,0.086405184,0.11427598,0.059969349
+SNA work,activities related to work activities included in the System of National Accounts,0.4589,0.6019,0.316983333
+Non-SNA work,activities supplying food to household members on an unpaid basis,0.897950847,0.243126036,1.530083672
+Non-SNA work,unpaid wardrobe maintenance activities for household members,0.2737,0.066733333,0.475
+Non-SNA work,cleaning and maintenance activities for the home on an unpaid basis,0.6401,0.347191667,0.919066667
+Non-SNA work,purchasing activities and household administration on an unpaid basis,0.206926522,0.192262935,0.217086838
+Non-SNA work,"unpaid care activities with children under 5 belonging to the household,",0.192066667,0.14175,0.241783333
+Non-SNA work,unpaid physical care activities for household members,0.160416667,0.027233333,0.289116667
+Non-SNA work,unpaid activities to support people in the household,0.080417642,0.042204105,0.117652216
+Non-SNA work,volunteer activities,0.069424443,0.046797765,0.091222071
+Non-SNA work,travelling related to work activities not included in the System of National Accounts,0.0559,0.0533,0.058933333
+Non-SNA work,passive childcare = 24 - sum of all other times,0.107814133,0.047522994,0.189655587
+Personal activities,education,0.797630727,0.831807688,0.76506507
+Personal activities,social life activities,1.8626,1.95195,1.77975
+Personal activities,"cultural life activities, hobbies or sports",0.2783,0.39375,0.165733333
+Personal activities,media use,3.492154593,3.603774725,3.369547223
+Personal activities,personal care activities,10.66,10.56638889,10.73336172
+Personal activities,religious activities,0.2068,0.1485,0.268683333
+Personal activities,activities related to personal activities,0.148077743,0.146389939,0.150443921

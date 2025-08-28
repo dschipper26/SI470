@@ -1,0 +1,24 @@
+tier1,tier2,Rural_Male,Rural_Female,Rural_Total,Urban_Male,Urban_Female,Urban_Total,Total_Male,Total_Female,hours_per_day
+Working hours and work-related hours,Working hours and work-related hours,4.68,2.97,3.65,4.62,3.28,3.82,4.63,3.2,3.77
+Training (study),Training (study),0.55,0.38,0.45,0.62,0.52,0.57,0.6,0.48,0.53
+"Housekeeping, including childcare","cooking, washing dishes",0.25,1.83,1.18,0.32,1.53,1.03,0.3,1.6,1.08
+"Housekeeping, including childcare",housekeeping work,0.48,0.7,0.62,0.3,0.58,0.47,0.35,0.62,0.5
+"Housekeeping, including childcare","care of clothes, linen, shoes",0.02,0.35,0.22,0.02,0.3,0.18,0.02,0.32,0.2
+"Housekeeping, including childcare","gardening, horticulture and pet grooming",1.03,1.17,1.12,0.33,0.4,0.38,0.52,0.6,0.57
+"Housekeeping, including childcare",construction and repair,0.13,0.03,0.07,0.15,0.02,0.08,0.15,0.02,0.08
+"Housekeeping, including childcare",maintenance and repair of vehicles,0.25,0,0.1,0.15,0,0.07,0.17,0,0.07
+"Housekeeping, including childcare",buying goods and receiving services,0.15,0.25,0.22,0.27,0.45,0.37,0.23,0.4,0.33
+"Housekeeping, including childcare",childcare,0.12,0.38,0.28,0.2,0.58,0.42,0.18,0.53,0.38
+"Housekeeping, including childcare",other household activities,0.03,0.02,0.03,0.03,0.03,0.03,0.03,0.03,0.03
+"Housekeeping, including childcare",household mobility,0.25,0.37,0.32,0.37,0.52,0.45,0.33,0.48,0.42
+Free time,communication,0.55,0.67,0.63,0.7,0.73,0.72,0.67,0.72,0.7
+Free time,"visiting theaters, cinema, concerts, museums, libraries, sports and other entertainment events",0.03,0.02,0.02,0.05,0.05,0.05,0.03,0.05,0.03
+Free time,sports and active activities,0.42,0.23,0.3,0.52,0.37,0.42,0.5,0.32,0.4
+Free time,hobbies and games,0.43,0.18,0.28,0.62,0.25,0.4,0.57,0.23,0.37
+Free time,media,2.55,2.18,2.33,2.37,1.98,2.13,2.42,2.03,2.18
+Free time,social and religious activities,0.03,0.1,0.07,0.03,0.08,0.05,0.02,0.08,0.07
+Free time,other types of recreation,0.7,0.7,0.7,0.62,0.57,0.6,0.65,0.6,0.62
+Free time,movement related to spending free time,0.22,0.18,0.2,0.27,0.22,0.25,0.25,0.22,0.23
+Personal care,Personal care,10.82,10.93,10.88,11.1,11.13,11.12,11.03,11.08,11.05
+Helping other households,Helping other households,0.15,0.17,0.17,0.27,0.28,0.28,0.23,0.25,0.25
+Other costs of time (unknown),Other costs of time (unknown),0.15,0.18,0.17,0.1,0.12,0.12,0.12,0.13,0.13

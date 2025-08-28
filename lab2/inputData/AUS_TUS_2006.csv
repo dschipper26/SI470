@@ -1,0 +1,62 @@
+tier1,tier2,hours_per_day
+Personal care,Sleeping,8.52
+Personal care,Sleeplessness,0.02
+Personal care,Personal hygiene,0.82
+Personal care,Health care,0.1
+Personal care,Eating and drinking,1.48
+Personal care,Associated travel,0
+Personal care,Other,0.02
+Employment related,Main job,2.98
+Employment related,Other job,0.02
+Employment related,Unpaid work in family business or farm,0.02
+Employment related,Work breaks,0.02
+Employment related,Job Search,0.02
+Employment related,Associated travel,0.35
+Employment related,Other,0.03
+Education,Attendance at educational courses (excluding job related training),0.23
+Education,Job related training,0.02
+Education,Homework/study/research,0.18
+Education,Breaks at place of education,0
+Education,Associated travel,0.07
+Education,Other,0.02
+Domestic activities,Food and drink preparation/cleanup,0.82
+Domestic activities,Laundry and clothes care,0.28
+Domestic activities,Other housework,0.37
+Domestic activities,Grounds and animal care,0.37
+Domestic activities,Home maintenance,0.15
+Domestic activities,Household management,0.15
+Domestic activities,Associated travel,0.07
+Domestic activities,Other,0.07
+Child care,Care of children,0.25
+Child care,"Teaching, helping, reprimanding children",0.02
+Child care,"Playing, reading, talking with child",0.2
+Child care,Minding child,0.05
+Child care,Visiting child care establishment/school,0
+Child care,Associated travel,0.1
+Child care,Other,0.05
+Purchasing goods and services,Purchasing goods,0.38
+Purchasing goods and services,Purchasing services,0.08
+Purchasing goods and services,Associated travel,0.32
+Purchasing goods and services,Other,0.02
+Voluntary work and care,Support for adults,0.15
+Voluntary work and care,Unpaid voluntary work,0.07
+Voluntary work and care,Associated travel,0.05
+Voluntary work and care,Other,0.05
+Social and community interaction,Socialising,0.17
+Social and community interaction,Visiting entertainment and cultural venues,0.07
+Social and community interaction,Attendance at sports events,0.03
+Social and community interaction,Religious activities/ritual ceremonies,0.07
+Social and community interaction,Community participation,0.15
+Social and community interaction,Negative social activities,0
+Social and community interaction,Associated travel,0.2
+Social and community interaction,Other,0.03
+Recreation and leisure,Sport and outdoor activity,0.32
+Recreation and leisure,"Games, hobbies, arts, crafts",0.17
+Recreation and leisure,Reading,0.38
+Recreation and leisure,Audio/visual media,2.33
+Recreation and leisure,Attendance at recreational courses,0.02
+Recreation and leisure,Other free time,0.32
+Recreation and leisure,Talking (including phone) or writing/reading own correspondence,0.5
+Recreation and leisure,Associated travel,0.08
+Recreation and leisure,Other,0.08
+Undescribed,Undescribed,0.12

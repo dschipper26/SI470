@@ -1,0 +1,44 @@
+tier1,tier2,hours_per_day
+Physiological,Religious activities outside the house,0.0667
+Physiological,Religious activities at home,0.6667
+Physiological,Meals and drinks,1.3333
+Physiological,Personal care,0.6833
+Physiological,Rest and relaxation,0.8333
+Physiological,Bed rest due to sickeness,0.0833
+Physiological,Nap,0.6333
+Physiological,Night sleep,7.25
+Professional and training,Travel for studies/training,0.1667
+Professional and training,Preparing homework and training,0.2833
+Professional and training,Participating in courses and training,0.35
+Professional and training,Travel related to work,0.4333
+Professional and training,Breaks during work,0.1
+Professional and training,Searching for jobs,0.0333
+Professional and training,Working,2.75
+Domestic,Travel related to domestic work,0.2667
+Domestic,Care for dependent people,0.25
+Domestic,Shopping,0.1833
+Domestic,Monitor child's studies,0.0333
+Domestic,Pet care,0.0333
+Domestic,Garden maintenance,0.0333
+Domestic,House maintenance,0.0333
+Domestic,Laundry,0.2667
+Domestic,Cleaning the house,0.7
+Domestic,Dishes,0.3
+Domestic,Collect wood,0.0333
+Domestic,Collect water,0.0333
+Domestic,Preparing supplies,0.0333
+Domestic,Preparing meals,1.0833
+Social and volunteering activities,Conversations with household members,0.4833
+Social and volunteering activities,Visits to people outside the household,0.55
+Social and volunteering activities,Meetings in public spaces,0.1333
+Social and volunteering activities,Community activities and volunteering,0.0833
+Social and volunteering activities,Other social activities,0.1
+Leisure,Reading,0.0667
+Leisure,Listening to the radio,0.05
+Leisure,Watching TV,2.1167
+Leisure,Games and artistic activities,0.1
+Leisure,Outdoor activities and sports,0.1333
+Leisure,Cinema and museums,0.1167
+Leisure,Cafes and hotels,0.3333
+Other travel,Other travel,0.65
+Other,Other,0.1333

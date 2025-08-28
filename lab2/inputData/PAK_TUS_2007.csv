@@ -1,0 +1,124 @@
+tier1,tier2,hours_per_day
+Employment for establishments,Wage & salary employment,0.65564834
+Employment for establishments,"Out workers, contractors for establishment",0.002832468
+Employment for establishments,Home-based work for an establishment,0.000770575
+Employment for establishments,Paid domestic work,0.024849091
+Employment for establishments,Unpaid employment in establishment,0.019505401
+Employment for establishments,Work as employer/self-employed,0.11319847
+Employment for establishments,Construction work/infrastructure,0.038343903
+Employment for establishments,"Work in apprenticeship, in ternship & related activities",0.020967695
+Employment for establishments,Short breaks from work,0.012660308
+Employment for establishments,Seeking employment & related activities,0.007181106
+Employment for establishments,Travel to/ from work seek employment in establishment,0.147396015
+Employment for establishments,Waiting for employment for establishment,0.001450387
+Employment for establishments,Employment in establishment n.e.c,0.003247708
+Primary production activities not for establishments,Crop farming & market gardening,0.595173728
+Primary production activities not for establishments,Kitchen gardening-backyard cultivation,0.002595923
+Primary production activities not for establishments,Tending animals & fish farming,0.383266887
+Primary production activities not for establishments,"Hunting , fishing,  gathering wild products",0.012534875
+Primary production activities not for establishments,"Collecting fuel, fire wood or dung",0.035948746
+Primary production activities not for establishments,"Digging, stone cutting, splitting  & carving",0.001742657
+Primary production activities not for establishments,Collecting water,0.029235979
+Primary production activities not for establishments,Purchase & sale primary production,0.000695413
+Primary production activities not for establishments,Sales of products from primary production,0.003030169
+Primary production activities not for establishments,Travel related to primary production,0.198451584
+Primary production activities not for establishments,Waiting for primary production not for establishment,0.000274989
+Primary production activities not for establishments,Primary production n.e.c,0.014408115
+Services for income and other production of goods not for establishments,Food processing & preservation activities,0.002247034
+Services for income and other production of goods not for establishments,Preparing food & beverage,0.010679263
+Services for income and other production of goods not for establishments,"Selling food & beverage, baking, confectionery",0.018689083
+Services for income and other production of goods not for establishments,Making & selling textiles & craft,0.168893147
+Services for income and other production of goods not for establishments,Leather and other craft,0.042463965
+Services for income and other production of goods not for establishments,Building & extension of dwelling,0.133703968
+Services for income and other production of goods not for establishments,Petty trading & door-to-door vending,0.26176077
+Services for income and other production of goods not for establishments,"Fitting, maintaining tools & machinery",0.035959378
+Services for income and other production of goods not for establishments,Provision of services for income,0.089198461
+Services for income and other production of goods not for establishments,Travel related to non-establishment,0.100211756
+Services for income and other production of goods not for establishments,Waiting for services for income & other production not for establishment,0.000392519
+Services for income and other production of goods not for establishments,Services for income non-establishment production n.e.c,0.074541755
+"Household maintenance, management and shopping for own household",Preparing food and cooking,0.075184774
+"Household maintenance, management and shopping for own household","Preparing food (e.g. grinding, milling etc)",0.464994535
+"Household maintenance, management and shopping for own household","Cooking, making drinks & serving",0.537433148
+"Household maintenance, management and shopping for own household",Cleaning up after meal,0.261849646
+"Household maintenance, management and shopping for own household",Cleaning & upkeep of dwelling,0.379804081
+"Household maintenance, management and shopping for own household",Care of textiles,0.214360609
+"Household maintenance, management and shopping for own household",Shopping for personal & household goods,0.058860247
+"Household maintenance, management and shopping for own household",Accessing government services,0.000851646
+"Household maintenance, management and shopping for own household",Waiting to access government services,0.000501875
+"Household maintenance, management and shopping for own household",Household management: planning & supervising,0.007964678
+"Household maintenance, management and shopping for own household",Do it yourself home improvements & maintenance,0.027070873
+"Household maintenance, management and shopping for own household",Pet care,0.004324911
+"Household maintenance, management and shopping for own household",Travel related to household maintenance,0.072731571
+"Household maintenance, management and shopping for own household","Household maintenance, management n.e.c",0.006580818
+"Household maintenance, management and shopping for own household",Chopping wood for heating  not for cooking,0.004710686
+"Care for children, the sick, elderly and disabled for own household",Physical care of children,0.450559941
+"Care for children, the sick, elderly and disabled for own household",Teaching of household children: spontaneously,0.01177957
+"Care for children, the sick, elderly and disabled for own household",Accompany children to places,0.01557533
+"Care for children, the sick, elderly and disabled for own household",Physical care of sick or disabled adult,0.005809384
+"Care for children, the sick, elderly and disabled for own household",Physical care of elderly adult,0.009809239
+"Care for children, the sick, elderly and disabled for own household",Accompany sick & disabled,0.004476597
+"Care for children, the sick, elderly and disabled for own household",Accompanying elderly adults,0.000382822
+"Care for children, the sick, elderly and disabled for own household",Supervising children,0.032275934
+"Care for children, the sick, elderly and disabled for own household",Supervising sick & disabled adult,0.002257384
+"Care for children, the sick, elderly and disabled for own household",Supervising elderly adult,0.000713181
+"Care for children, the sick, elderly and disabled for own household",Travel related to care of children,0.003443932
+"Care for children, the sick, elderly and disabled for own household",Travel related to care of sick & disabled adult,0.002566613
+"Care for children, the sick, elderly and disabled for own household",Travel related to care of elderly adult,0.001286143
+"Care for children, the sick, elderly and disabled for own household",Waiting to care for own household members,0.000399999
+"Care for children, the sick, elderly and disabled for own household",Care of household member n.e.c,0.001663874
+Community services and help to other households,Community organized construction,0.000417061
+Community services and help to other households,Cleaning of classrooms mosque etc.,0.000101216
+Community services and help to other households,Community organized work,0.000649827
+Community services and help to other households,Cooking for school nutrition programme,1.38E-05
+Community services and help to other households,Volunteering with or for an organization,0.000301556
+Community services and help to other households,Participation in meetings of local & informal groups,0.00128719
+Community services and help to other households,Involvement in civic responsibilities,0.000419299
+Community services and help to other households,Caring for non-household children,0.001256969
+Community services and help to other households,Caring for non-household sick and disabled adult,0.001296579
+Community services and help to other households,Caring for non-household elderly adults,0.000337001
+Community services and help to other households,Other informal help to other households,0.004615866
+Community services and help to other households,Travel related to community services,0.005039396
+Community services and help to other households,Waiting for community services and to help to other households,1.44E-05
+Community services and help to other households,Community services n.e.c,0.010665544
+Learning,Generaleducation:School/college/university attendance,0.589794736
+Learning,Homework related to general education,0.266422044
+Learning,Non-formal education public ector,0.000275477
+Learning,Other non-formal education programs,0.000829409
+Learning,Additional study & courses,0.00307219
+Learning,Preparation for examination etc.,0.001681797
+Learning,Work-related training,0.009926466
+Learning,"Travel related to learning, examination",0.167191147
+Learning,Waiting for learning,4.83E-05
+Learning,Learning n.e.c,0.120389544
+Social and Cultural Activities,Participating in cultural activities,0.072779801
+Social and Cultural Activities,Participating in religious activities,0.139488384
+Social and Cultural Activities,Socializing with family or/and non-family,1.749543897
+Social and Cultural Activities,Socializing with family & non-family at public places,0.141864658
+Social and Cultural Activities,"Arts, making music, hobbies and related courses",0.000405391
+Social and Cultural Activities,Indoor & outdoor sports participation,0.042923275
+Social and Cultural Activities,Games & other pastime activities,0.214805861
+Social and Cultural Activities,"Spectator to sports, exhibitions, concerts",0.002502691
+Social and Cultural Activities,Travel related to social & cultural,0.400543953
+Social and Cultural Activities,Waiting for social & cultural activities,0.000165306
+Social and Cultural Activities,"Social, cultural & recreational activities n.e.c",0.002411654
+Mass media use,Reading other than newspaper & magazine,0.010127175
+Mass media use,Reading newspaper & magazine,0.022864841
+Mass media use,Watching TV & Video,0.768495011
+Mass media use,Listening to music/radio,0.032076076
+Mass media use,Accessing information by computer,0.012990035
+Mass media use,Visiting library,0.000483122
+Mass media use,Travel related to mass media use,0.003189564
+Mass media use,Waiting for mass media use,0
+Mass media use,Mass media use & entertainment n.e.c,0.000390199
+Personal care and self-maintenance,Sleep & related activities,8.766666667
+Personal care and self-maintenance,Lying down/rest related to illness,0.227830225
+Personal care and self-maintenance,Eating & drinking,1.3
+Personal care and self-maintenance,Personal hygience & health,1.15
+Personal care and self-maintenance,Receiving medical/personal care from professionals,0.008301647
+Personal care and self-maintenance,"Receiving medical/personal care from householdmember,",0.006346058
+Personal care and self-maintenance,Receiving medical/personal care from non-household non-professionals,0.000438024
+Personal care and self-maintenance,Waiting for medical/personal care,0.003654916
+Personal care and self-maintenance,"Doing nothing, rest & relaxation",1.119366452
+Personal care and self-maintenance,Individual religious practice & meditation,0.589166561
+Personal care and self-maintenance,Travel related to personal care & self-maintenance,0.047510462
+Personal care and self-maintenance,Personal care & self-maintenance n.e.c,0.048920959

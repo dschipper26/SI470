@@ -1,0 +1,26 @@
+tier1,tier2,hours_per_day,Female,Male,Rural,Urban
+Work,Works as employees (public/ private),2.25,1.017,3.367,1.583,2.667
+Work,Farming,0.117,0.05,0.167,0.2,0.05
+Work,Animal rearing,0.117,0.15,0.1,0.25,0.05
+Work,Fishing,0.083,0,0.15,0.117,0.067
+Work,"Weaving, sewing, text care",0.083,0.167,0.017,0.133,0.067
+Work,Own business work/employees,0.217,0.067,0.35,0.2,0.233
+Work,Commuting,0.167,0.067,0.267,0.133,0.2
+Household management & shopping,Buying/shopping,0.25,0.133,0.333,0.2,0.267
+Household management & shopping,Cooking,0.55,1.05,0.117,0.6,0.533
+Household management & shopping,"Domestic work (washing, cleaning)",0.583,1.133,0.067,0.583,0.567
+Care for children/adults/elderly,Care for children/adults/elderly,0.267,0.517,0.033,0.25,0.283
+Care for children/adults/elderly,Sitting with family,1.45,1.683,1.233,1.617,1.35
+Study or learning,School (also homework),0.85,0.85,0.867,0.95,0.8
+Study or learning,Student travel,0.05,0.05,0.05,0.05,0.05
+Cultural and social activities,Travel/journeying,0.25,0.167,0.317,0.25,0.25
+Cultural and social activities,Watching TV,2.1,2.267,1.95,1.983,2.183
+Cultural and social activities,Reading,0.217,0.233,0.183,0.2,0.217
+Cultural and social activities,Exercising,0.267,0.067,0.45,0.267,0.267
+Cultural and social activities,Social visit,1.117,1.017,1.2,1.15,1.1
+Cultural and social activities,Practicing hobbies,0.117,0.083,0.15,0.117,0.117
+Personal care,Eating time,1.167,1.217,1.117,1.2,1.133
+Personal care,Personal care,0.933,0.933,0.917,0.933,0.917
+Sleep & relaxation,Sleeping,9.667,9.883,9.45,9.733,9.617
+Religious practices,Prayer,1.067,1.1,1.033,1.233,0.95
+Other activities,Others,0.083,0.033,0.117,0.067,0.083

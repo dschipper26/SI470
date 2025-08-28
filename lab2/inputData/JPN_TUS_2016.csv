@@ -1,0 +1,21 @@
+tier1,tier2,hours_per_day
+Sleep,Sleep,7.616666667
+Personal care,Personal care,1.366666667
+Meals,Meals,1.683333333
+Communting to and from school or work,Communting to and from school or work,0.566666667
+Work,Work,3.733333333
+Schoolwork,Schoolwork,0.45
+Housework,Housework,1.45
+Caring or nursing,Caring or nursing,0.066666667
+Child care,Child care,0.266666667
+Shopping,Shopping,0.433333333
+Moving (excluding commuting),Moving (excluding commuting),0.483333333
+"Watching TV, listening to the radio, reading newspapers or magazines","Watching TV, listening to the radio, reading newspapers or magazines",2.3
+Rest and relaxation,Rest and relaxation,1.6
+"Learning, self-education, and training (excluding schoolwork)","Learning, self-education, and training (excluding schoolwork)",0.183333333
+Hobbies and amusements,Hobbies and amusements,0.766666667
+Sports,Sports,0.2
+Volunteer and social activities,Volunteer and social activities,0.066666667
+Social life,Social life,0.283333333
+Medical examination or treatment,Medical examination or treatment,0.133333333
+Other activities,Other activities,0.316666667

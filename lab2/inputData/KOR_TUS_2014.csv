@@ -1,0 +1,124 @@
+tier1,tier2,hours_per_day
+Personal Care Activities,Sleeping,7.966666667
+Personal Care Activities,Sleeplessness,0.016666667
+Personal Care Activities,Eating,1.433333333
+Personal Care Activities,Snacks and drinking,0.516666667
+Personal Care Activities,Personal medical care,0.016666667
+Personal Care Activities,Resting because of illness,0.016666667
+Personal Care Activities,Purchasing medical care service,0.05
+Personal Care Activities,Personal hygiene,0.983333333
+Personal Care Activities,"Dressing, grooming",0.216666667
+Personal Care Activities,Purchasing personal care services,0.016666667
+Personal Care Activities,Other personal care,0
+Employment,Main job,2.95
+Employment,Second job,0.016666667
+Employment,Unpaid work on family farm/fishery/forest,0.05
+Employment,"Unpaid work in family business (except agriculture, forestry and fishing)",0.083333333
+Employment,"Unpaid work in family for self-consumption (agriculture, forestry, fishing)",0.05
+Employment,Breaks,0.033333333
+Employment,Work-related training,0.016666667
+Employment,Other employment activities,0.066666667
+Employment,Job seeking,0.016666667
+Study,Classes and lectures,0.45
+Study,Breaks,0.016666667
+Study,Self study at school/university,0.066666667
+Study,School/University events,0.016666667
+Study,Other study at school/university,0.05
+Study,Private lessons,0.15
+Study,Homework,0.333333333
+Study,Other study outside school/university,0.05
+Study,Foreign language related study,0
+Study,Computer related education,0
+Study,Courses for licenses/skill for job,0
+Study,Other adults free time study,0
+Household Care,Meal preparation,0.383333333
+Household Care,Snack preparation/preserving,0.1
+Household Care,"Clearing table, washing dishes",0.25
+Household Care,Washing clothes,0.116666667
+Household Care,Care for family clothes and shoes,0.016666667
+Household Care,Purchase family clothes and shoes service,0
+Household Care,Cleaning,0.216666667
+Household Care,Organizing,0.15
+Household Care,Removing trash,0.016666667
+Household Care,Home/equipment repairs and purchasing services,0.016666667
+Household Care,Vehicle maintenance and purchasing services,0
+Household Care,Shop retail stores,0.183333333
+Household Care,Shop online stores,0.016666667
+Household Care,Purchase offline service,0
+Household Care,Purchase online service,0
+Household Care,Purchasing Social life/ Recreation related,0
+Household Care,Other leisure activities,0
+Household Care,keeping household accounts,0
+Household Care,Administrative service(Visiting bank),0.016666667
+Household Care,Other household management,0.016666667
+Household Care,Other home maintenance and purchasing services,0
+Household Care,Physical care of preschool children,0.133333333
+Household Care,Reading and playing,0.1
+Household Care,Other preschool child care,0.05
+Household Care,Physical care of school-age children,0
+Household Care,Teaching the child,0.016666667
+Household Care,Visiting school,0
+Household Care,Other student care,0.016666667
+Household Care,Spouse care,0.016666667
+Household Care,Parents and grand parents care,0
+Household Care,Family care n.e.c(ex. Relatives care),0.05
+Voluntary Work and Community Participation,Obligatory participation,0
+Voluntary Work and Community Participation,Education of ones children related activities,0
+Voluntary Work and Community Participation,Other participation,0
+Voluntary Work and Community Participation,Voluntary work for national or local events,0
+Voluntary Work and Community Participation,Voluntary work for socially neglected,0
+Voluntary Work and Community Participation,Voluntary work for victims of disaster,0
+Voluntary Work and Community Participation,Other voluntary work,0
+Voluntary Work and Community Participation,"Helping/doing favors for friends, neighbors",0.016666667
+Social Life / Recreation and Leisure,Face to face,0.5
+Social Life / Recreation and Leisure,Video or voice,0.133333333
+Social Life / Recreation and Leisure,Text / email,0.083333333
+Social Life / Recreation and Leisure,Telephone conversations,0
+Social Life / Recreation and Leisure,"Through the internet(internet chatting, e-mail)",0
+Social Life / Recreation and Leisure,Other social activities,0
+Social Life / Recreation and Leisure,Reading books,0.116666667
+Social Life / Recreation and Leisure,Reading newspapers,0.033333333
+Social Life / Recreation and Leisure,Reading magazines,0
+Social Life / Recreation and Leisure,Watching TV,1.916666667
+Social Life / Recreation and Leisure,Watching video,0.033333333
+Social Life / Recreation and Leisure,Listening to radio,0.016666667
+Social Life / Recreation and Leisure,Listing to audio,0.016666667
+Social Life / Recreation and Leisure,Internet search,0.216666667
+Social Life / Recreation and Leisure,Personal religious practice,0.066666667
+Social Life / Recreation and Leisure,Attend religious meetings / gatherings,0.083333333
+Social Life / Recreation and Leisure,Other religious activities,0.016666667
+Social Life / Recreation and Leisure,Movies/cinema,0.033333333
+Social Life / Recreation and Leisure,Concert/theater,0
+Social Life / Recreation and Leisure,Museum/exhibition,0
+Social Life / Recreation and Leisure,Sports event,0
+Social Life / Recreation and Leisure,Tour / drive,0.016666667
+Social Life / Recreation and Leisure,Other cultural/tourism activities,0.016666667
+Social Life / Recreation and Leisure,Walking,0.216666667
+Social Life / Recreation and Leisure,Hiking,0.05
+Social Life / Recreation and Leisure,Personal exercise,0.15
+Social Life / Recreation and Leisure,"Other sports (soccer, basketball, etc.)",0.066666667
+Social Life / Recreation and Leisure,Fishing/hunting,0.016666667
+Social Life / Recreation and Leisure,Other sports and outdoor activity,0.016666667
+Social Life / Recreation and Leisure,Other sports,0
+Social Life / Recreation and Leisure,Other outdoor activities,0
+Social Life / Recreation and Leisure,"Rituals (marriage, funeral, etc.)",0.016666667
+Social Life / Recreation and Leisure,Visiting a family grave/cutting the weeds around,0
+Social Life / Recreation and Leisure,Group game/play,0.066666667
+Social Life / Recreation and Leisure,Computer/mobile game,0.25
+Social Life / Recreation and Leisure,Personal hobby,0.033333333
+Social Life / Recreation and Leisure,Leisure learning,0.033333333
+Social Life / Recreation and Leisure,Drinking/partying,0.066666667
+Social Life / Recreation and Leisure,Smoking,0.016666667
+Social Life / Recreation and Leisure,Just resting,0.183333333
+Social Life / Recreation and Leisure,Other leisure activities,0.016666667
+Travel (By Purpose),Personal care,0.2
+Travel (By Purpose),Commuting,0.516666667
+Travel (By Purpose),Other employment related,0.166666667
+Travel (By Purpose),School and learning to move,0.166666667
+Travel (By Purpose),Household care related movement,0.133333333
+Travel (By Purpose),Family care related movement,0.066666667
+Travel (By Purpose),Voluntary work and community participation,0.016666667
+Travel (By Purpose),Social activity related movement,0.4
+Travel (By Purpose),Other movement,0.016666667
+Others,Filling in time use diary,0.3
+Others,Others,0

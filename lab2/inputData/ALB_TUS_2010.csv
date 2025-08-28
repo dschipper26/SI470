@@ -1,0 +1,29 @@
+tier1,tier2,hours_per_day
+paid work,paid work,2.68
+paid work,travel to/from work,0.42
+personal activities,sleeping,9.1
+personal activities,eating,2.1
+personal activities,personal hygiene,0.72
+unpaid work,"food preparation, dish washing",1.1
+unpaid work,cleaning and other upkeep,0.67
+unpaid work,"laundry, ironing, handicrafts and prod. Textiles",0.28
+unpaid work,"gardening, construction & repairs",0.22
+unpaid work,shopping and services,0.13
+unpaid work,child care,0.37
+unpaid work,adult care,0.03
+unpaid work,other unpaid work,0
+unpaid work,travel related to unpaid work,0.18
+study,study,0.83
+study,travel related to study,0.1
+free time,TV and video,1.82
+free time,socializing,0.65
+free time,reading,0.12
+free time,hobbies and games,0.2
+free time,sports,0.28
+free time,volunteer work and help,0.03
+free time,computing,0.15
+free time,entertainment,0
+free time,resting,1
+free time,other free time act.,0.15
+free time,travel related to free time,0.48
+other,other,0.07

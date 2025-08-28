@@ -1,0 +1,54 @@
+tier1,tier2,hours_per_day,Male,Female,Urban,Rural
+Economic activities for market,Primary activity,3.083,3.783,2.35,3.033,3.133
+Economic activities for market,Secondary activity 1,0.067,0.083,0.067,0.05,0.083
+Economic activities for market,Secondary activity 2,0,0,0,0,0
+Non-market economic activities,Agriculture,0.033,0,0,0,0
+Non-market economic activities,Processing of agricultural products for food,0.05,0.017,0.067,0.033,0.05
+Non-market economic activities,Go get water,0.117,0.033,0.2,0.083,0.15
+Non-market economic activities,Go get wood,0.033,0.017,0.05,0.017,0.05
+Non-market economic activities,Go to the mill,0.033,0,0.067,0.033,0.033
+Domestic activities,Dishes,0.133,0.033,0.25,0.133,0.133
+Domestic activities,Prepare meals for the home,0.733,0.117,1.433,0.717,0.767
+Domestic activities,Iron,0,0,0,0,0
+Domestic activities,Laundry,0.2,0.05,0.367,0.183,0.217
+Domestic activities,Childcare,0.267,0.033,0.5,0.283,0.233
+Domestic activities,"Adultcare (for adults, the disabled, the elderly)",0,0,0.017,0,0
+Domestic activities,House maintainance,0.383,0.15,0.65,0.4,0.367
+Domestic activities,Other maintainance,0.1,0.083,0.117,0.1,0.1
+Domestic activities,Market shopping,0.1,0.033,0.183,0.117,0.1
+Domestic activities,Administrative procedures,0,0,0,0,0
+Domestic activities,Other errands,0.083,0.117,0.067,0.083,0.083
+Social activities,Participation in associative meetings,0.017,0.017,0,0.017,0.017
+Social activities,Participation in religious activity,0.05,0.033,0.05,0.05,0.033
+Social activities,"Welcome/host parents, friends, neighbours",0.05,0.083,0.033,0.067,0.05
+Social activities,"Discuss, gossip, chatter",1.067,1.167,0.967,1.083,1.05
+Social activities,"Visit parents, friends, neighbours",0.167,0.217,0.117,0.167,0.183
+Social activities,"Ceremonies, funerals, baptisms, marriages",0.017,0.033,0.017,0.017,0.017
+Social activities,Pray,0.283,0.317,0.25,0.283,0.267
+Travel,Travel to or from work,0.333,0.417,0.217,0.233,0.4
+Travel,Travel for social and cultural activities,0,0,0,0,0
+Travel,Travel to or from school,0.233,0.25,0.217,0.25,0.217
+Travel,Other travel/displacement,0.383,0.45,0.3,0.383,0.383
+Leisure,Watch TV,0.383,0.433,0.333,0.667,0.117
+Leisure,Watch movies at the theatre,0,0,0,0.017,0
+Leisure,Play/games,0.467,0.55,0.35,0.367,0.55
+Leisure,Dance,0,0,0,0,0
+Leisure,Take a drink,0.033,0.05,0,0.017,0.033
+Leisure,Read,0.017,0.033,0.017,0.033,0.017
+Leisure,Play sports,0.017,0.017,0,0.017,0
+Leisure,Listen to the radio,0.25,0.367,0.133,0.283,0.233
+Study,Study at school,0.95,1.05,0.867,1.117,0.8
+Study,Study at home,0.267,0.317,0.2,0.317,0.2
+Study,"Read, write at home",0.017,0.017,0,0.017,0
+Physiological activities,Sleep,9.283,9.183,9.383,9.117,9.433
+Physiological activities,"Wash yourself, get dressed",0.8,0.767,0.817,0.833,0.767
+Physiological activities,"Rest, do nothing",1.833,1.95,1.7,1.683,1.967
+Physiological activities,Meals,1.05,1.05,1.05,0.967,1.133
+Physiological activities,Meals taken from outside,0.1,0.117,0.067,0.117,0.083
+Physiological activities,Personal care,0.017,0,0.017,0.017,0
+Communication,Make phone calls,0.017,0.017,0,0.017,0
+Communication,Receive phone calls,0.017,0.017,0.017,0.017,0
+Communication,Send/receive sms,0,0,0,0,0
+Communication,Surf the internet,0,0,0,0,0
+Other,Other specified activities,0.05,0.05,0.05,0.033,0.05
+Other,Not specified,0.05,0.05,0.05,0.05,0.05

@@ -1,0 +1,38 @@
+﻿tier1,tier2,hours_per_day,female_hours_per_day,male_hours_per_day
+Activities for the market and self-consumption goods,Work for the market,3.826886965,2.603230662,5.187737105
+Activities for the market and self-consumption goods,Moving to and from work,0.502489612,0.336705506,0.686861092
+Activities for the market and self-consumption goods,Job search,0.009616508,0.004464086,0.015346609
+Activities for the market and self-consumption goods,Production of goods for exclusive use of the home,0.223150269,0.210936225,0.236733727
+Unpaid domestic work for one's own household,Preparing and serving food,1.173899111,1.846431973,0.425963244
+Unpaid domestic work for one's own household,House cleaning,0.954144132,1.356393019,0.506795924
+Unpaid domestic work for one's own household,Cleaning and care of clothes and shoes,0.427209104,0.648151235,0.181495393
+Unpaid domestic work for one's own household,"Maintenance, installation and minor repairs to the home and other household goods",0.051765645,0.0124963,0.095437788
+Unpaid domestic work for one's own household,Shopping/purchases,0.240415235,0.285855361,0.189880454
+Unpaid domestic work for one's own household,Payments and procedures,0.062326322,0.064216769,0.060223921
+Unpaid domestic work for one's own household,Management and administration,0.128816594,0.128969547,0.128646493
+"Special care for household members due to chronic, temporary illness or disability","Special care for household members due to chronic, temporary illness or disability",0.196130296,0.26549866,0.118984494
+Care for household members from 0 to 5 years old,Care for household members from 0 to 5 years old,0.319246531,0.488077965,0.131486063
+Care for household members from 0 to 14 years old,Care for household members from 0 to 14 years old,1.027649132,1.485506848,0.518457348
+Caring for household members between 15 and 59 years old,Caring for household members between 15 and 59 years old,0.04965264,0.042672119,0.057415804
+Caring for household members aged 60 and over,Caring for household members aged 60 and over,0.163769187,0.181669186,0.143862276
+Supporting other households,"Housework (includes food preparation, house cleaning, laundry or ironing, and shoe cleaning) (for other households)",0.045342587,0.067206843,0.021026956
+Supporting other households,"Purchases, payments, procedures, repairs of that home (for other households)",0.008110991,0.007519163,0.008769175
+Supporting other households,"Care for people with special needs due to chronic, temporary illness or disability (for other households)",0.033678953,0.045652318,0.020363158
+Supporting other households,Caring for children under 6 years of age (for other households),0.064646706,0.094495971,0.031450803
+Supporting other households,Caring for people from 6 to 59 years old (for other households),0.027197411,0.036263562,0.017114782
+Supporting other households,Caring for people aged 60 and over (for other households),0.028037979,0.034359677,0.021007504
+Community and voluntary work,"Volunteer work in the Red Cross, nursing homes, home, DIF, hospitals, churches, Alcoholics Anonymous, political parties, etc.",0.018811826,0.018856789,0.018761822
+Community and voluntary work,"Work for the community such as tequio, slaughter, backhand, stewardship, patron saint festivities or planting trees, cleaning streets, rivers, markets, etc.",0.014118165,0.009845776,0.018869566
+Personal care,Sleep,7.540153859,7.598742429,7.474996459
+Personal care,Eat,1.253647837,1.287470606,1.216032928
+Personal care,Grooming,0.855198436,0.931468878,0.770376708
+Personal care,"Pray, meditate, rest",0.284293081,0.292395797,0.275281906
+Personal care,Health care,0.067631775,0.079169871,0.054800051
+Study activities,"Attend classes, take courses, or study",0.735299671,0.708533406,0.765066915
+Study activities,"Doing homework, school practice, or other study activity",0.21754321,0.22144783,0.213200811
+Study activities,Move to and from school,0.105738777,0.104423579,0.107201431
+Socializing and entertainment,Family and socializing,0.924858832,1.016158943,0.823322339
+Socializing and entertainment,"Attendance at cultural, sporting and entertainment events",0.1222891,0.109752554,0.136231218
+Socializing and entertainment,Participation in games and hobbies,0.114865441,0.076228089,0.157834733
+Socializing and entertainment,Sports and physical exercise,0.217560235,0.163618366,0.277549956
+Socializing and entertainment,Use of mass media,1.980618517,1.879264994,2.093335588
